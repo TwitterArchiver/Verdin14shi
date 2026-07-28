@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058934302315036873",
+    "created_at": "2026-05-25T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058937177908916578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058937177908916578",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058934302315036873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 未来无法想象就无法想象，重要的是自己的感受，怎样舒服就怎样来，好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058934285525307392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLN0vCb0AAmVRo.jpg",
+        "width": 520
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2058934285491650560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLN0u6aQAA39uk.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058934302315036873",
+        "created_at": "2026-05-25T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937177908916578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937177908916578",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058934302315036873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 未来无法想象就无法想象，重要的是自己的感受，怎样舒服就怎样来，好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058934285525307392",
+            "3_2058934285491650560"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2058934302315036873",
+        "created_at": "2026-05-25T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058934302315036873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hEBupysEU",
+              "end": 31,
+              "expanded_url": "https://x.com/senzhiwu/status/2058934302315036873/photo/1",
+              "media_key": "3_2058934285525307392",
+              "start": 8,
+              "url": "https://t.co/7hEBupysEU"
+            },
+            {
+              "display_url": "pic.x.com/7hEBupysEU",
+              "end": 31,
+              "expanded_url": "https://x.com/senzhiwu/status/2058934302315036873/photo/1",
+              "media_key": "3_2058934285491650560",
+              "start": 8,
+              "url": "https://t.co/7hEBupysEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058934302315036873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快撑不住了… https://t.co/7hEBupysEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 312,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 763
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜一个什么都不擅长的废物呜呜｜日常孤独缺爱ing｜喜欢一切可爱的东西｜生日2008｜mtx🏳️‍⚧️｜小证含糖中｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜稀饭@6mhzph｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "6mhzph"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 337,
+          "like_count": 2236,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 2106
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

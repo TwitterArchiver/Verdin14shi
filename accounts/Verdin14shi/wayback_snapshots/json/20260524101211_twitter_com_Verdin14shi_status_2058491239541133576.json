@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2057850984953692573",
+    "created_at": "2026-05-24T10:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058491239541133576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893750914571509760",
+          "start": 0,
+          "username": "CaroLimone233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058491239541133576",
+    "in_reply_to_user_id": "1893750914571509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057850984953692573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaroLimone233 按时吃药了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_2057850972844834816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI70jo0bwAA55IF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2057850984953692573",
+        "created_at": "2026-05-24T10:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058491239541133576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893750914571509760",
+              "start": 0,
+              "username": "CaroLimone233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058491239541133576",
+        "in_reply_to_user_id": "1893750914571509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057850984953692573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaroLimone233 按时吃药了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057850972844834816"
+          ]
+        },
+        "author_id": "1893750914571509760",
+        "conversation_id": "2057850984953692573",
+        "created_at": "2026-05-22T15:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057850984953692573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhJX9FHR69",
+              "end": 80,
+              "expanded_url": "https://x.com/CaroLimone233/status/2057850984953692573/photo/1",
+              "media_key": "3_2057850972844834816",
+              "start": 57,
+              "url": "https://t.co/FhJX9FHR69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057850984953692573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔…最近发现每天晚上睡前这大约2个小时的时间经常在焦虑失眠emm，或者白天做事情做到一半突然不知道我在做什么（？ https://t.co/FhJX9FHR69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 94,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 331
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T19:53:15.000Z",
+        "description": "社恐摩羯｜java爱好者｜Minecraft｜小游戏插件开发｜旅游｜美食｜玩宠物｜日常含糖ing",
+        "id": "1893750914571509760",
+        "location": "彼岸花园",
+        "name": "柠洛🍥 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039027366161485824/8_-MG19t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 39,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "username": "CaroLimone233",
+        "verified": true
+      }
+    ]
+  }
+}

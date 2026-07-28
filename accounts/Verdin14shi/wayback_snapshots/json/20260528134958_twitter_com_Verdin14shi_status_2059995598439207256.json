@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059995598439207256",
+    "created_at": "2026-05-28T13:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059995598439207256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2059891680699117741",
+          "start": 39,
+          "url": "https://t.co/XDYQVGt81N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059995598439207256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059891680699117741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这张图真的很美，没有一点色情内容，真的就是艺术性特别强，让人没有一点欲望…… https://t.co/XDYQVGt81N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_2059891664697827328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0jiYaIAA5_Kz.jpg",
+        "width": 1345
+      },
+      {
+        "height": 477,
+        "media_key": "3_2059891664840491008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0ji6bAAAJzWy.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059995598439207256",
+        "created_at": "2026-05-28T13:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995598439207256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2059891680699117741",
+              "start": 39,
+              "url": "https://t.co/XDYQVGt81N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059995598439207256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891680699117741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张图真的很美，没有一点色情内容，真的就是艺术性特别强，让人没有一点欲望…… https://t.co/XDYQVGt81N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059891664697827328",
+            "3_2059891664840491008"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059891680699117741",
+        "created_at": "2026-05-28T06:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891680699117741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt9kl3ySlI",
+              "end": 101,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059891680699117741/photo/1",
+              "media_key": "3_2059891664697827328",
+              "start": 78,
+              "url": "https://t.co/mt9kl3ySlI"
+            },
+            {
+              "display_url": "pic.x.com/mt9kl3ySlI",
+              "end": 101,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059891680699117741/photo/1",
+              "media_key": "3_2059891664840491008",
+              "start": 78,
+              "url": "https://t.co/mt9kl3ySlI"
+            },
+            {
+              "display_url": "x.com/Inky030/status…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Inky030/status/2059614963849916703",
+              "start": 102,
+              "url": "https://t.co/UNEagjW7OI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891680699117741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13397,
+          "like_count": 319,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059614963849916703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这图哪露了？到底是谁封建？我之前就说中国缺乏一场启蒙运动，你要不看看卢浮宫里这幅世界名画“自由引导人民”里这位手持1777查莱维尔燧发步枪的女性是咋穿的？ https://t.co/mt9kl3ySlI https://t.co/UNEagjW7OI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 506,
+          "like_count": 940,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1335
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059960193107271724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 3960,
+          "like_count": 39975,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 11087
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

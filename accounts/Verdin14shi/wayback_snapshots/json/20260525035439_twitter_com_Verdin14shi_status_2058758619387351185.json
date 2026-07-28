@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058693584883536106",
+    "created_at": "2026-05-25T03:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058758619387351185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363755659477491714",
+          "start": 0,
+          "username": "RxNANOSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058758619387351185",
+    "in_reply_to_user_id": "1363755659477491714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058693584883536106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxNANOSU 抱抱你……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058693584883536106",
+        "created_at": "2026-05-25T03:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058758619387351185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363755659477491714",
+              "start": 0,
+              "username": "RxNANOSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058758619387351185",
+        "in_reply_to_user_id": "1363755659477491714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058693584883536106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxNANOSU 抱抱你……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363755659477491714",
+        "conversation_id": "2058693584883536106",
+        "created_at": "2026-05-24T23:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058693584883536106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/hsn8086/status/2058393036011528667",
+              "start": 129,
+              "url": "https://t.co/looF0AQTpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058693584883536106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "思来想去，我有很多为什么想和我的父母说\n\n为什么当年老外婆过世，不让我见最后一面？\n\n为什么读小学被偷走午餐钱，不去找出他们，而是怨我？\n\n为什么在学校被同学欺负，被人诬陷，说了多少回，为什么不信我？\n\n为什么转了学，被人孤立，甚至言语侮辱，为什么不帮我？\n\n为什么当年少了三百块钱，就开始揍我？我说了不知道多少遍我没有偷，为什么还是不信我？\n\n为什么当年因为霸凌成绩不好睡眠不好，把我关房间轮番骂，为什么还是不信我？\n\n为什么当年自己精神状态出问题，去了多少医院，买了多少药，为了想最快治好自己，穷困潦倒，为什么觉得在骗？\n\n为什么自己没工作想尽办法挣钱，回家累一天连个夜宵都不让我煮，不让我点，也不让我吃，抄起扫帚来走我？\n\n…\n\n我也不想为什么了，因为你会发现这些为什么在他们眼中都是奇妙的为什么…\n\n那么中式教育你赢了，我也不想放那些聊天记录了，那会让我更窒息…\n\n你也想问为什么…不…我觉得那些为什么…终成困惑…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058393036011528667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "思来想去，我有很多为什么想和我的父母说\n\n为什么当年老外婆过世，不让我见最后一面？\n\n为什么读小学被偷走午餐钱，不去找出他们，而是怨我？\n\n为什么在学校被同学欺负，被人诬陷，说了多少回，为什么不信我？\n\n为什么转了学，被人孤立，甚至言语侮辱，为什么不帮我？ https://t.co/looF0AQTpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 164,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 511
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-22T07:41:16.000Z",
+        "description": "東/NANOSU，重度叹咖啡爱好者（谨防速子加入红茶）\n喜好：茶座☕️&速子🧪（欢喜冤家）/旅游/Kigurumi/音乐/炸猪排/🎴/🀄️\nDEBUFF：Rx&BZDs/重度睡眠焦虑\n出没：YIC/SZX/CSX/PVG/CAN/HKG/CJU\n欢迎同好扩列，或者咖啡痴找我聊天，面基随缘抓到请我吃饭谢谢（笑）",
+        "id": "1363755659477491714",
+        "location": "27时世界",
+        "name": "NANOSU",
+        "pinned_tweet_id": "2048567745428799649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363756616772845572/wb6SVkG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 2123,
+          "like_count": 14616,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 3099
+        },
+        "username": "RxNANOSU",
+        "verified": true
+      }
+    ]
+  }
+}

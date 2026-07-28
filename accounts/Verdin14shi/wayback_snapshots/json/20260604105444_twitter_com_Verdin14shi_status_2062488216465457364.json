@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062488214087340033"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "conversation_id": "2062415471677456873",
+    "created_at": "2026-06-04T10:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062488216465457364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QmnnBRdZKy",
+          "end": 38,
+          "expanded_url": "https://x.com/Verdin14shi/status/2062488216465457364/photo/1",
+          "media_key": "3_2062488214087340033",
+          "start": 15,
+          "url": "https://t.co/QmnnBRdZKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062488216465457364",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062415471677456873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi 我可以 https://t.co/QmnnBRdZKy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_2062488214087340033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9uGmobEAExeiC.jpg",
+        "width": 991
+      },
+      {
+        "height": 1137,
+        "media_key": "3_2062415467462135808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8r8MVaEAALKS9.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062488214087340033"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2062415471677456873",
+        "created_at": "2026-06-04T10:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062488216465457364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmnnBRdZKy",
+              "end": 38,
+              "expanded_url": "https://x.com/Verdin14shi/status/2062488216465457364/photo/1",
+              "media_key": "3_2062488214087340033",
+              "start": 15,
+              "url": "https://t.co/QmnnBRdZKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488216465457364",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062415471677456873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 我可以 https://t.co/QmnnBRdZKy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062415467462135808"
+          ]
+        },
+        "author_id": "1489034449199190017",
+        "conversation_id": "2062415471677456873",
+        "created_at": "2026-06-04T06:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062415471677456873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQi8NFCm6Q",
+              "end": 34,
+              "expanded_url": "https://x.com/Pigeon_Yi/status/2062415471677456873/photo/1",
+              "media_key": "3_2062415467462135808",
+              "start": 11,
+              "url": "https://t.co/EQi8NFCm6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062415471677456873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1991,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅钱都不让老子付是吧 https://t.co/EQi8NFCm6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 519,
+          "like_count": 943,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1384
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 874,
+          "like_count": 9206,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3238
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

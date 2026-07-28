@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059938290976104572",
+    "created_at": "2026-05-28T15:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060018002163106214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3302809349",
+          "start": 0,
+          "username": "elpwc"
+        },
+        {
+          "end": 20,
+          "id": "1578410350537736192",
+          "start": 7,
+          "username": "KawaiOchaken"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060018002163106214",
+    "in_reply_to_user_id": "3302809349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059990889427329414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elpwc @KawaiOchaken 爱来自中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059938290976104572",
+        "created_at": "2026-05-28T15:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060018002163106214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3302809349",
+              "start": 0,
+              "username": "elpwc"
+            },
+            {
+              "end": 20,
+              "id": "1578410350537736192",
+              "start": 7,
+              "username": "KawaiOchaken"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060018002163106214",
+        "in_reply_to_user_id": "3302809349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059990889427329414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elpwc @KawaiOchaken 爱来自中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3302809349",
+        "conversation_id": "2059938290976104572",
+        "created_at": "2026-05-28T13:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059990889427329414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578410350537736192",
+              "start": 0,
+              "username": "KawaiOchaken"
+            }
+          ],
+          "urls": [
+            {
+              "description": "拨测(boce.com)提供网站测速、宽带网速测试、Ping测速、DNS测速、IPv6测试等工具，支持ICP备案查询与Whois信息查询，可全方位检测网络状态、站点访问质量与域名相关信息，覆盖国内外海量高性能节点，测速精准、稳定、快速，助力用户全面了解网络状态。",
+              "display_url": "boce.com",
+              "end": 37,
+              "expanded_url": "https://www.boce.com/",
+              "start": 14,
+              "status": 200,
+              "title": "拨测 - 网站测速_网速测试_宽带测速_Ping测速_DNS测速_IPv6测试_ICP备案查询_Whois查询",
+              "unwound_url": "https://www.boce.com/",
+              "url": "https://t.co/oyQjFJzFVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059990889427329414",
+        "in_reply_to_user_id": "1578410350537736192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1219,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976624007999833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiOchaken https://t.co/oyQjFJzFVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 526,
+          "like_count": 946,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1349
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-29T13:31:42.000Z",
+        "description": "雑多垢・旅行と聖地巡礼、そして趣味で地理/鉄道系サイト開発をやってる就活に迫られる20代・\n語学 / ラブライブ / ゆるキャン△ / ブルアカ ・\nmaimaiDX全国都道府県行脚41/47 / 駅メモ / リプDMお気軽に / ヲタ芸垢→@elpwc_w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 121,
+                "username": "elpwc_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elpwc.com",
+                "end": 23,
+                "expanded_url": "https://www.elpwc.com/",
+                "start": 0,
+                "url": "https://t.co/ZVaEZZWpzd"
+              }
+            ]
+          }
+        },
+        "id": "3302809349",
+        "location": "?",
+        "name": "うに",
+        "pinned_tweet_id": "1941055887369711859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451875383121379333/l4Lyqu9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 2009,
+          "like_count": 116455,
+          "listed_count": 6,
+          "media_count": 6164,
+          "tweet_count": 28653
+        },
+        "url": "https://t.co/ZVaEZZWpzd",
+        "username": "elpwc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T15:42:21.000Z",
+        "description": "我来到这里只作两件事：晒茶犬和嚼泡泡糖。我现在已经没有泡泡糖了。",
+        "id": "1578410350537736192",
+        "location": "正在行驶的塔奇克马驾驶室",
+        "name": "𝕆𝕔𝕙𝕒𝕜𝕖𝕟 𝕊𝕡𝕣𝕖𝕒𝕕𝕖𝕣",
+        "pinned_tweet_id": "1847204843565302256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578410865174646785/wIkBoGdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 703,
+          "like_count": 13092,
+          "listed_count": 2,
+          "media_count": 1591,
+          "tweet_count": 12138
+        },
+        "username": "KawaiOchaken",
+        "verified": false
+      }
+    ]
+  }
+}

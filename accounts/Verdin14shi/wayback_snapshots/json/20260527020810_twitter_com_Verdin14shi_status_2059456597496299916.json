@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059147325260628350",
+    "created_at": "2026-05-27T02:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059456597496299916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        },
+        {
+          "end": 24,
+          "id": "1694192552814243840",
+          "start": 14,
+          "username": "Rei102rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059456597496299916",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059456447700988387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 @Rei102rei ？我看不懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059147325260628350",
+        "created_at": "2026-05-27T02:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456597496299916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            },
+            {
+              "end": 24,
+              "id": "1694192552814243840",
+              "start": 14,
+              "username": "Rei102rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456597496299916",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456447700988387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 @Rei102rei ？我看不懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2059147325260628350",
+        "created_at": "2026-05-27T02:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456447700988387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            },
+            {
+              "end": 23,
+              "id": "1694192552814243840",
+              "start": 13,
+              "username": "Rei102rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456447700988387",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456098382606542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi @Rei102rei 東亞棄兒來的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 422,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1109
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "以虛｜ 你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "江西南昌市青山湖區上坊路43號｜上海市徐匯區宛平南路600號",
+        "name": "波之由利以·乃禮都自",
+        "pinned_tweet_id": "2057111325512527946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054040143078817792/LMGFa2Kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 80,
+          "like_count": 25814,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 10194
+        },
+        "username": "patchouli608",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-23T03:39:22.000Z",
+        "description": "楽しく出来れば💪🏻でも勝ちたい欲もある😏20⬆️",
+        "id": "1694192552814243840",
+        "name": "れい",
+        "pinned_tweet_id": "1818048831717622048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538481977294848/fPcN1sIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 59,
+          "like_count": 2759,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 880
+        },
+        "username": "Rei102rei",
+        "verified": false
+      }
+    ]
+  }
+}

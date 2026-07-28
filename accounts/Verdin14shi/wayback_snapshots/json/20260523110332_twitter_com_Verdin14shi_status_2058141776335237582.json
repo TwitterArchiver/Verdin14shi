@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058141196799946855",
+    "created_at": "2026-05-23T11:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058141776335237582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058141776335237582",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058141196799946855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 那就不要贴标签哦宝宝，它会成为自己无形固定的牢笼。自己就是自己的标签，想要笼子有多大就多大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058141196799946855",
+        "created_at": "2026-05-23T11:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058141776335237582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058141776335237582",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058141196799946855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 那就不要贴标签哦宝宝，它会成为自己无形固定的牢笼。自己就是自己的标签，想要笼子有多大就多大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890717486343233536",
+        "conversation_id": "2058141196799946855",
+        "created_at": "2026-05-23T11:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058141196799946855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058141196799946855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实窝有些害怕承认mtf这一个事情，感觉没有被标签定义还是更安心一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "随机出现/116years 09.8.1/普通高2生/物化生/intp/5w4or9w8/精神状态努力维持💩/adhd干预治疗中…/在家自由度高/🏳️‍⚧️无证偷吃（）/会互fo/(回避型依恋…)/cat/like化学/试图学习C++/computer-related/VRChat/l4d2like！❤️‍🔥/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "pinned_tweet_id": "2056712470803443919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 135,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

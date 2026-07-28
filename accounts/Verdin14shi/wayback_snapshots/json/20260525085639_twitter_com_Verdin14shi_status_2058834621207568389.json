@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058752433963315439",
+    "created_at": "2026-05-25T08:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058834621207568389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1422039028539355142",
+          "start": 0,
+          "username": "bebigpig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058834621207568389",
+    "in_reply_to_user_id": "1422039028539355142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058752433963315439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bebigpig 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058752433963315439",
+        "created_at": "2026-05-25T08:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058834621207568389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422039028539355142",
+              "start": 0,
+              "username": "bebigpig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058834621207568389",
+        "in_reply_to_user_id": "1422039028539355142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058752433963315439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bebigpig 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422039028539355142",
+        "conversation_id": "2058752433963315439",
+        "created_at": "2026-05-25T03:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058752433963315439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058752433963315439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1960,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天能破1000吗？\n\n到底能不能？\n\n就差你了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 251,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 649
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T03:38:28.000Z",
+        "description": "wizard",
+        "id": "1422039028539355142",
+        "location": "Los Angeles, CA",
+        "name": "BigPig",
+        "pinned_tweet_id": "2058811058241020248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861560651136802822/Xne-1SQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 676,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 803
+        },
+        "username": "bebigpig",
+        "verified": true
+      }
+    ]
+  }
+}

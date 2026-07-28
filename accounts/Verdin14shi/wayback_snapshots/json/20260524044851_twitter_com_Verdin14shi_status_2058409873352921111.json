@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058402246812156372",
+    "created_at": "2026-05-24T04:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058409873352921111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878480066088402944",
+          "start": 0,
+          "username": "cjfx1892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058409873352921111",
+    "in_reply_to_user_id": "1878480066088402944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058402246812156372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjfx1892 Bro为什么不回关我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058402237802815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDp7e0bIAAhd5g.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058402246812156372",
+        "created_at": "2026-05-24T04:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058409873352921111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878480066088402944",
+              "start": 0,
+              "username": "cjfx1892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058409873352921111",
+        "in_reply_to_user_id": "1878480066088402944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058402246812156372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjfx1892 Bro为什么不回关我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058402237802815488"
+          ]
+        },
+        "author_id": "1878480066088402944",
+        "conversation_id": "2058402246812156372",
+        "created_at": "2026-05-24T04:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058402246812156372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l20naOXBpD",
+              "end": 23,
+              "expanded_url": "https://x.com/cjfx1892/status/2058402246812156372/photo/1",
+              "media_key": "3_2058402237802815488",
+              "start": 0,
+              "url": "https://t.co/l20naOXBpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058402246812156372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l20naOXBpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "新加坡",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 223
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T16:33:09.000Z",
+        "description": "電子知能障害。",
+        "id": "1878480066088402944",
+        "location": "The earth ",
+        "name": "林檎斎主人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878484132885680128/3aVNGZPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 57,
+          "like_count": 2214,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1414
+        },
+        "username": "cjfx1892",
+        "verified": false
+      }
+    ]
+  }
+}

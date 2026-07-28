@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2060053193321574416",
+    "created_at": "2026-05-29T08:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060271055026180202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482784297962643456",
+          "start": 0,
+          "username": "nanawdywfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060271055026180202",
+    "in_reply_to_user_id": "1482784297962643456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060053193321574416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanawdywfm 加油我的朋友，我相信你能挺过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2060053193321574416",
+        "created_at": "2026-05-29T08:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060271055026180202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482784297962643456",
+              "start": 0,
+              "username": "nanawdywfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060271055026180202",
+        "in_reply_to_user_id": "1482784297962643456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060053193321574416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanawdywfm 加油我的朋友，我相信你能挺过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482784297962643456",
+        "conversation_id": "2060053193321574416",
+        "created_at": "2026-05-28T17:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060053193321574416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060053193321574416",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 92946,
+          "like_count": 1914,
+          "quote_count": 14,
+          "reply_count": 78,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "puta q pariu, descobri q minha mae ta com cancer, minha vo morreu, e minha namorada tentou smt, tudo em menos de 30 min"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 525,
+          "like_count": 948,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1365
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T18:39:17.000Z",
+        "description": "",
+        "id": "1482784297962643456",
+        "name": "nana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025991830190354432/qNoU6541_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 58,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "nanawdywfm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058487183900815474",
+    "created_at": "2026-05-24T10:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058489972055998630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885389199760908288",
+          "start": 0,
+          "username": "yking9494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058489972055998630",
+    "in_reply_to_user_id": "1885389199760908288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058487183900815474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yking9494 攻击力有待提高……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2058487165752147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE3K8FbgAAL0GB.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058487165781438464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE3K8MacAANSM7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058487183900815474",
+        "created_at": "2026-05-24T10:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058489972055998630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885389199760908288",
+              "start": 0,
+              "username": "yking9494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058489972055998630",
+        "in_reply_to_user_id": "1885389199760908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058487183900815474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yking9494 攻击力有待提高……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058487165752147968",
+            "3_2058487165781438464"
+          ]
+        },
+        "author_id": "1885389199760908288",
+        "conversation_id": "2058487183900815474",
+        "created_at": "2026-05-24T09:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058487183900815474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoF8HNRlE5",
+              "end": 66,
+              "expanded_url": "https://x.com/yking9494/status/2058487183900815474/photo/1",
+              "media_key": "3_2058487165752147968",
+              "start": 43,
+              "url": "https://t.co/LoF8HNRlE5"
+            },
+            {
+              "display_url": "pic.x.com/LoF8HNRlE5",
+              "end": 66,
+              "expanded_url": "https://x.com/yking9494/status/2058487183900815474/photo/1",
+              "media_key": "3_2058487165781438464",
+              "start": 43,
+              "url": "https://t.co/LoF8HNRlE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058487183900815474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲你两实话句还跟我急眼了，巴不得所有男的围着你转是吧，我又不是你爹没有惯着你的义务😂 https://t.co/LoF8HNRlE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 91,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 324
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T18:06:36.000Z",
+        "description": "我的语言就是这么刻薄，如何呢？",
+        "id": "1885389199760908288",
+        "location": "江苏",
+        "name": "月yy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055083945730138112/ScDqchgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 14,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 509
+        },
+        "username": "yking9494",
+        "verified": true
+      }
+    ]
+  }
+}

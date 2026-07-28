@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059157785502536051",
+    "created_at": "2026-05-26T07:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059179357604909125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1740297238239481856",
+          "start": 0,
+          "username": "bibisister0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059179357604909125",
+    "in_reply_to_user_id": "1740297238239481856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059157785502536051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibisister0508 来吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059157776857968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOZFpIaMAAmpBz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059157785502536051",
+        "created_at": "2026-05-26T07:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059179357604909125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1740297238239481856",
+              "start": 0,
+              "username": "bibisister0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059179357604909125",
+        "in_reply_to_user_id": "1740297238239481856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059157785502536051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibisister0508 来吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059157776857968640"
+          ]
+        },
+        "author_id": "1740297238239481856",
+        "conversation_id": "2059157785502536051",
+        "created_at": "2026-05-26T06:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059157785502536051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MT9RTGJ4Is",
+              "end": 90,
+              "expanded_url": "https://x.com/bibisister0508/status/2059157785502536051/photo/1",
+              "media_key": "3_2059157776857968640",
+              "start": 67,
+              "url": "https://t.co/MT9RTGJ4Is"
+            },
+            {
+              "display_url": "x.com/bibisister0508…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/bibisister0508/status/2058775738468520254",
+              "start": 91,
+              "url": "https://t.co/CCDaCMH86Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059157785502536051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1361,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058775738468520254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粉丝将近过万 （还有850😁)\n\n感谢各位A8A9A10的大佬关注 ！\n\n想让一姐回关的，直接关注，评论区留言就就可以，不用私信 ！ https://t.co/MT9RTGJ4Is https://t.co/CCDaCMH86Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 351,
+          "like_count": 584,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 949
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-28T09:03:13.000Z",
+        "description": "TG 群✉️:  https://t.co/Oegu1T0W0E |  build @bibi_foundation  | BitgetWallet Card VIP大使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "bibi_foundation"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BIBI_Global",
+                "end": 32,
+                "expanded_url": "https://t.me/BIBI_Global",
+                "start": 9,
+                "url": "https://t.co/Oegu1T0W0E"
+              }
+            ]
+          }
+        },
+        "id": "1740297238239481856",
+        "name": "BIBI一姐（重开版)",
+        "pinned_tweet_id": "2018091025072566487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779123745610735616/GTO5QHKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 4197,
+          "like_count": 15466,
+          "listed_count": 37,
+          "media_count": 3464,
+          "tweet_count": 35713
+        },
+        "username": "bibisister0508",
+        "verified": true
+      }
+    ]
+  }
+}

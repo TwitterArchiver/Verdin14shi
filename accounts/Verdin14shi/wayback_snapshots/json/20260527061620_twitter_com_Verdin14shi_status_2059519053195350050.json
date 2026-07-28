@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059519053195350050",
+    "created_at": "2026-05-27T06:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059519053195350050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaomi/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Xiaomi/status/2058880777509613953",
+          "start": 4,
+          "url": "https://t.co/k4JDIKCaVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059519053195350050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058880777509613953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和一位 https://t.co/k4JDIKCaVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4100,
+        "height": 1080,
+        "media_key": "13_2058633098141507584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058633098141507584/img/5ri_9yeVzDrloidi.jpg",
+        "public_metrics": {
+          "view_count": 725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058633098141507584/vid/avc1/318x270/3aFG9tp_g49MOl81.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058633098141507584/vid/avc1/424x360/hZv50XehUttMLZgZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058633098141507584/vid/avc1/848x720/TLTEWAHEAOdXmIbv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058633098141507584/pl/EiN8TE_fp_lzcQrT.m3u8?tag=14"
+          }
+        ],
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059519053195350050",
+        "created_at": "2026-05-27T06:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059519053195350050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaomi/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Xiaomi/status/2058880777509613953",
+              "start": 4,
+              "url": "https://t.co/k4JDIKCaVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059519053195350050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058880777509613953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和一位 https://t.co/k4JDIKCaVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058633098141507584"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2058880764129808662",
+        "created_at": "2026-05-25T12:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058880777509613953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVD9DzJf2E",
+              "end": 23,
+              "expanded_url": "https://x.com/Xiaomi/status/2058880777509613953/video/1",
+              "media_key": "13_2058633098141507584",
+              "start": 0,
+              "url": "https://t.co/CVD9DzJf2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058880777509613953",
+        "in_reply_to_user_id": "377228272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 528722,
+          "like_count": 95,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058880773587972158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/CVD9DzJf2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 437,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1154
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "The next chapter of mobile imaging begins.\n\nStay tuned for \"The Moment Beyond Sight\". \n\n#Xiaomi17TSeries",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 88,
+                "tag": "Xiaomi17TSeries"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXbWvK"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "2057729275588165992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339234,
+          "following_count": 364,
+          "like_count": 9934,
+          "listed_count": 3819,
+          "media_count": 10095,
+          "tweet_count": 14991
+        },
+        "url": "https://t.co/U0ZmlXbWvK",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

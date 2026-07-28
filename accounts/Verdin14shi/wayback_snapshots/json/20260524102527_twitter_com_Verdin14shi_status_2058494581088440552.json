@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058428389959319654",
+    "created_at": "2026-05-24T10:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058494581088440552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990034028322570240",
+          "start": 0,
+          "username": "vintcessun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058494581088440552",
+    "in_reply_to_user_id": "1990034028322570240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058428389959319654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vintcessun 互关来喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058428389959319654",
+        "created_at": "2026-05-24T10:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058494581088440552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990034028322570240",
+              "start": 0,
+              "username": "vintcessun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058494581088440552",
+        "in_reply_to_user_id": "1990034028322570240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058428389959319654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vintcessun 互关来喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990034028322570240",
+        "conversation_id": "2058428389959319654",
+        "created_at": "2026-05-24T06:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058428389959319654"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058428389959319654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关贴 翻了翻关注列表 好家伙 全是黄v 我一个蓝v混在里面显得像在当卧底 有没有蓝v朋友互关一下 我人不坏的 就偶尔碎嘴 #蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 98,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 343
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T12:27:53.000Z",
+        "description": "蓝V互关；技术；AI；纳指100；学生",
+        "id": "1990034028322570240",
+        "name": "恒星",
+        "pinned_tweet_id": "2056716907827573242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054828909582225408/r6AimQV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 342,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 463
+        },
+        "username": "vintcessun",
+        "verified": true
+      }
+    ]
+  }
+}

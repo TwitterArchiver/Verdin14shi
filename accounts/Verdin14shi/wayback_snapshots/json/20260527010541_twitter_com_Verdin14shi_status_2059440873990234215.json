@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059188816779624883",
+    "created_at": "2026-05-27T01:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059440873990234215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864234787264708608",
+          "start": 0,
+          "username": "lindsaymaozai"
+        },
+        {
+          "end": 24,
+          "id": "1393193542537854976",
+          "start": 15,
+          "username": "spark888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059440873990234215",
+    "in_reply_to_user_id": "1864234787264708608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059195343787467176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lindsaymaozai @spark888 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-27T01:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059440873990234215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864234787264708608",
+              "start": 0,
+              "username": "lindsaymaozai"
+            },
+            {
+              "end": 24,
+              "id": "1393193542537854976",
+              "start": 15,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059440873990234215",
+        "in_reply_to_user_id": "1864234787264708608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059195343787467176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindsaymaozai @spark888 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864234787264708608",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-26T08:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059195343787467176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195343787467176",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188816779624883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spark888 已follow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 412,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1096
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-04T09:06:37.000Z",
+        "description": "喜欢猪脚饭｜偶尔关注政治｜btc\n本账号仅作信息分享，均不作为投资建议，无任何商业行为",
+        "id": "1864234787264708608",
+        "name": "猫猫鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027724486687281152/LAjW9x-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 103,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 272
+        },
+        "username": "lindsaymaozai",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "金融硕士｜探索Crypto、AI ｜分享我的真知灼见",
+        "id": "1393193542537854976",
+        "location": "北京",
+        "name": "spark🌟",
+        "pinned_tweet_id": "2033477768139379001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056044941294686208/lNjNOU56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7744,
+          "following_count": 3068,
+          "like_count": 39259,
+          "listed_count": 60,
+          "media_count": 1205,
+          "tweet_count": 27811
+        },
+        "username": "spark888",
+        "verified": true
+      }
+    ]
+  }
+}

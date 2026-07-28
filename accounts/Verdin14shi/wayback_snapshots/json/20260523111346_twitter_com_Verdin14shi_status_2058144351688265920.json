@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058066208361202015",
+    "created_at": "2026-05-23T11:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058144351688265920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058144351688265920",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058066208361202015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo 实在憋不住就吐出来，先让自己舒服了再去弥补喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058066208361202015",
+        "created_at": "2026-05-23T11:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058144351688265920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058144351688265920",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058066208361202015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo 实在憋不住就吐出来，先让自己舒服了再去弥补喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2058066208361202015",
+        "created_at": "2026-05-23T06:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058066208361202015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058066208361202015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阴郁疯小孩|femboy|男|加q/v🚪67/91|不线下|各方面都不健康|烟鬼酒鬼|波奇|骚扰我|请称呼我为陌陌",
+        "id": "1829502489227575296",
+        "location": "日耳曼尼亚",
+        "name": "陌nono🦐 (施工作业)",
+        "pinned_tweet_id": "2043299349002891404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056391741457190913/x039MeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 319,
+          "like_count": 4362,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 2090
+        },
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

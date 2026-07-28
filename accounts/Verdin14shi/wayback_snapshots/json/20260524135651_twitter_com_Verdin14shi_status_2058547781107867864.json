@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058545348407423315",
+    "created_at": "2026-05-24T13:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058547781107867864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851962067236065281",
+          "start": 0,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058547781107867864",
+    "in_reply_to_user_id": "1851962067236065281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058545348407423315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzzzzz467732 宝宝，你今天已经很累了，上床休息，好吗，你今天的活动很努力了，我们都看在眼里，你善良又敏感的心已经很破碎了，做一个美梦，修复它，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058545348407423315",
+        "created_at": "2026-05-24T13:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058547781107867864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851962067236065281",
+              "start": 0,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058547781107867864",
+        "in_reply_to_user_id": "1851962067236065281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058545348407423315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzzzzz467732 宝宝，你今天已经很累了，上床休息，好吗，你今天的活动很努力了，我们都看在眼里，你善良又敏感的心已经很破碎了，做一个美梦，修复它，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2058545348407423315",
+        "created_at": "2026-05-24T13:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058545348407423315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058545348407423315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人都想整我 所有人都想害我 你们都给我死去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 122,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 427
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "薄巧/炸玉 2012.8.11 自伤 od 此号含大量负能 看成分回fo 防炸@boqiaoahm4\n视奸每一个和我互动的人👁️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "pinned_tweet_id": "2035690693428203950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 306,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1267
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

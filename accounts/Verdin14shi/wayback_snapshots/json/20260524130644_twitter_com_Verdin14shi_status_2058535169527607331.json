@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058347544514896222",
+    "created_at": "2026-05-24T13:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058535169527607331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1444990575632134144",
+          "start": 0,
+          "username": "WanQiu_web3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058535169527607331",
+    "in_reply_to_user_id": "1444990575632134144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058347544514896222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanQiu_web3 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2058347542036037632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC4LxNbQAAzcqR.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058347544514896222",
+        "created_at": "2026-05-24T13:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058535169527607331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444990575632134144",
+              "start": 0,
+              "username": "WanQiu_web3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058535169527607331",
+        "in_reply_to_user_id": "1444990575632134144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058347544514896222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanQiu_web3 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058347542036037632"
+          ]
+        },
+        "author_id": "1444990575632134144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058347544514896222",
+        "created_at": "2026-05-24T00:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058347544514896222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhzUGuolfH",
+              "end": 112,
+              "expanded_url": "https://x.com/WanQiu_web3/status/2058347544514896222/photo/1",
+              "media_key": "3_2058347542036037632",
+              "start": 89,
+              "url": "https://t.co/IhzUGuolfH"
+            },
+            {
+              "display_url": "x.com/WanQiu_web3/st…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/WanQiu_web3/status/2057979156554715447",
+              "start": 113,
+              "url": "https://t.co/djwq17Al2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058347544514896222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2673,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 117,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057979156554715447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GM 周末好啊，各位！\n\n今天继续 ＃蓝V互关 ，昨天新增359位互关，向着万粉冲刺\n\n各位有需要互关的，也可以到评论区留言，我每隔一段时间就会一一关注，有时候限制了回的比较晚 https://t.co/IhzUGuolfH https://t.co/djwq17Al2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 115,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 411
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-04T11:39:45.000Z",
+        "description": "抽象整活｜擅长摸鱼睡觉｜视频剪辑，捣鼓代码｜WEEX大使｜努力学习更多有趣的东西  I wish you all well.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+isPrHjt1D41hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+isPrHjt1D41hZjU1",
+                "start": 0,
+                "url": "https://t.co/HIWwzKFEfW"
+              }
+            ]
+          }
+        },
+        "id": "1444990575632134144",
+        "location": "TG社群",
+        "name": "晚秋｜Bird🕊️",
+        "pinned_tweet_id": "1993188370558947597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037889927443271680/MjcpJECM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7746,
+          "following_count": 3711,
+          "like_count": 35068,
+          "listed_count": 29,
+          "media_count": 1043,
+          "tweet_count": 41850
+        },
+        "url": "https://t.co/HIWwzKFEfW",
+        "username": "WanQiu_web3",
+        "verified": true
+      }
+    ]
+  }
+}

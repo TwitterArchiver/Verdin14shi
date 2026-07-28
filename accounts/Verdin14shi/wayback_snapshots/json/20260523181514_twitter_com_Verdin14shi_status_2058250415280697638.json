@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058250415280697638",
+    "created_at": "2026-05-23T18:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058250415280697638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058250415280697638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抑郁症慢慢停药会怎么样\n我今天没吃药，情绪没有太差，不知道是不是在外面的原因\n我得把我的药藏起来防止被父母说\n以前还没吃就情绪难受的要命了\n户外对玉玉证增好是对的\n要是明天回家没吃药又变坏的话只能阴间再见了（悲）\n哦对了，我要抱怨一句今天我弄丢了一百块钱，不知道能不能找回来（14个泰达币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058250415280697638",
+        "created_at": "2026-05-23T18:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058250415280697638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058250415280697638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症慢慢停药会怎么样\n我今天没吃药，情绪没有太差，不知道是不是在外面的原因\n我得把我的药藏起来防止被父母说\n以前还没吃就情绪难受的要命了\n户外对玉玉证增好是对的\n要是明天回家没吃药又变坏的话只能阴间再见了（悲）\n哦对了，我要抱怨一句今天我弄丢了一百块钱，不知道能不能找回来（14个泰达币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 213
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      }
+    ]
+  }
+}

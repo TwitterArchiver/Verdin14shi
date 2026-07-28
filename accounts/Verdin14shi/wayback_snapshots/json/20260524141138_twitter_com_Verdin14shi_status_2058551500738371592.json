@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058435276595458457",
+    "created_at": "2026-05-24T14:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058551500738371592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656331944286728196",
+          "start": 0,
+          "username": "PhD_CDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058551500738371592",
+    "in_reply_to_user_id": "1656331944286728196",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058435276595458457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhD_CDS 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058435276595458457",
+        "created_at": "2026-05-24T14:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058551500738371592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656331944286728196",
+              "start": 0,
+              "username": "PhD_CDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058551500738371592",
+        "in_reply_to_user_id": "1656331944286728196",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058435276595458457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhD_CDS 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656331944286728196",
+        "conversation_id": "2058435276595458457",
+        "created_at": "2026-05-24T06:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058435276595458457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058435276595458457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你评论了我\n\n我发现没关注你\n\n都会顺手点个关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 132,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 445
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-10T16:14:54.000Z",
+        "description": "理学博士｜前全球TOP10企业工程师丨官网、白皮书制作爱好者｜归零小卡片收藏家丨币安交易所Binance忠实粉丝丨立志成为百万正在关注博主丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cds_crypto",
+                "end": 23,
+                "expanded_url": "https://t.me/cds_crypto",
+                "start": 0,
+                "url": "https://t.co/1om7W2h0H8"
+              }
+            ]
+          }
+        },
+        "id": "1656331944286728196",
+        "location": "China Mainland",
+        "name": "存多少🍀",
+        "pinned_tweet_id": "2043720759919657353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001073425146896384/SIfBQS4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 3600,
+          "like_count": 11691,
+          "listed_count": 9,
+          "media_count": 316,
+          "tweet_count": 6109
+        },
+        "url": "https://t.co/1om7W2h0H8",
+        "username": "PhD_CDS",
+        "verified": true
+      }
+    ]
+  }
+}

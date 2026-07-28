@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2052846271464186048",
+    "created_at": "2026-05-25T05:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058787876641591365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915966983415160832",
+          "start": 0,
+          "username": "KrystalSmi37575"
+        },
+        {
+          "end": 28,
+          "id": "1813768883540725760",
+          "start": 17,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058787876641591365",
+    "in_reply_to_user_id": "1915966983415160832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058468404898812232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrystalSmi37575 @ye_and_yae 吾皇万岁万万岁喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2052846271464186048",
+        "created_at": "2026-05-25T05:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058787876641591365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915966983415160832",
+              "start": 0,
+              "username": "KrystalSmi37575"
+            },
+            {
+              "end": 28,
+              "id": "1813768883540725760",
+              "start": 17,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058787876641591365",
+        "in_reply_to_user_id": "1915966983415160832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058468404898812232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrystalSmi37575 @ye_and_yae 吾皇万岁万万岁喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915966983415160832",
+        "conversation_id": "2052846271464186048",
+        "created_at": "2026-05-24T08:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058468404898812232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058468404898812232",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053513725353894095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 婊子你可真贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 177,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 547
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T03:11:50.000Z",
+        "description": "🇨🇳大家好我是玉皇大帝，喊我的时候请喊：吾皇万岁万万岁，如果我开始说一些奇怪的话那是因为翻译器坏了（I refuse anything that insults my country）",
+        "id": "1915966983415160832",
+        "name": "玉皇大帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048087621814116352/1BdeoAEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 70,
+          "like_count": 8427,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 170
+        },
+        "username": "KrystalSmi37575",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元  \n禁止od，自残 \n主人 @yesterdayorange         \n   \n                                                 恋人 @gcjl9188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "gcjl9188"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "🚀爱晔🍥",
+        "pinned_tweet_id": "2052819802876723249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435388680716288/GYePUBtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 947,
+          "like_count": 4847,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

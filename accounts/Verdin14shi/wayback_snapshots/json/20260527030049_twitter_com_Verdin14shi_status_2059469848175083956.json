@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059469840507863040"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      }
+    ],
+    "conversation_id": "2059469848175083956",
+    "created_at": "2026-05-27T03:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:59:04.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059469407030817253",
+      "2059469848175083956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7S6jessJIa",
+          "end": 203,
+          "expanded_url": "https://x.com/Verdin14shi/status/2059469848175083956/photo/1",
+          "media_key": "3_2059469840507863040",
+          "start": 180,
+          "url": "https://t.co/7S6jessJIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059469848175083956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 582,
+            "start": 573,
+            "tag": "Valorant"
+          },
+          {
+            "end": 588,
+            "start": 583,
+            "tag": "瓦罗兰特"
+          },
+          {
+            "end": 594,
+            "start": 589,
+            "tag": "无畏契约"
+          }
+        ]
+      },
+      "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be available before the championship!\nRegardless of the gameplay aspect, the map design of Va is really good. It has detailed elements, many hidden little treasures to discover, and a high degree of connection with the storyline (though it seems that not many people pay attention to Va's storyline). The cartoonish style is really appealing.\nI wonder how this setting will be resolved this time.#Valorant #瓦罗兰特 #无畏契约"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be https://t.co/7S6jessJIa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2059469840507863040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS06I0aAAAgbl5.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059469397404884992"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "2059469407030817253",
+        "created_at": "2026-05-27T02:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:59:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059469407030817253",
+          "2059469848175083956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYXtbl2oaZ",
+              "end": 203,
+              "expanded_url": "https://x.com/Verdin14shi/status/2059469407030817253/photo/1",
+              "media_key": "3_2059469397404884992",
+              "start": 180,
+              "url": "https://t.co/pYXtbl2oaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059469407030817253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be available before the championship!\nRegardless of the gameplay aspect, the map design of Va is really good. It has detailed elements, many hidden little treasures to discover, and a high degree of connection with the storyline (though it seems that not many people pay attention to Va's storyline). The cartoonish style is really appealing.\nI wonder how this setting will be resolved this time."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be https://t.co/pYXtbl2oaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059469840507863040"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "2059469848175083956",
+        "created_at": "2026-05-27T03:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:59:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059469407030817253",
+          "2059469848175083956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S6jessJIa",
+              "end": 203,
+              "expanded_url": "https://x.com/Verdin14shi/status/2059469848175083956/photo/1",
+              "media_key": "3_2059469840507863040",
+              "start": 180,
+              "url": "https://t.co/7S6jessJIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059469848175083956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 582,
+                "start": 573,
+                "tag": "Valorant"
+              },
+              {
+                "end": 588,
+                "start": 583,
+                "tag": "瓦罗兰特"
+              },
+              {
+                "end": 594,
+                "start": 589,
+                "tag": "无畏契约"
+              }
+            ]
+          },
+          "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be available before the championship!\nRegardless of the gameplay aspect, the map design of Va is really good. It has detailed elements, many hidden little treasures to discover, and a high degree of connection with the storyline (though it seems that not many people pay attention to Va's storyline). The cartoonish style is really appealing.\nI wonder how this setting will be resolved this time.#Valorant #瓦罗兰特 #无畏契约"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦罗兰特新地图为中国风，取景地为张家界！\n抛开游戏性不谈，瓦的地图设计真的不错，细节到位，有好多小彩蛋可以挖掘，跟剧情关联度高(不过感觉没啥人关注瓦的剧情)，偏卡通画风真的喜欢\n不知道这次设定怎么圆回来\nA new map from Valorant has been released, set in Zhangjiajie. And it will be https://t.co/7S6jessJIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 427,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1129
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      }
+    ]
+  }
+}

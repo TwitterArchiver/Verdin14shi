@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058836374938320991",
+    "created_at": "2026-05-25T09:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058838186219167897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058484419581870080",
+          "start": 0,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058838186219167897",
+    "in_reply_to_user_id": "2058484419581870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058838117147357454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12S1dsb 我去，大哥你在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058836374938320991",
+        "created_at": "2026-05-25T09:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058838186219167897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058484419581870080",
+              "start": 0,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058838186219167897",
+        "in_reply_to_user_id": "2058484419581870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058838117147357454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12S1dsb 我去，大哥你在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058484419581870080",
+        "conversation_id": "2058836374938320991",
+        "created_at": "2026-05-25T09:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058838117147357454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058838117147357454",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058837915652981133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 太热了，今天有36度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 263,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 670
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "12/发一些照片在这里",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058494473458634979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 72,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 38
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

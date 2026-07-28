@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2056977479701860803",
+    "created_at": "2026-05-25T06:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058800263809630524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541690170160070657",
+          "start": 0,
+          "username": "gold_ddl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058800263809630524",
+    "in_reply_to_user_id": "1541690170160070657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056977479701860803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_ddl 绝大多数人都是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2056977477269172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvaHgObsAAUhqc.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2056977479701860803",
+        "created_at": "2026-05-25T06:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058800263809630524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541690170160070657",
+              "start": 0,
+              "username": "gold_ddl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058800263809630524",
+        "in_reply_to_user_id": "1541690170160070657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056977479701860803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_ddl 绝大多数人都是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056977477269172224"
+          ]
+        },
+        "author_id": "1541690170160070657",
+        "conversation_id": "2056977479701860803",
+        "created_at": "2026-05-20T05:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056977479701860803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQpb16Plcf",
+              "end": 73,
+              "expanded_url": "https://x.com/gold_ddl/status/2056977479701860803/photo/1",
+              "media_key": "3_2056977477269172224",
+              "start": 50,
+              "url": "https://t.co/pQpb16Plcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056977479701860803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳舞的线是我人生第一款音游，希望上steam后不搞内购+有创意工坊，以前DL的社区创作可是很热闹的 https://t.co/pQpb16Plcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 195,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 571
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-28T07:49:34.000Z",
+        "description": "ND | MtX | 现居安徽 | 沉迷尖塔中...\nsteam1365859697欢迎找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gold_ddl",
+                "end": 23,
+                "expanded_url": "http://t.me/gold_ddl",
+                "start": 0,
+                "url": "https://t.co/ztWKvyp4Ei"
+              }
+            ]
+          }
+        },
+        "id": "1541690170160070657",
+        "location": "川陀大学图书馆",
+        "name": "金蒲公英(可食用)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035048383489220609/-WIV_jXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 503,
+          "like_count": 4017,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/ztWKvyp4Ei",
+        "username": "gold_ddl",
+        "verified": true
+      }
+    ]
+  }
+}

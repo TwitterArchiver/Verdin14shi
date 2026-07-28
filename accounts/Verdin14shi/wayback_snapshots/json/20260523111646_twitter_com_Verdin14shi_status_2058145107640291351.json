@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2057848576353726876",
+    "created_at": "2026-05-23T11:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058145107640291351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952690690892468224",
+          "start": 0,
+          "username": "meowania_Fan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058145107640291351",
+    "in_reply_to_user_id": "1952690690892468224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057848576353726876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowania_Fan 很难受吧，抱抱你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2057848576353726876",
+        "created_at": "2026-05-23T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058145107640291351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952690690892468224",
+              "start": 0,
+              "username": "meowania_Fan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058145107640291351",
+        "in_reply_to_user_id": "1952690690892468224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057848576353726876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowania_Fan 很难受吧，抱抱你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952690690892468224",
+        "conversation_id": "2057848576353726876",
+        "created_at": "2026-05-22T15:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057848576353726876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057848576353726876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口腔溃疡去死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️｜🍥｜家暴党｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 279,
+          "like_count": 430,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

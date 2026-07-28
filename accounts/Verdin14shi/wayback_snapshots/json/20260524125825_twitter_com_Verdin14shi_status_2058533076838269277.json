@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058270993160999357",
+    "created_at": "2026-05-24T12:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058533076838269277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052296609560690689",
+          "start": 0,
+          "username": "CalippoRos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058533076838269277",
+    "in_reply_to_user_id": "2052296609560690689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058270993160999357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CalippoRos 可以哒，我来哩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058270993160999357",
+        "created_at": "2026-05-24T12:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058533076838269277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052296609560690689",
+              "start": 0,
+              "username": "CalippoRos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058533076838269277",
+        "in_reply_to_user_id": "2052296609560690689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058270993160999357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CalippoRos 可以哒，我来哩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052296609560690689",
+        "conversation_id": "2058270993160999357",
+        "created_at": "2026-05-23T19:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058270993160999357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xrwi238646/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xrwi238646/status/2058199530756292824",
+              "start": 21,
+              "url": "https://t.co/DgXXtTjD1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058270993160999357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058199530756292824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老大我们这样到处点赞关注真的能交到朋友吗 https://t.co/DgXXtTjD1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 110,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 403
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T07:57:13.000Z",
+        "description": "可以叫我🫓丨switch丨很爱发帖子和碎碎念丨更新了提问箱链接https://t.co/CQhgdvciZH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemmoncookie_h…",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lemmoncookie_home",
+                "start": 31,
+                "url": "https://t.co/CQhgdvciZH"
+              }
+            ]
+          }
+        },
+        "id": "2052296609560690689",
+        "location": "good old days",
+        "name": "Daniela Calippo",
+        "pinned_tweet_id": "2057118922068095476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052298345222414336/gH-tjQl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 90,
+          "like_count": 4290,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 831
+        },
+        "username": "CalippoRos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059188816779624883",
+    "created_at": "2026-05-27T01:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059440791450513854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502255293123596291",
+          "start": 0,
+          "username": "Lewis8888888"
+        },
+        {
+          "end": 23,
+          "id": "1393193542537854976",
+          "start": 14,
+          "username": "spark888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059440791450513854",
+    "in_reply_to_user_id": "1502255293123596291",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059190113373168036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lewis8888888 @spark888 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-27T01:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059440791450513854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502255293123596291",
+              "start": 0,
+              "username": "Lewis8888888"
+            },
+            {
+              "end": 23,
+              "id": "1393193542537854976",
+              "start": 14,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059440791450513854",
+        "in_reply_to_user_id": "1502255293123596291",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059190113373168036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lewis8888888 @spark888 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502255293123596291",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-26T08:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059190113373168036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059190113373168036",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188816779624883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spark888 赶不上你赚钱的速度了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 408,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1092
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-11T12:09:18.000Z",
+        "description": "@monad MON - @Lilstarrrs MOD - @monad_zw Operator - @mopanda_xyz Operator  -   @gundotfun ambassador - @lootgo_official MOD  -  @PurpsExchange MOD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "monad"
+              },
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Lilstarrrs"
+              },
+              {
+                "end": 40,
+                "start": 31,
+                "username": "monad_zw"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "mopanda_xyz"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "gundotfun"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "lootgo_official"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "PurpsExchange"
+              }
+            ]
+          }
+        },
+        "id": "1502255293123596291",
+        "location": "Hong Kong",
+        "name": "Lewis888",
+        "pinned_tweet_id": "1894250346069069841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933344082480541700/U_914ZHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9650,
+          "following_count": 4407,
+          "like_count": 151244,
+          "listed_count": 44,
+          "media_count": 1006,
+          "tweet_count": 49411
+        },
+        "username": "Lewis8888888",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "金融硕士｜探索Crypto、AI ｜分享我的真知灼见",
+        "id": "1393193542537854976",
+        "location": "北京",
+        "name": "spark🌟",
+        "pinned_tweet_id": "2033477768139379001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056044941294686208/lNjNOU56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7744,
+          "following_count": 3068,
+          "like_count": 39259,
+          "listed_count": 60,
+          "media_count": 1205,
+          "tweet_count": 27811
+        },
+        "username": "spark888",
+        "verified": true
+      }
+    ]
+  }
+}

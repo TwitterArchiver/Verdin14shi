@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059152341186805815",
+    "created_at": "2026-05-26T10:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059226054745895416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910364618960330752",
+          "start": 0,
+          "username": "Bitchenlan_XBT"
+        },
+        {
+          "end": 32,
+          "id": "853876410758250496",
+          "start": 16,
+          "username": "millioncrypto88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059226054745895416",
+    "in_reply_to_user_id": "1910364618960330752",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059222342946242890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitchenlan_XBT @millioncrypto88 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059152341186805815",
+        "created_at": "2026-05-26T10:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059226054745895416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910364618960330752",
+              "start": 0,
+              "username": "Bitchenlan_XBT"
+            },
+            {
+              "end": 32,
+              "id": "853876410758250496",
+              "start": 16,
+              "username": "millioncrypto88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059226054745895416",
+        "in_reply_to_user_id": "1910364618960330752",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059222342946242890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitchenlan_XBT @millioncrypto88 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910364618960330752",
+        "conversation_id": "2059152341186805815",
+        "created_at": "2026-05-26T10:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059222342946242890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "853876410758250496",
+              "start": 0,
+              "username": "millioncrypto88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059222342946242890",
+        "in_reply_to_user_id": "853876410758250496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059152341186805815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@millioncrypto88 誠信互關 借樓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 365,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1016
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-10T16:10:25.000Z",
+        "description": "AI Agent || 区块链 || 无限流量网路冲浪手||\n加密货币 || 美股 || 外汇 || 贵金属 || 小小交易员\n@FTMO_com 认证交易员\n@BreakoutProp 认证交易员\n@Hyrotrader_com 认证交易员\n||#蓝勾互关 关注必回 取关必取",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "蓝勾互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "FTMO_com"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "BreakoutProp"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "Hyrotrader_com"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MFCryptoXBT",
+                "end": 23,
+                "expanded_url": "https://t.me/MFCryptoXBT",
+                "start": 0,
+                "url": "https://t.co/eUC0TP8dik"
+              }
+            ]
+          }
+        },
+        "id": "1910364618960330752",
+        "name": "山风_XBT",
+        "pinned_tweet_id": "2059145370060628448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163703875616768/bKE8F5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 481,
+          "like_count": 1300,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/eUC0TP8dik",
+        "username": "Bitchenlan_XBT",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-17T07:42:55.000Z",
+        "description": "负债百万，失业翻身\n撸过百万结果，奈何债务太多。\n温暖热线:0xc492d347999069B1e744FFd5Ced3DC1f5d574626",
+        "id": "853876410758250496",
+        "name": "Rich Alone",
+        "pinned_tweet_id": "1760503554069192774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058061476339101696/UK7x-IGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1957,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 296
+        },
+        "username": "millioncrypto88",
+        "verified": true
+      }
+    ]
+  }
+}

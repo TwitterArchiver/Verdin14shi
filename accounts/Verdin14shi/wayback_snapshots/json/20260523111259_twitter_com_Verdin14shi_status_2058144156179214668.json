@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2057717200044294179",
+    "created_at": "2026-05-23T11:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058144156179214668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018408643193167872",
+          "start": 0,
+          "username": "igig497219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058144156179214668",
+    "in_reply_to_user_id": "2018408643193167872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057717200044294179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igig497219 你很坚强，我喜欢每个坚强的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2057717168272457728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI563L8aQAAA4B3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2057717200044294179",
+        "created_at": "2026-05-23T11:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058144156179214668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018408643193167872",
+              "start": 0,
+              "username": "igig497219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058144156179214668",
+        "in_reply_to_user_id": "2018408643193167872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057717200044294179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igig497219 你很坚强，我喜欢每个坚强的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057717168272457728"
+          ]
+        },
+        "author_id": "2018408643193167872",
+        "conversation_id": "2057717200044294179",
+        "created_at": "2026-05-22T06:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057717200044294179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTiVtMYQa7",
+              "end": 67,
+              "expanded_url": "https://x.com/igig497219/status/2057717200044294179/photo/1",
+              "media_key": "3_2057717168272457728",
+              "start": 44,
+              "url": "https://t.co/gTiVtMYQa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057717200044294179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3246,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不是一定要聽很多甜言蜜語，只是對一個缺愛的人來說，真正讓我安心的，從來都是你的行動。 https://t.co/gTiVtMYQa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T19:38:22.000Z",
+        "description": "現在19歲 小時候受傷，聲帶壞了\n現在幾乎講不出話，只能發一點聲音 這樣的我 你還想跟我認識嗎\nLINE：shih0982  Gleezy：kk520tt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lamg520",
+                "end": 23,
+                "expanded_url": "https://t.me/lamg520",
+                "start": 0,
+                "url": "https://t.co/aplvV1D6e8"
+              }
+            ]
+          }
+        },
+        "id": "2018408643193167872",
+        "location": "臺灣",
+        "name": "小齒不語",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028723065925115904/GiZZC6KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7370,
+          "following_count": 3,
+          "like_count": 330,
+          "listed_count": 12,
+          "media_count": 128,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/aplvV1D6e8",
+        "username": "igig497219",
+        "verified": false
+      }
+    ]
+  }
+}

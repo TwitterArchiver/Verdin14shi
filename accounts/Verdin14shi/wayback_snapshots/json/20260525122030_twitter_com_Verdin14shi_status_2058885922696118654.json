@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058828206052983286",
+    "created_at": "2026-05-25T12:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058885922696118654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560129741897682946",
+          "start": 0,
+          "username": "lili39311856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058885922696118654",
+    "in_reply_to_user_id": "1560129741897682946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058884209813422246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lili39311856 试试统计账单之类的理性活，慢慢来，能控制住喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058828206052983286",
+        "created_at": "2026-05-25T12:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058885922696118654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560129741897682946",
+              "start": 0,
+              "username": "lili39311856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058885922696118654",
+        "in_reply_to_user_id": "1560129741897682946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058884209813422246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lili39311856 试试统计账单之类的理性活，慢慢来，能控制住喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129741897682946",
+        "conversation_id": "2058828206052983286",
+        "created_at": "2026-05-25T12:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058884209813422246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058884209813422246",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058836009471955194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 我也不知道花哪里了，好像就和闺蜜出去吃饭，出去玩乱七八糟的，不知道怎么花了这么多钱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 301,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 716
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-18T05:01:44.000Z",
+        "description": "互fo查成分",
+        "id": "1560129741897682946",
+        "name": "濑濑",
+        "pinned_tweet_id": "1688046639683088384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047742358410735616/DwE4NaQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 98,
+          "like_count": 2261,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 219
+        },
+        "username": "lili39311856",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059523417167053208",
+    "created_at": "2026-05-27T06:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059529220603466096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754139256770207744",
+          "start": 0,
+          "username": "jianghaikuo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059529220603466096",
+    "in_reply_to_user_id": "1754139256770207744",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059523417167053208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianghaikuo666 111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2059523393439825921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTlnVCWgAE8tGn.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059523417167053208",
+        "created_at": "2026-05-27T06:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059529220603466096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754139256770207744",
+              "start": 0,
+              "username": "jianghaikuo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059529220603466096",
+        "in_reply_to_user_id": "1754139256770207744",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059523417167053208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianghaikuo666 111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059523393439825921"
+          ]
+        },
+        "author_id": "1754139256770207744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059523417167053208",
+        "created_at": "2026-05-27T06:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059523417167053208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cI8Brm4Rw",
+              "end": 167,
+              "expanded_url": "https://x.com/jianghaikuo666/status/2059523417167053208/photo/1",
+              "media_key": "3_2059523393439825921",
+              "start": 144,
+              "url": "https://t.co/6cI8Brm4Rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059523417167053208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 166,
+                "start": 161,
+                "tag": "蓝v互关"
+              }
+            ]
+          },
+          "text": "快到 1000 粉了。\n从最开始没人看，到现在有 900 多个朋友愿意停下来关注我，真的挺神奇的。虽然不是什么特别大的数字，但对我来说已经很有意义了。\n接下来想继续发一些我喜欢的内容，也希望能认识更多有意思的人。\n如果你刚好刷到这里，也觉得我还挺有趣，那就顺手帮我冲一下 1000 吧。\n提前谢谢各位，1000 粉见。🚀\n#蓝v互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快到 1000 粉了。\n从最开始没人看，到现在有 900 多个朋友愿意停下来关注我，真的挺神奇的。虽然不是什么特别大的数字，但对我来说已经很有意义了。\n接下来想继续发一些我喜欢的内容，也希望能认识更多有意思的人。\n如果你刚好刷到这里，也觉得我还挺有趣，那就顺手帮我冲一下 1000 吧。 https://t.co/6cI8Brm4Rw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 441,
+          "like_count": 784,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1166
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T13:46:17.000Z",
+        "description": "📚🎬 学习×娱乐\n知识充电 + 快乐解压，一刷就上瘾！\n欢迎加入，每天不无聊～\n学习+娱乐，一站刷完！关注不迷路🚀",
+        "id": "1754139256770207744",
+        "location": "New York, USA",
+        "name": "makabaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057761083159392257/pocAyYmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 753,
+          "like_count": 3006,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 1607
+        },
+        "username": "jianghaikuo666",
+        "verified": true
+      }
+    ]
+  }
+}

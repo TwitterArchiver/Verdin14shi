@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059860098852458778",
+    "created_at": "2026-05-28T04:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059860098852458778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aureliax17QwQ/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Aureliax17QwQ/status/2059800309799805045",
+          "start": 9,
+          "url": "https://t.co/5jzGejmXcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059860098852458778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059800309799805045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二极管有点弱智了 https://t.co/5jzGejmXcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059800299561504768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXhdYubUAAn62R.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059860098852458778",
+        "created_at": "2026-05-28T04:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059860098852458778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aureliax17QwQ/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Aureliax17QwQ/status/2059800309799805045",
+              "start": 9,
+              "url": "https://t.co/5jzGejmXcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059860098852458778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059800309799805045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二极管有点弱智了 https://t.co/5jzGejmXcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059800299561504768"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059800309799805045",
+        "created_at": "2026-05-28T00:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059800309799805045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tGyEidCV3",
+              "end": 29,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059800309799805045/photo/1",
+              "media_key": "3_2059800299561504768",
+              "start": 6,
+              "url": "https://t.co/1tGyEidCV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059800309799805045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 20550,
+          "like_count": 581,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "不可能三角 https://t.co/1tGyEidCV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2059663336363774367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 491,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1286
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 612,
+          "like_count": 6629,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

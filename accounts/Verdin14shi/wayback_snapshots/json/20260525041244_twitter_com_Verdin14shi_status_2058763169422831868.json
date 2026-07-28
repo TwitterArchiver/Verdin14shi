@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058716002880499964",
+    "created_at": "2026-05-25T04:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058763169422831868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058763169422831868",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058716002880499964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 对不起我笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058716002880499964",
+        "created_at": "2026-05-25T04:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058763169422831868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058763169422831868",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058716002880499964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 对不起我笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953528457339834368",
+        "conversation_id": "2058716002880499964",
+        "created_at": "2026-05-25T01:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058716002880499964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaulDrizzyvlni…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2058133162816151863",
+              "start": 66,
+              "url": "https://t.co/8jvShrBq9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058716002880499964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058133162816151863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈也这么说，你先和女性谈个恋爱看看\n我直接回她，你难道是觉得我和女人做爱过后就不想当女人了吗？\n她说倒也不是……然后就没继续说了 https://t.co/8jvShrBq9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 169,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 529
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 109,
+          "like_count": 5287,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2157
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

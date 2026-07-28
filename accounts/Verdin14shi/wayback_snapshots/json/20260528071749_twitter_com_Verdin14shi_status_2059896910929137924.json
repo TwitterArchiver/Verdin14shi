@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2046335955062374490",
+    "created_at": "2026-05-28T07:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059896910929137924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059896910929137924",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046335955062374490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 这是什么番剧喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2046335942659801088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYLsqlaAAAaPvN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2046335942659829760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYLsqlacAAJi6R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2046335942672482304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYLsqobgAA7A2p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2046335942684971008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYLsqraEAA3uvz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2046335955062374490",
+        "created_at": "2026-05-28T07:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059896910929137924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059896910929137924",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046335955062374490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 这是什么番剧喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046335942659801088",
+            "3_2046335942659829760",
+            "3_2046335942672482304",
+            "3_2046335942684971008"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046335955062374490",
+        "created_at": "2026-04-20T21:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046335955062374490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s25ElNx01k",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/2046335955062374490/photo/1",
+              "media_key": "3_2046335942659801088",
+              "start": 9,
+              "url": "https://t.co/s25ElNx01k"
+            },
+            {
+              "display_url": "pic.x.com/s25ElNx01k",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/2046335955062374490/photo/1",
+              "media_key": "3_2046335942659829760",
+              "start": 9,
+              "url": "https://t.co/s25ElNx01k"
+            },
+            {
+              "display_url": "pic.x.com/s25ElNx01k",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/2046335955062374490/photo/1",
+              "media_key": "3_2046335942672482304",
+              "start": 9,
+              "url": "https://t.co/s25ElNx01k"
+            },
+            {
+              "display_url": "pic.x.com/s25ElNx01k",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/2046335955062374490/photo/1",
+              "media_key": "3_2046335942684971008",
+              "start": 9,
+              "url": "https://t.co/s25ElNx01k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046335955062374490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1282,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼感覺變正常了 https://t.co/s25ElNx01k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 492,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1314
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2039014033718993306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 3590,
+          "like_count": 101847,
+          "listed_count": 15,
+          "media_count": 7969,
+          "tweet_count": 96403
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

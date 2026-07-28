@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2057524194586571246",
+    "created_at": "2026-05-26T01:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059090767680033092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608829820737314817",
+          "start": 0,
+          "username": "Yazawashize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059090767680033092",
+    "in_reply_to_user_id": "1608829820737314817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057524194586571246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yazawashize 你还好吗宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2057524194586571246",
+        "created_at": "2026-05-26T01:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059090767680033092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608829820737314817",
+              "start": 0,
+              "username": "Yazawashize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059090767680033092",
+        "in_reply_to_user_id": "1608829820737314817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057524194586571246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yazawashize 你还好吗宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608829820737314817",
+        "conversation_id": "2057524194586571246",
+        "created_at": "2026-05-21T18:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057524194586571246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057524194586571246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千万 千万不要 连者吃 mjg 了\n半衰期太长 了应该是 又上来了 副作用 哎啊啊啊 哎啊啊啊啊炸了 \n炸了\n难受。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 325,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 812
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T14:18:30.000Z",
+        "description": "=泽泽 INFJ https://t.co/HfBpX1ImkN 随时欢迎🥺🤲🏻…\n期待なんてされてない できない いらない❤︎ ｜抑郁症患者｜间歇性精分｜♡overdose♡｜NIC重度依赖晚期｜日本留学准备中｜ 成人済｜できれば、谁とも关わりたくない..",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yazawashize",
+                "end": 32,
+                "expanded_url": "https://ngl.link/yazawashize",
+                "start": 9,
+                "url": "https://t.co/HfBpX1ImkN"
+              }
+            ]
+          }
+        },
+        "id": "1608829820737314817",
+        "location": "白日夢幻想鄉",
+        "name": "✟ 昇天 ✟",
+        "pinned_tweet_id": "2055568521846038674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 339,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 317
+        },
+        "username": "Yazawashize",
+        "verified": false
+      }
+    ]
+  }
+}

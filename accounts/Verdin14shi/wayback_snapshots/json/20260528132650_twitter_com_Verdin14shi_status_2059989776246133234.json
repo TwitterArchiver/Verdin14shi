@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059915645849055232"
+      ],
+      "media_source_tweet_id": [
+        "2059915648067834337"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059989776246133234",
+    "created_at": "2026-05-28T13:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059989776246133234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOFJdhnNbV",
+          "end": 45,
+          "expanded_url": "https://x.com/anblk984/status/2059915648067834337/photo/1",
+          "media_key": "3_2059915645849055232",
+          "start": 22,
+          "url": "https://t.co/hOFJdhnNbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059989776246133234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059915648067834337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: ntr赢了！😁 https://t.co/hOFJdhnNbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 332,
+        "media_key": "3_2059915645849055232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZKXbIaMAALy0G.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059915645849055232"
+          ],
+          "media_source_tweet_id": [
+            "2059915648067834337"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059989776246133234",
+        "created_at": "2026-05-28T13:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059989776246133234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOFJdhnNbV",
+              "end": 45,
+              "expanded_url": "https://x.com/anblk984/status/2059915648067834337/photo/1",
+              "media_key": "3_2059915645849055232",
+              "start": 22,
+              "url": "https://t.co/hOFJdhnNbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059989776246133234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059915648067834337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: ntr赢了！😁 https://t.co/hOFJdhnNbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059915645849055232"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2059915648067834337",
+        "created_at": "2026-05-28T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059915648067834337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOFJdhnNbV",
+              "end": 31,
+              "expanded_url": "https://x.com/anblk984/status/2059915648067834337/photo/1",
+              "media_key": "3_2059915645849055232",
+              "start": 8,
+              "url": "https://t.co/hOFJdhnNbV"
+            },
+            {
+              "display_url": "x.com/narendramodi/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/narendramodi/status/2059853146046734830",
+              "start": 32,
+              "url": "https://t.co/oyttG7oZFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059915648067834337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11215,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059853146046734830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ntr赢了！😁 https://t.co/hOFJdhnNbV https://t.co/oyttG7oZFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 496,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1324
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14660,
+          "following_count": 998,
+          "like_count": 118624,
+          "listed_count": 70,
+          "media_count": 2871,
+          "tweet_count": 28839
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

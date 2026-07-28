@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058029321076506990",
+    "created_at": "2026-05-23T12:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058167721242792399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049690086623911936",
+          "start": 0,
+          "username": "2hollisshowmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058167721242792399",
+    "in_reply_to_user_id": "2049690086623911936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058029321076506990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2hollisshowmore 我会十分失望，生活有少了一个有趣的灵魂，，所以答应我们一起走下去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058029321076506990",
+        "created_at": "2026-05-23T12:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058167721242792399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049690086623911936",
+              "start": 0,
+              "username": "2hollisshowmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058167721242792399",
+        "in_reply_to_user_id": "2049690086623911936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058029321076506990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2hollisshowmore 我会十分失望，生活有少了一个有趣的灵魂，，所以答应我们一起走下去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049690086623911936",
+        "conversation_id": "2058029321076506990",
+        "created_at": "2026-05-23T03:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058029321076506990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058029321076506990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 942,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，如果有天我消失了，就再也没有人跟你装可怜了，没有人跟你嘻嘻哈哈了，没有人逗你玩了，没有人给你分享生活了，你会怎么办？！（T^T）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 122
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "号主现实是一只蛋小黄呦 \n我每天就在这个逼逼吊吊的推特分享段子\n太在意别人的看法只能成为别人的裤衩(๑‾ ꇴ ‾๑)",
+        "id": "2049690086623911936",
+        "name": "啾咪≡ω≡",
+        "pinned_tweet_id": "2056628959488647343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053693389066084352/9vxgG5X__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 127,
+          "like_count": 291,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 600
+        },
+        "username": "2hollisshowmore",
+        "verified": false
+      }
+    ]
+  }
+}

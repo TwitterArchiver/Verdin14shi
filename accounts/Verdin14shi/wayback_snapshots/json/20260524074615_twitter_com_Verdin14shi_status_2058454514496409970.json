@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058449065155924025",
+    "created_at": "2026-05-24T07:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058454514496409970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058454514496409970",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058449065155924025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 如果工作还能从事自己喜欢的工作，那可太好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058449065155924025",
+        "created_at": "2026-05-24T07:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058454514496409970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058454514496409970",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058449065155924025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 如果工作还能从事自己喜欢的工作，那可太好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547950839280439296",
+        "conversation_id": "2058449065155924025",
+        "created_at": "2026-05-24T07:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058449065155924025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058449065155924025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉能学自己喜欢的知识很幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "山东省烟台市莱山区",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 60,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 242
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 374,
+          "like_count": 16955,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 2350
+        },
+        "username": "jiangdadianshen",
+        "verified": false
+      }
+    ]
+  }
+}

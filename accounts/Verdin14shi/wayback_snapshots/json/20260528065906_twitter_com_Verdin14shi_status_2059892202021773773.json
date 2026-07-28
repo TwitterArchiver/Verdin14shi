@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059816652242309277",
+    "created_at": "2026-05-28T06:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059892202021773773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027537500546469888",
+          "start": 0,
+          "username": "Czar31838Hernan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059892202021773773",
+    "in_reply_to_user_id": "2027537500546469888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059816652242309277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Czar31838Hernan 节哀兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059816652242309277",
+        "created_at": "2026-05-28T06:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059892202021773773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027537500546469888",
+              "start": 0,
+              "username": "Czar31838Hernan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059892202021773773",
+        "in_reply_to_user_id": "2027537500546469888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059816652242309277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Czar31838Hernan 节哀兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027537500546469888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2059816652242309277",
+        "created_at": "2026-05-28T01:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059816652242309277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059816652242309277",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17025,
+          "like_count": 888,
+          "quote_count": 0,
+          "reply_count": 138,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Acaba de fallecer mi madre,, mi último familiar salvo hijos, mi pequeña princesa, perdon, estoy hecho mierda."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2059663336363774367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 491,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1304
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-28T00:13:25.000Z",
+        "description": "Lic. en Comunicación.",
+        "id": "2027537500546469888",
+        "name": "Her Czarniecki🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050539237834141696/WoCnYAwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 80,
+          "like_count": 5164,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1218
+        },
+        "username": "Czar31838Hernan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058587054137811098",
+    "created_at": "2026-05-25T07:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058808793669206453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983787218952192000",
+          "start": 0,
+          "username": "yly1248750"
+        },
+        {
+          "end": 22,
+          "id": "1980073016752304128",
+          "start": 12,
+          "username": "TonyLin_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058808793669206453",
+    "in_reply_to_user_id": "1983787218952192000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058750605988950466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yly1248750 @TonyLin_X 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058587054137811098",
+        "created_at": "2026-05-25T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058808793669206453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983787218952192000",
+              "start": 0,
+              "username": "yly1248750"
+            },
+            {
+              "end": 22,
+              "id": "1980073016752304128",
+              "start": 12,
+              "username": "TonyLin_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058808793669206453",
+        "in_reply_to_user_id": "1983787218952192000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058750605988950466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yly1248750 @TonyLin_X 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983787218952192000",
+        "conversation_id": "2058587054137811098",
+        "created_at": "2026-05-25T03:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058750605988950466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980073016752304128",
+              "start": 0,
+              "username": "TonyLin_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058750605988950466",
+        "in_reply_to_user_id": "1980073016752304128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058587054137811098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TonyLin_X 互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 215,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 604
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T06:45:12.000Z",
+        "description": "分享思考，自我成长，目的是重塑并建立起自己的价值观。摆脱穷人思维，实现财富自由和精神自由。",
+        "id": "1983787218952192000",
+        "name": "自我革命之路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015423479970172928/kcsnB4Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 756,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 415
+        },
+        "username": "yly1248750",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T00:46:31.000Z",
+        "description": "🌱 币圈韭菜天花板｜🃏德扑傻鱼代言人",
+        "id": "1980073016752304128",
+        "location": "X",
+        "name": "Tony Lin",
+        "pinned_tweet_id": "2058446135413666243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058366488449617920/ONWGghPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 367,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 217
+        },
+        "username": "TonyLin_X",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058489891768643722",
+    "created_at": "2026-05-24T12:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058532796466172201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939870862955753472",
+          "start": 0,
+          "username": "Mista449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058532796466172201",
+    "in_reply_to_user_id": "1939870862955753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058489891768643722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mista449 这个饺子真的很可爱欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2058489879340990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE5o4_bQAAcDIq.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058489891768643722",
+        "created_at": "2026-05-24T12:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058532796466172201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939870862955753472",
+              "start": 0,
+              "username": "Mista449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058532796466172201",
+        "in_reply_to_user_id": "1939870862955753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058489891768643722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mista449 这个饺子真的很可爱欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058489879340990464"
+          ]
+        },
+        "author_id": "1939870862955753472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058489891768643722",
+        "created_at": "2026-05-24T10:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058489891768643722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "蓝v"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "土耳其"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uiqedgL92",
+              "end": 61,
+              "expanded_url": "https://x.com/Mista449/status/2058489891768643722/photo/1",
+              "media_key": "3_2058489879340990464",
+              "start": 38,
+              "url": "https://t.co/9uiqedgL92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058489891768643722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家认可吗？新人蓝v 不到48小时的流量\n，一起加油！ #蓝v  #土耳其 https://t.co/9uiqedgL92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 109,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 402
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T02:17:28.000Z",
+        "description": "开发者｜AI 实践者｜独立思考者\n关注 AI Agent、产品开发与全球化机会。\n记录技术成长、项目实践和认知迭代。",
+        "id": "1939870862955753472",
+        "location": "地球",
+        "name": "Mista",
+        "pinned_tweet_id": "2057788669893992550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939871034313695232/NvU-MCOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 494,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 270
+        },
+        "username": "Mista449",
+        "verified": true
+      }
+    ]
+  }
+}

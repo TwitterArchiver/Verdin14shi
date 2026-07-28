@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058216588202107131",
+    "created_at": "2026-05-24T12:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058527782758727771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045591166154911744",
+          "start": 0,
+          "username": "Tistan170085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058527782758727771",
+    "in_reply_to_user_id": "2045591166154911744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058216588202107131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tistan170085 互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058216580778278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBBE0gbwAA6OKf.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058216588202107131",
+        "created_at": "2026-05-24T12:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527782758727771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045591166154911744",
+              "start": 0,
+              "username": "Tistan170085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527782758727771",
+        "in_reply_to_user_id": "2045591166154911744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058216588202107131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tistan170085 互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058216580778278912"
+          ]
+        },
+        "author_id": "2045591166154911744",
+        "conversation_id": "2058216588202107131",
+        "created_at": "2026-05-23T16:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058216588202107131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "互关"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "永不取关"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtnlJ5hRAa",
+              "end": 81,
+              "expanded_url": "https://x.com/Tistan170085/status/2058216588202107131/photo/1",
+              "media_key": "3_2058216580778278912",
+              "start": 58,
+              "url": "https://t.co/NtnlJ5hRAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058216588202107131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2328,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看一个号真不真关，会不会取关？\n我这样的数据，我关注别人多，意味着，有些人取关我？\n#互关 #永不取关 #蓝v互关 https://t.co/NtnlJ5hRAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 107,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 394
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T19:52:15.000Z",
+        "description": "告别限流、违规、低播放❗\n专业短视频去重/抗检/批量剪辑软件\n📌https://t.co/b6ip2Yd0a7\n想做搬运、矩阵、带货、二次剪辑直接滴滴\n#短视频工具 #AI剪辑 #去重神器 #搬运运营",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "短视频工具"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "AI剪辑"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "去重神器"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "搬运运营"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "videospro.coze.site/register?invit…",
+                "end": 55,
+                "expanded_url": "https://videospro.coze.site/register?invite_code=2KJRJ2",
+                "start": 32,
+                "url": "https://t.co/b6ip2Yd0a7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "videospro.coze.site/register?invit…",
+                "end": 23,
+                "expanded_url": "https://videospro.coze.site/register?invite_code=2KJRJ2",
+                "start": 0,
+                "url": "https://t.co/b6ip2Yd0a7"
+              }
+            ]
+          }
+        },
+        "id": "2045591166154911744",
+        "location": "Eastern District, Hong Kong",
+        "name": "Tistan",
+        "pinned_tweet_id": "2058354686789628400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598165752246272/pn_qLROp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 975,
+          "like_count": 86,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/b6ip2Yd0a7",
+        "username": "Tistan170085",
+        "verified": true
+      }
+    ]
+  }
+}

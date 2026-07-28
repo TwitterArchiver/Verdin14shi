@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2059442866234265831",
+    "created_at": "2026-05-27T01:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059442866234265831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KempeitaiX/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/KempeitaiX/status/2059384480926990709",
+          "start": 35,
+          "url": "https://t.co/xqyMSjVTGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059442866234265831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059384480926990709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些家伙说话过脑子吗，我觉得我只能在百度贴吧的弱智吧才能看到这些言论 https://t.co/xqyMSjVTGk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2059442866234265831",
+        "created_at": "2026-05-27T01:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059442866234265831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KempeitaiX/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/KempeitaiX/status/2059384480926990709",
+              "start": 35,
+              "url": "https://t.co/xqyMSjVTGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059442866234265831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059384480926990709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些家伙说话过脑子吗，我觉得我只能在百度贴吧的弱智吧才能看到这些言论 https://t.co/xqyMSjVTGk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054082267086258176",
+        "conversation_id": "2059269923525009454",
+        "created_at": "2026-05-26T21:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059384480926990709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1064526150506971136",
+              "start": 0,
+              "username": "meganehead1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059384480926990709",
+        "in_reply_to_user_id": "1064526150506971136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059269923525009454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meganehead1 中国共産党が政権を握れたのは、まさに日本人が裏で支えたからだ。もし日本人が共産党と連合して蒋介石を攻撃していなければ、彼らが台湾へ敗退することもなかっただろう。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 412,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1098
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T06:18:13.000Z",
+        "description": "私は中国人です。Xで日本の右派の宣伝手法を学び、中国のメディアで翻訳・転載する活動をしています。\nよろしくお願いします！🇯🇵🇯🇵🇯🇵",
+        "id": "2054082267086258176",
+        "name": "Kempeitai",
+        "pinned_tweet_id": "2057083701163683885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054083976378355712/A70iz1-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1194
+        },
+        "username": "KempeitaiX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058716002880499964",
+    "created_at": "2026-05-25T04:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058763306186522625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108658732295028737",
+          "start": 0,
+          "username": "hatachi0525"
+        },
+        {
+          "end": 25,
+          "id": "1953528457339834368",
+          "start": 13,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058763306186522625",
+    "in_reply_to_user_id": "1108658732295028737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058747152814543097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatachi0525 @redraft2000 还真是欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058716002880499964",
+        "created_at": "2026-05-25T04:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058763306186522625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            },
+            {
+              "end": 25,
+              "id": "1953528457339834368",
+              "start": 13,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058763306186522625",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058747152814543097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 @redraft2000 还真是欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "conversation_id": "2058716002880499964",
+        "created_at": "2026-05-25T03:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058747152814543097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058747152814543097",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058716002880499964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 找對象怎麼說的像是去市場買菜似的，有那麼好找就不會那麼多哥布林了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 169,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 530
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類互fo",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2056158364057706737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057181420041510912/OOZ-jWJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 71
+        },
+        "username": "hatachi0525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 109,
+          "like_count": 5287,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2157
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

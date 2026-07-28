@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059295782248034650",
+    "created_at": "2026-05-26T15:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059295782248034650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/captain_kent/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/captain_kent/status/2059185886093553919",
+          "start": 3,
+          "url": "https://t.co/hl3Q1wE8zQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059295782248034650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059185886093553919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不赖 https://t.co/hl3Q1wE8zQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2059185587530395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOyYb9acAAcpIK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059295782248034650",
+        "created_at": "2026-05-26T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059295782248034650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/captain_kent/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/captain_kent/status/2059185886093553919",
+              "start": 3,
+              "url": "https://t.co/hl3Q1wE8zQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059295782248034650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059185886093553919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不赖 https://t.co/hl3Q1wE8zQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059185587530395648"
+          ]
+        },
+        "author_id": "1720296579406667776",
+        "conversation_id": "2059185886093553919",
+        "created_at": "2026-05-26T08:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:11:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059185589967270093",
+          "2059185886093553919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1516941936971554817",
+              "start": 81,
+              "username": "wolfyxbt"
+            },
+            {
+              "end": 107,
+              "id": "1484231561784737792",
+              "start": 91,
+              "username": "AirdropAlchemis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKbfQrJTNC",
+              "end": 144,
+              "expanded_url": "https://x.com/captain_kent/status/2059185886093553919/photo/1",
+              "media_key": "3_2059185587530395648",
+              "start": 121,
+              "url": "https://t.co/tKbfQrJTNC"
+            },
+            {
+              "display_url": "x.com/joi___ai/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/joi___ai/status/2056518876243149258",
+              "start": 145,
+              "url": "https://t.co/8Wvf5KOUYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059185886093553919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 31467,
+          "like_count": 73,
+          "quote_count": 5,
+          "reply_count": 90,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056518876243149258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个项目在招手淫大使，2000刀一个月，会简单问些问题，通过就行。\n\n要求一周打4次飞机，记录打飞机对睡眠、作息等的影响，非常有意义。\n\n船长已经报名了，我推荐 @wolfyxbt @AirdropAlchemis 两位打飞机大神一起参与。 https://t.co/tKbfQrJTNC https://t.co/8Wvf5KOUYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 396,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1071
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T04:27:30.000Z",
+        "description": "⚓️ 原司法执法者 ➢ 现推特调情师\n👁‍🗨 加密投资 + 法政权谋 + 抽象新闻 + 两性哲学 \n💼 Arbitrum/Sapien/Jupiter/RealGo/StandX\n🍳 Solar/XHunt\n\n《非做勿扰》栏目创办人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/greatkent",
+                "end": 23,
+                "expanded_url": "http://t.me/greatkent",
+                "start": 0,
+                "url": "https://t.co/Ipv9a2C25C"
+              }
+            ]
+          }
+        },
+        "id": "1720296579406667776",
+        "location": "📨 TG：",
+        "name": "Captain Kent | 肯特船长🪶",
+        "pinned_tweet_id": "2058916427785261062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056229899476815872/P6cfqeym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31622,
+          "following_count": 4437,
+          "like_count": 91735,
+          "listed_count": 180,
+          "media_count": 2743,
+          "tweet_count": 79927
+        },
+        "url": "https://t.co/Ipv9a2C25C",
+        "username": "captain_kent",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058795233618649478",
+    "created_at": "2026-05-25T08:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058823168719040659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942138169451044865",
+          "start": 0,
+          "username": "jjjkkkunb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058823168719040659",
+    "in_reply_to_user_id": "1942138169451044865",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058795233618649478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjjkkkunb666 111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2058795223447457792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJPWQbbUAARs9b.png",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058795233618649478",
+        "created_at": "2026-05-25T08:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058823168719040659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942138169451044865",
+              "start": 0,
+              "username": "jjjkkkunb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058823168719040659",
+        "in_reply_to_user_id": "1942138169451044865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058795233618649478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjjkkkunb666 111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058795223447457792"
+          ]
+        },
+        "author_id": "1942138169451044865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058795233618649478",
+        "created_at": "2026-05-25T06:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058795233618649478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "蓝v"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAD3f9t8GX",
+              "end": 106,
+              "expanded_url": "https://x.com/jjjkkkunb666/status/2058795233618649478/photo/1",
+              "media_key": "3_2058795223447457792",
+              "start": 83,
+              "url": "https://t.co/mAD3f9t8GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058795233618649478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来一波蓝V互关，认识点真正长期在线的人。\n\n你做啥赛道都行，认真更新就好。\n\n别让好内容一直被埋，大家一起把流量做起来。\n\n有关必回，有口皆碑\n\n#蓝v #蓝v互关 https://t.co/mAD3f9t8GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 228,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 617
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T08:27:07.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/djsSgh2MNf 预测市场最快的跟单平台PolyCop：https://t.co/O5mmB1yafo 加入我的PolyMarket电报群：https://t.co/02fq1sDjHu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?r=PM888",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?r=PM888",
+                "start": 17,
+                "url": "https://t.co/djsSgh2MNf"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/O5mmB1yafo"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/02fq1sDjHu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2ljk.v516.shop/ok168",
+                "end": 23,
+                "expanded_url": "https://2ljk.v516.shop/ok168",
+                "start": 0,
+                "url": "https://t.co/Squ2tDULvy"
+              }
+            ]
+          }
+        },
+        "id": "1942138169451044865",
+        "location": "币圈你需要的全部工具👉 ",
+        "name": "区块链不是链",
+        "pinned_tweet_id": "2058736754295980267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942138350388887552/x-1I0i8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12415,
+          "following_count": 6517,
+          "like_count": 20341,
+          "listed_count": 21,
+          "media_count": 15526,
+          "tweet_count": 39096
+        },
+        "url": "https://t.co/Squ2tDULvy",
+        "username": "jjjkkkunb666",
+        "verified": true
+      }
+    ]
+  }
+}

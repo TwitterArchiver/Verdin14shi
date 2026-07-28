@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059554636579876956",
+    "created_at": "2026-05-27T08:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059558874827608134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194967056",
+          "start": 0,
+          "username": "0xjayfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059558874827608134",
+    "in_reply_to_user_id": "1194967056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059554636579876956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xjayfi 支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2059554633845264385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUCBwnbUAENAUU.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059554636579876956",
+        "created_at": "2026-05-27T08:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059558874827608134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194967056",
+              "start": 0,
+              "username": "0xjayfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059558874827608134",
+        "in_reply_to_user_id": "1194967056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554636579876956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xjayfi 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059554633845264385"
+          ]
+        },
+        "author_id": "1194967056",
+        "conversation_id": "2059554636579876956",
+        "created_at": "2026-05-27T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059554636579876956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuqPLfeTmL",
+              "end": 99,
+              "expanded_url": "https://x.com/0xjayfi/status/2059554636579876956/photo/1",
+              "media_key": "3_2059554633845264385",
+              "start": 76,
+              "url": "https://t.co/CuqPLfeTmL"
+            },
+            {
+              "display_url": "x.com/1194967056/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/1194967056/status/2057762165520736401",
+              "start": 100,
+              "url": "https://t.co/W4x8OmQHW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059554636579876956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057762165520736401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在你们眼里是这样的人吗？\n我像是经常在万达广场转悠的人吗？\n\n虽然你的昵称起的看起来有点文化，\n但是我真不互关这样的\n\n拒绝颜色、H关，\n从我做起！ https://t.co/CuqPLfeTmL https://t.co/W4x8OmQHW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 463,
+          "like_count": 796,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1189
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-18T21:31:57.000Z",
+        "description": "📄 Senior AI scientist \n🗂 Blockchain data explorer \n🧐 Trader | Posts are Not Financial Advice\n🧑🏻‍💻 Affiliate @nansen_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "nansen_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xjayfi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0xjayfi",
+                "start": 0,
+                "url": "https://t.co/sMyGA4Pfg8"
+              }
+            ]
+          }
+        },
+        "id": "1194967056",
+        "location": "https://discord.gg/SzmNw82kWM",
+        "name": "0xjayfi",
+        "pinned_tweet_id": "1991127071377268870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045326982406426624/A8nettzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6662,
+          "following_count": 4019,
+          "like_count": 36032,
+          "listed_count": 43,
+          "media_count": 1087,
+          "tweet_count": 20631
+        },
+        "url": "https://t.co/sMyGA4Pfg8",
+        "username": "0xjayfi",
+        "verified": true
+      }
+    ]
+  }
+}

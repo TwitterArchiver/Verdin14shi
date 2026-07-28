@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059099123459280989",
+    "created_at": "2026-05-27T05:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059502794110009638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "818146680587558913",
+          "start": 0,
+          "username": "Fermi_ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059502794110009638",
+    "in_reply_to_user_id": "818146680587558913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059500461317820919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fermi_ko 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059099123459280989",
+        "created_at": "2026-05-27T05:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059502794110009638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "818146680587558913",
+              "start": 0,
+              "username": "Fermi_ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059502794110009638",
+        "in_reply_to_user_id": "818146680587558913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059500461317820919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fermi_ko 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818146680587558913",
+        "conversation_id": "2059099123459280989",
+        "created_at": "2026-05-27T05:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059500461317820919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059500461317820919",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059219452978446638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 同个作者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 433,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1145
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-08T17:25:43.000Z",
+        "description": "PhD candidate in particle physics，language: EN/中文。不欢迎粉红。",
+        "id": "818146680587558913",
+        "location": "Z³",
+        "name": "Majorana費米子",
+        "pinned_tweet_id": "1155361944842330113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617602110207709184/GlRETZrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 1343,
+          "like_count": 92737,
+          "listed_count": 20,
+          "media_count": 1420,
+          "tweet_count": 42893
+        },
+        "username": "Fermi_ko",
+        "verified": false
+      }
+    ]
+  }
+}

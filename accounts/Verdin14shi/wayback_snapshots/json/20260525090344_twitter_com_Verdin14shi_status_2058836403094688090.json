@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058811130873836014",
+    "created_at": "2026-05-25T09:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058836403094688090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "269685116",
+          "start": 0,
+          "username": "Laura_Heales"
+        },
+        {
+          "end": 25,
+          "id": "1938273765202509824",
+          "start": 14,
+          "username": "Tianchaeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058836403094688090",
+    "in_reply_to_user_id": "269685116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058811325405344105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laura_Heales @Tianchaeth 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058811130873836014",
+        "created_at": "2026-05-25T09:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058836403094688090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "269685116",
+              "start": 0,
+              "username": "Laura_Heales"
+            },
+            {
+              "end": 25,
+              "id": "1938273765202509824",
+              "start": 14,
+              "username": "Tianchaeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058836403094688090",
+        "in_reply_to_user_id": "269685116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811325405344105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laura_Heales @Tianchaeth 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "269685116",
+        "conversation_id": "2058811130873836014",
+        "created_at": "2026-05-25T07:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058811325405344105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938273765202509824",
+              "start": 0,
+              "username": "Tianchaeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058811325405344105",
+        "in_reply_to_user_id": "1938273765202509824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811130873836014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tianchaeth 抱团取暖是生存之道但也确实挺无聊的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 255,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 655
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-21T08:12:46.000Z",
+        "description": "保持清醒，远离情绪，少犯错，就是进步，看淡一时盈亏，专注长期结果。 wx1:（httyny） wx2:（Sjy_769769） wx3:（btcuua） （tg：ttouuo） 《（详细点🔗，其他也有做哦》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "XS43ETkxaX.link-web.cc",
+                "end": 23,
+                "expanded_url": "https://XS43ETkxaX.link-web.cc",
+                "start": 0,
+                "url": "https://t.co/ySf5fvRlzE"
+              }
+            ]
+          }
+        },
+        "id": "269685116",
+        "name": "外环gate电流85范",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050556505175519232/ysqDmzUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 210,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/ySf5fvRlzE",
+        "username": "Laura_Heales",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T16:30:59.000Z",
+        "description": "六年老韭菜，BSC高级研究员,Bnbchain专家，天生锦鲤幸运体质！天才交易员爱投研爱分享生活赚钱。#Bnb｜#Binance｜#okx｜#btc｜Aspiring to become a rich woman with wealth and freedom 合作DM https://t.co/iwRbJoI6Jv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "Bnb"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "okx"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "btc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Tianchaeth",
+                "end": 159,
+                "expanded_url": "https://t.me/Tianchaeth",
+                "start": 136,
+                "url": "https://t.co/iwRbJoI6Jv"
+              }
+            ]
+          }
+        },
+        "id": "1938273765202509824",
+        "name": "甜茶",
+        "pinned_tweet_id": "2058811130873836014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001248425430671363/BQSkZDvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4908,
+          "following_count": 3333,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 3864
+        },
+        "username": "Tianchaeth",
+        "verified": true
+      }
+    ]
+  }
+}

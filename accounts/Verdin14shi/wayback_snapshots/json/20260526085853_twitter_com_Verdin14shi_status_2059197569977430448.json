@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059140871476678957",
+    "created_at": "2026-05-26T08:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059197569977430448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682058673038954496",
+          "start": 0,
+          "username": "Crypto77qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059197569977430448",
+    "in_reply_to_user_id": "1682058673038954496",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059140871476678957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crypto77qi 111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "3_2059140866409963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOJtUzbIAAQRRo.jpg",
+        "width": 192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059140871476678957",
+        "created_at": "2026-05-26T08:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059197569977430448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682058673038954496",
+              "start": 0,
+              "username": "Crypto77qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059197569977430448",
+        "in_reply_to_user_id": "1682058673038954496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059140871476678957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crypto77qi 111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059140866409963520"
+          ]
+        },
+        "author_id": "1682058673038954496",
+        "conversation_id": "2059140871476678957",
+        "created_at": "2026-05-26T05:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059140871476678957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJtJikFzTM",
+              "end": 164,
+              "expanded_url": "https://x.com/Crypto77qi/status/2059140871476678957/photo/1",
+              "media_key": "3_2059140866409963520",
+              "start": 141,
+              "url": "https://t.co/WJtJikFzTM"
+            },
+            {
+              "display_url": "x.com/crypto77qi/sta…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/crypto77qi/status/2058095253530484932",
+              "start": 165,
+              "url": "https://t.co/uRt0yp4hof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059140871476678957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 4,
+                "tag": "蓝v互关"
+              }
+            ]
+          },
+          "text": "第六期 #蓝v互关 开始\n\n老规矩，关注我没回直接评论区叼我\n\n不过很奇怪，这xhunt排名为啥就是不涨，有点像后期kaito的感觉\n\n都是ict互相抱团，新进的新人其实压根没有什么机会能够往前挤\n\n别说什么做内容，因为哪怕你做了内容，大部分排名高的也不会关注你的😂看不上你的内容\n\n所以你的受众群体，目前只能是咱这些需要赚点小钱的小散户\n\n互关一起抱团取暖吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1288,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058095253530484932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第六期 #蓝v互关 开始\n\n老规矩，关注我没回直接评论区叼我\n\n不过很奇怪，这xhunt排名为啥就是不涨，有点像后期kaito的感觉\n\n都是ict互相抱团，新进的新人其实压根没有什么机会能够往前挤\n\n别说什么做内容，因为哪怕你做了内容，大部分排名高的也不会关注你的😂看不上你的内容 https://t.co/WJtJikFzTM https://t.co/uRt0yp4hof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 353,
+          "like_count": 592,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 959
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T16:03:43.000Z",
+        "description": "最活跃的华语加密社区—77集团\n\nWEEX全球大使｜ Hotcoin大使～超高返佣链接🔗：https://t.co/Lb6YUfWWnX\n\n在X上日常分享一线行业资讯、实战经验与赛道深度看法，抱团交流，同行致远。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hotcoin.com/register?icCod…",
+                "end": 68,
+                "expanded_url": "https://www.hotcoin.com/register?icCode=k609cc25&hotcoinid=",
+                "start": 45,
+                "url": "https://t.co/Lb6YUfWWnX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Crypto77qi.com",
+                "end": 23,
+                "expanded_url": "http://www.Crypto77qi.com",
+                "start": 0,
+                "url": "https://t.co/gJABjMSw59"
+              }
+            ]
+          }
+        },
+        "id": "1682058673038954496",
+        "location": "九龍城, 香港",
+        "name": "Sevth7",
+        "pinned_tweet_id": "2058752498475917436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870663593299214336/eRZaedK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40181,
+          "following_count": 7393,
+          "like_count": 120996,
+          "listed_count": 56,
+          "media_count": 1896,
+          "tweet_count": 129530
+        },
+        "url": "https://t.co/gJABjMSw59",
+        "username": "Crypto77qi",
+        "verified": true
+      }
+    ]
+  }
+}

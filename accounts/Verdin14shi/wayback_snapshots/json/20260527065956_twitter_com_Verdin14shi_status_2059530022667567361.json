@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059212132147945611",
+    "created_at": "2026-05-27T06:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059530022667567361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414506986205433860",
+          "start": 0,
+          "username": "XPnftclub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059530022667567361",
+    "in_reply_to_user_id": "1414506986205433860",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059212132147945611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XPnftclub 1111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059212132147945611",
+        "created_at": "2026-05-27T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059530022667567361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414506986205433860",
+              "start": 0,
+              "username": "XPnftclub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059530022667567361",
+        "in_reply_to_user_id": "1414506986205433860",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059212132147945611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XPnftclub 1111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414506986205433860",
+        "conversation_id": "2059212132147945611",
+        "created_at": "2026-05-26T09:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059212132147945611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xpnftclub/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/xpnftclub/status/2059170046216470848",
+              "start": 135,
+              "url": "https://t.co/dtOXTGy1Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059212132147945611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1885,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059170046216470848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你账号少于5k粉丝一定要坚持 #蓝V互关\n\n很多人说会影响账号\n\n甚至还有说是傻B\n\n按我的经验看\n\n影响账号的是重复低效的评论\n\n粉丝数量是你的绝对底气\n\n先上500蓝粉，再上5M流量\n\n把绑卡跑通，就算没有收益再不济也要显示个“低于最低收益”\n\n这才是你坚持的动力 https://t.co/dtOXTGy1Tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 442,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1168
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-12T08:48:54.000Z",
+        "description": "Java 程序员🧑‍💻｜金融科技从业 🏦 ｜白名单交易创始人 ｜NFT OG｜6年币圈韭菜 🪙｜AI学习中📖",
+        "id": "1414506986205433860",
+        "location": "Hong Kong",
+        "name": "Punch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533001990606757888/MufHExsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 1920,
+          "like_count": 3455,
+          "listed_count": 16,
+          "media_count": 619,
+          "tweet_count": 8532
+        },
+        "username": "XPnftclub",
+        "verified": true
+      }
+    ]
+  }
+}

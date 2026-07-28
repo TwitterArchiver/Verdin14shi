@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059309698697036271",
+    "created_at": "2026-05-27T00:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059434546890960960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059434546890960960",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059309698697036271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Furina_8620 我来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059309698697036271",
+        "created_at": "2026-05-27T00:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059434546890960960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059434546890960960",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059309698697036271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furina_8620 我来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581226356326617088",
+        "conversation_id": "2059309698697036271",
+        "created_at": "2026-05-26T16:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059309698697036271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Furina_8620/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Furina_8620/status/2058876410585129241",
+              "start": 9,
+              "url": "https://t.co/2vjL1ENCLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059309698697036271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058876410585129241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲报：又少了两个 https://t.co/2vjL1ENCLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 399,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1077
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員，鋼琴音樂愛好者，巴別塔建設者，文化评论员\n鐵道｜航空｜旅行｜虹咲｜MyGO｜AuADHD&🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯空間站",
+        "name": "東北亞旅行家雪菜",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 333,
+          "like_count": 7954,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 2019
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

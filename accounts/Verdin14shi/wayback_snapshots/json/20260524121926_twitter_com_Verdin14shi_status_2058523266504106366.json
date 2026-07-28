@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058499080792482074",
+    "created_at": "2026-05-24T12:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058523266504106366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1984903197014855680",
+          "start": 0,
+          "username": "cuzyxd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058523266504106366",
+    "in_reply_to_user_id": "1984903197014855680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058523057153782264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzyxd_ 互fo一下好找你玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058499080792482074",
+        "created_at": "2026-05-24T12:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058523266504106366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984903197014855680",
+              "start": 0,
+              "username": "cuzyxd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058523266504106366",
+        "in_reply_to_user_id": "1984903197014855680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058523057153782264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzyxd_ 互fo一下好找你玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984903197014855680",
+        "conversation_id": "2058499080792482074",
+        "created_at": "2026-05-24T12:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058523057153782264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058523057153782264",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058499080792482074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 我是黑铁被人带上黄金的可以吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 105,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 385
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T08:39:47.000Z",
+        "description": "中文/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuzy99832",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cuzy99832",
+                "start": 0,
+                "url": "https://t.co/7ae9EHaEvk"
+              }
+            ]
+          }
+        },
+        "id": "1984903197014855680",
+        "location": "➡️",
+        "name": "CuzyXD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992634584278982656/6xgK4yKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 261,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/7ae9EHaEvk",
+        "username": "cuzyxd_",
+        "verified": false
+      }
+    ]
+  }
+}

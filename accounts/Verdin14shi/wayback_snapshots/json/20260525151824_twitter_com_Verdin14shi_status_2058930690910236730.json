@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058881549131780428",
+    "created_at": "2026-05-25T15:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058930690910236730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048309280332464128",
+          "start": 0,
+          "username": "xunnn996"
+        },
+        {
+          "end": 19,
+          "id": "1389853495688269824",
+          "start": 10,
+          "username": "ogodking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058930690910236730",
+    "in_reply_to_user_id": "2048309280332464128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058906913094717741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunnn996 @ogodking 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058881549131780428",
+        "created_at": "2026-05-25T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058930690910236730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048309280332464128",
+              "start": 0,
+              "username": "xunnn996"
+            },
+            {
+              "end": 19,
+              "id": "1389853495688269824",
+              "start": 10,
+              "username": "ogodking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930690910236730",
+        "in_reply_to_user_id": "2048309280332464128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058906913094717741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunnn996 @ogodking 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048309280332464128",
+        "conversation_id": "2058881549131780428",
+        "created_at": "2026-05-25T13:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058906913094717741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1389853495688269824",
+              "start": 0,
+              "username": "ogodking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058906913094717741",
+        "in_reply_to_user_id": "1389853495688269824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058881549131780428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogodking 反正就的空回复下，的空骂下，的空complain下又是一天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 309,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 751
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T07:55:20.000Z",
+        "description": "CFA｜前-TAS｜美股 Crypto 估值 \n记录生活、想法的转变\n*一切意见仅供参考，非投资建议 DYOR NFA*",
+        "id": "2048309280332464128",
+        "name": "xun牛马",
+        "pinned_tweet_id": "2058136755027747137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058085331275329537/xaY_iiq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 945,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 854
+        },
+        "username": "xunnn996",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-05T08:04:47.000Z",
+        "description": "🔥 Web3 & AI 实战派 | 只发真金白银的经验\n\n🎮 链游新游一血攻略 | 🤖 AI Agent 实操\n\n💡 每天带你搞清楚一个币圈真相\n\n不是大神，但踩过的坑够你绕开 90% 的路",
+        "id": "1389853495688269824",
+        "name": "OGod",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515035516005076992/vjnWyY1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1305,
+          "like_count": 1287,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 3865
+        },
+        "username": "ogodking",
+        "verified": true
+      }
+    ]
+  }
+}

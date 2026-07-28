@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058499080792482074",
+    "created_at": "2026-05-24T11:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058505150260724145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046458967249805312",
+          "start": 0,
+          "username": "Mildred1070518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058505150260724145",
+    "in_reply_to_user_id": "2046458967249805312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058505040453586969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mildred1070518 你也要打吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058499080792482074",
+        "created_at": "2026-05-24T11:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058505150260724145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046458967249805312",
+              "start": 0,
+              "username": "Mildred1070518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058505150260724145",
+        "in_reply_to_user_id": "2046458967249805312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058505040453586969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mildred1070518 你也要打吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046458967249805312",
+        "conversation_id": "2058499080792482074",
+        "created_at": "2026-05-24T11:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058505040453586969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058505040453586969",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058499080792482074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 🙌\n­\n✨\n­⁠\n💕\n\n‍ 🤟✌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 99,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 357
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T05:20:14.000Z",
+        "description": "想找我的宝宝点这里✈;https://t.co/6TC4WHq01n 安全靠谱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 34,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 11,
+                "url": "https://t.co/6TC4WHq01n"
+              }
+            ]
+          }
+        },
+        "id": "2046458967249805312",
+        "name": "依露~🌸同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505049328713728/7zlBXJTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 287
+        },
+        "username": "Mildred1070518",
+        "verified": false
+      }
+    ]
+  }
+}

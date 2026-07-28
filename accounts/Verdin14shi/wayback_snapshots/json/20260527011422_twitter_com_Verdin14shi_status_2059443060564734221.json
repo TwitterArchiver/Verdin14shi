@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059248718583607455",
+    "created_at": "2026-05-27T01:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059443060564734221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1539895164243963904",
+          "start": 0,
+          "username": "Bc8Lao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059443060564734221",
+    "in_reply_to_user_id": "1539895164243963904",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059248718583607455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bc8Lao 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2059248335312306177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPrc1qawAEIh13.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059248718583607455",
+        "created_at": "2026-05-27T01:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059443060564734221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1539895164243963904",
+              "start": 0,
+              "username": "Bc8Lao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059443060564734221",
+        "in_reply_to_user_id": "1539895164243963904",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059248718583607455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bc8Lao 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059248335312306177"
+          ]
+        },
+        "author_id": "1539895164243963904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2059248718583607455",
+        "created_at": "2026-05-26T12:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059248718583607455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuIEIpXcBC",
+              "end": 168,
+              "expanded_url": "https://x.com/Bc8Lao/status/2059248718583607455/photo/1",
+              "media_key": "3_2059248335312306177",
+              "start": 145,
+              "url": "https://t.co/JuIEIpXcBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059248718583607455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1431,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝 V 互关一波 🤝\n\n今天互关的小伙伴我都一一回关了，如有遗漏请在评论区叼我，我会第一时间补上，还请大家多多包涵。\n\nAI / Web3 / Crypto / 搞钱 / 效率工具 / 日常分享\n这些方向都欢迎来互关。\n\n也可以留下你的方向，大家相互交流。\n合适的话直接互关，后面多互动。 https://t.co/JuIEIpXcBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 413,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1099
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-23T08:56:58.000Z",
+        "description": "币圈待割小韭菜\nAI圈野生闲散人\n气氛组资深成员\n———————\n分享自己的一些\n日常 | 观点 | 想法",
+        "id": "1539895164243963904",
+        "name": "币圈8佬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418170395906048/JTJ5zpq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 782,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 715
+        },
+        "username": "Bc8Lao",
+        "verified": true
+      }
+    ]
+  }
+}

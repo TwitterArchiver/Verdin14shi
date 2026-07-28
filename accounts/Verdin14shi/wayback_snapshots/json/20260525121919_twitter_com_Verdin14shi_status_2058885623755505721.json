@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058865782184906877",
+    "created_at": "2026-05-25T12:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058885623755505721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1252387221849747456",
+          "start": 0,
+          "username": "akane3203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058885623755505721",
+    "in_reply_to_user_id": "1252387221849747456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058865782184906877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akane3203 别四宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058865782184906877",
+        "created_at": "2026-05-25T12:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058885623755505721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1252387221849747456",
+              "start": 0,
+              "username": "akane3203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058885623755505721",
+        "in_reply_to_user_id": "1252387221849747456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058865782184906877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akane3203 别四宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252387221849747456",
+        "conversation_id": "2058865782184906877",
+        "created_at": "2026-05-25T11:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058865782184906877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058865782184906877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好累啊，我不行了，我不干了，我投降了，没精力了，撑不住了，到极限了，彻底毁了，血槽空了，格式化了，你们活吧，我圆寂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 301,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 714
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "这是一个可怜的女孩 喜欢我就给我点钱入门帮帮我",
+        "id": "1252387221849747456",
+        "location": "问坐标20r 除入门外不回复其他消息",
+        "name": "茜",
+        "pinned_tweet_id": "2055315876455309787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 41,
+          "like_count": 376,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 1910
+        },
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

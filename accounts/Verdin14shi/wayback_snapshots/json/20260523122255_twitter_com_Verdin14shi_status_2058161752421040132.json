@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058050015193604217",
+    "created_at": "2026-05-23T12:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058161752421040132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979161342268366848",
+          "start": 0,
+          "username": "HaiEn74076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058161752421040132",
+    "in_reply_to_user_id": "1979161342268366848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058050015193604217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaiEn74076 我们一直喜欢这你，不要伤心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058050015193604217",
+        "created_at": "2026-05-23T12:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058161752421040132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979161342268366848",
+              "start": 0,
+              "username": "HaiEn74076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058161752421040132",
+        "in_reply_to_user_id": "1979161342268366848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058050015193604217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaiEn74076 我们一直喜欢这你，不要伤心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979161342268366848",
+        "conversation_id": "2058050015193604217",
+        "created_at": "2026-05-23T04:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058050015193604217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058050015193604217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1526,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢我的可以屏蔽我 别骂我好不好(T ^ T)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 110
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T12:23:42.000Z",
+        "description": "一些碎碎念 = ᗜ ω ᗜ =\n只是一个普通人 喜欢我可以请我吃小蛋糕^ ^\n不+v 不卖照片 无🚪不聊s\n私信会看内容回^ ^",
+        "id": "1979161342268366848",
+        "name": "咪",
+        "pinned_tweet_id": "2048776268011966512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018739851089391616/dbZZzVna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 68,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 427
+        },
+        "username": "HaiEn74076",
+        "verified": false
+      }
+    ]
+  }
+}

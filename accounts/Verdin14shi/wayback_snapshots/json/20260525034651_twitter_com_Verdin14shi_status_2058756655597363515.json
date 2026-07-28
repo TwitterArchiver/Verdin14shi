@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058591935108186158",
+    "created_at": "2026-05-25T03:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058756655597363515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "Senti_Maur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058756655597363515",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058591935108186158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senti_Maur 向死而生也要活下去好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058591935108186158",
+        "created_at": "2026-05-25T03:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058756655597363515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "Senti_Maur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058756655597363515",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058591935108186158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senti_Maur 向死而生也要活下去好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787714778116272128",
+        "conversation_id": "2058591935108186158",
+        "created_at": "2026-05-24T16:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058591935108186158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058591935108186158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就只有死路一條嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 162,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 500
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "｜可爱软萌16岁女高中生一枚 在这里分享可爱日常💖. 喜欢我就来找我聊天吧~｜🚪38｜58｜88｜",
+        "id": "1787714778116272128",
+        "location": "Real",
+        "name": "Mirruflex",
+        "pinned_tweet_id": "2055592277389853058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049359937705525248/XeXgXKY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 288,
+          "like_count": 5694,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2513
+        },
+        "username": "Senti_Maur",
+        "verified": false
+      }
+    ]
+  }
+}

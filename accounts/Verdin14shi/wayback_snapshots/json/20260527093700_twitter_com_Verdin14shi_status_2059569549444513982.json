@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059568144986063105",
+    "created_at": "2026-05-27T09:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059569549444513982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059569549444513982",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059568144986063105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 我认为药娘绝大多数都有心理问题，所以是前者"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2059568137717379072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUOTydbcAAuukS.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059568144986063105",
+        "created_at": "2026-05-27T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059569549444513982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059569549444513982",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059568144986063105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 我认为药娘绝大多数都有心理问题，所以是前者"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059568137717379072"
+          ]
+        },
+        "author_id": "1456872541952229379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059568144986063105",
+        "created_at": "2026-05-27T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059568144986063105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQI6KMHLnR",
+              "end": 53,
+              "expanded_url": "https://x.com/txqv3/status/2059568144986063105/photo/1",
+              "media_key": "3_2059568137717379072",
+              "start": 30,
+              "url": "https://t.co/BQI6KMHLnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059568144986063105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是自杀的人普遍是药娘，还是药娘大多会选择自杀，这是个问题🧐 https://t.co/BQI6KMHLnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 469,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1204
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "底层农村人，并非做题家，基本每天长时间推特在线，爱好分享一些自己的魔改手办收藏，有兴趣可以私我进q群玩，对各种卡牌也很有兴趣，有所收藏，做梦高手，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1109,
+          "like_count": 69727,
+          "listed_count": 6,
+          "media_count": 1392,
+          "tweet_count": 19004
+        },
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

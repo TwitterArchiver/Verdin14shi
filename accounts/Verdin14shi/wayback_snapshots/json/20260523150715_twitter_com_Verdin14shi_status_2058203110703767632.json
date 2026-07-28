@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058192675753558202",
+    "created_at": "2026-05-23T15:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058203110703767632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039983567586164737",
+          "start": 0,
+          "username": "zyuyuouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058203110703767632",
+    "in_reply_to_user_id": "2039983567586164737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058192675753558202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyuyuouo 早点睡觉喵，注意身体啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058192675753558202",
+        "created_at": "2026-05-23T15:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058203110703767632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039983567586164737",
+              "start": 0,
+              "username": "zyuyuouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058203110703767632",
+        "in_reply_to_user_id": "2039983567586164737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058192675753558202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyuyuouo 早点睡觉喵，注意身体啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039983567586164737",
+        "conversation_id": "2058192675753558202",
+        "created_at": "2026-05-23T14:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058192675753558202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058192675753558202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经无法保持人性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 41,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 196
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:30:51.000Z",
+        "description": "",
+        "id": "2039983567586164737",
+        "name": "痂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 160,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 154
+        },
+        "username": "zyuyuouo",
+        "verified": false
+      }
+    ]
+  }
+}

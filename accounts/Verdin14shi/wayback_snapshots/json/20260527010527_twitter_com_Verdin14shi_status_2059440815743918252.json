@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059188816779624883",
+    "created_at": "2026-05-27T01:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059440815743918252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1627216318926827521",
+          "start": 0,
+          "username": "kingzw888"
+        },
+        {
+          "end": 20,
+          "id": "1393193542537854976",
+          "start": 11,
+          "username": "spark888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059440815743918252",
+    "in_reply_to_user_id": "1627216318926827521",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059215833461878960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingzw888 @spark888 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-27T01:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059440815743918252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1627216318926827521",
+              "start": 0,
+              "username": "kingzw888"
+            },
+            {
+              "end": 20,
+              "id": "1393193542537854976",
+              "start": 11,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059440815743918252",
+        "in_reply_to_user_id": "1627216318926827521",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059215833461878960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingzw888 @spark888 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627216318926827521",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-26T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059215833461878960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059215833461878960",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188816779624883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spark888 来了哈哈哈评论区还有互关吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 409,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1093
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T07:59:48.000Z",
+        "description": "04年一个臭炒币的专注Al & Web3 & Crypto ｜@sentientAGI 大使 All In @SeismicSys Magnitude 8.0｜建设@RialoHQ |不做任何投资建议 Discord:kingkiss 分享加密点点滴滴 TG交流群⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "sentientAGI"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "SeismicSys"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "RialoHQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+QHwzil621ck4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+QHwzil621ck4NTk1",
+                "start": 0,
+                "url": "https://t.co/JjEUfKL9uH"
+              }
+            ]
+          }
+        },
+        "id": "1627216318926827521",
+        "location": "新加坡",
+        "name": "kingkiss",
+        "pinned_tweet_id": "2058855364679127397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015069936604106752/pwXmIJbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6516,
+          "following_count": 1996,
+          "like_count": 27440,
+          "listed_count": 27,
+          "media_count": 1518,
+          "tweet_count": 32514
+        },
+        "url": "https://t.co/JjEUfKL9uH",
+        "username": "kingzw888",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "金融硕士｜探索Crypto、AI ｜分享我的真知灼见",
+        "id": "1393193542537854976",
+        "location": "北京",
+        "name": "spark🌟",
+        "pinned_tweet_id": "2033477768139379001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056044941294686208/lNjNOU56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7744,
+          "following_count": 3068,
+          "like_count": 39259,
+          "listed_count": 60,
+          "media_count": 1205,
+          "tweet_count": 27811
+        },
+        "username": "spark888",
+        "verified": true
+      }
+    ]
+  }
+}

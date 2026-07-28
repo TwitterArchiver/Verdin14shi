@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058770571396300960",
+    "created_at": "2026-05-25T06:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058800883362934820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2502042468",
+          "start": 0,
+          "username": "naplndyy"
+        },
+        {
+          "end": 22,
+          "id": "1495291723672879105",
+          "start": 10,
+          "username": "BTCyuanying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058800883362934820",
+    "in_reply_to_user_id": "2502042468",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058783458046935133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naplndyy @BTCyuanying 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058770571396300960",
+        "created_at": "2026-05-25T06:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058800883362934820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2502042468",
+              "start": 0,
+              "username": "naplndyy"
+            },
+            {
+              "end": 22,
+              "id": "1495291723672879105",
+              "start": 10,
+              "username": "BTCyuanying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058800883362934820",
+        "in_reply_to_user_id": "2502042468",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058783458046935133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naplndyy @BTCyuanying 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2502042468",
+        "conversation_id": "2058770571396300960",
+        "created_at": "2026-05-25T05:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058783458046935133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1495291723672879105",
+              "start": 0,
+              "username": "BTCyuanying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058783458046935133",
+        "in_reply_to_user_id": "1495291723672879105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058770571396300960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTCyuanying 来了，借楼，必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 198,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 575
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-17T17:09:11.000Z",
+        "description": "数码技术｜eSIM \n旅居海外｜信息咨询",
+        "id": "2502042468",
+        "location": "Phoenix, AZ",
+        "name": "寅卯",
+        "pinned_tweet_id": "2042896768740790665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058659649545502720/TRycdk4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 262,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 383
+        },
+        "username": "naplndyy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T06:58:33.000Z",
+        "description": "我只希望明天的我，比今天的我更优秀。记录成长过程｜二级市场交易员｜一级投研小学生｜web3建设者｜所有文章仅为个人观点！商务DM:https://t.co/fYCLSm8bUr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yuanying318",
+                "end": 88,
+                "expanded_url": "https://t.me/yuanying318",
+                "start": 65,
+                "url": "https://t.co/fYCLSm8bUr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yuanying624",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yuanying624",
+                "start": 0,
+                "url": "https://t.co/DXC8DcfKTw"
+              }
+            ]
+          }
+        },
+        "id": "1495291723672879105",
+        "location": "元婴个人网站🚹",
+        "name": "元婴修士 | 渡劫版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034247517509136384/NsxZwbfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 3725,
+          "like_count": 6353,
+          "listed_count": 15,
+          "media_count": 968,
+          "tweet_count": 8028
+        },
+        "url": "https://t.co/DXC8DcfKTw",
+        "username": "BTCyuanying",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059846382912245820",
+    "created_at": "2026-05-28T13:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059992808795041953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1659961395906252801",
+          "start": 0,
+          "username": "0x10Me"
+        },
+        {
+          "end": 19,
+          "id": "1434001234260725764",
+          "start": 8,
+          "username": "bitcoin136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059992808795041953",
+    "in_reply_to_user_id": "1659961395906252801",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059875603306938765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x10Me @bitcoin136 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059846382912245820",
+        "created_at": "2026-05-28T13:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059992808795041953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1659961395906252801",
+              "start": 0,
+              "username": "0x10Me"
+            },
+            {
+              "end": 19,
+              "id": "1434001234260725764",
+              "start": 8,
+              "username": "bitcoin136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059992808795041953",
+        "in_reply_to_user_id": "1659961395906252801",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059875603306938765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x10Me @bitcoin136 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659961395906252801",
+        "conversation_id": "2059846382912245820",
+        "created_at": "2026-05-28T05:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059875603306938765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434001234260725764",
+              "start": 0,
+              "username": "bitcoin136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059875603306938765",
+        "in_reply_to_user_id": "1434001234260725764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059846382912245820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitcoin136 +1+1+1  我喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 499,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1329
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:37:00.000Z",
+        "description": "我是 𝟏𝟎，将持续分享科普与投研！合作请私信：https://t.co/JgWZ0u5zi3\n\n#OKX Web3 入口一个就够 - 欧易：👉 https://t.co/1iXYfqj8eE\n\n#Binance 加入全球最大交易所 - 币安：👉 https://t.co/Cr3BMvqbTd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "OKX"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ZenoFi",
+                "end": 46,
+                "expanded_url": "http://t.me/ZenoFi",
+                "start": 23,
+                "url": "https://t.co/JgWZ0u5zi3"
+              },
+              {
+                "display_url": "okx.com/join/59564904",
+                "end": 95,
+                "expanded_url": "http://okx.com/join/59564904",
+                "start": 72,
+                "url": "https://t.co/1iXYfqj8eE"
+              },
+              {
+                "display_url": "binance.com/join?ref=LP637",
+                "end": 146,
+                "expanded_url": "http://binance.com/join?ref=LP637",
+                "start": 123,
+                "url": "https://t.co/Cr3BMvqbTd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Builder_86",
+                "end": 23,
+                "expanded_url": "http://t.me/Builder_86",
+                "start": 0,
+                "url": "https://t.co/cyXr8x6LAo"
+              }
+            ]
+          }
+        },
+        "id": "1659961395906252801",
+        "location": " #Binance 广场创作者  |  动物园社区 👉 ",
+        "name": "0xZeno",
+        "pinned_tweet_id": "1751179772229808421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016022035936509952/rfwjm0KB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27976,
+          "following_count": 1790,
+          "like_count": 60722,
+          "listed_count": 157,
+          "media_count": 891,
+          "tweet_count": 43585
+        },
+        "url": "https://t.co/cyXr8x6LAo",
+        "username": "0x10Me",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-04T03:52:04.000Z",
+        "description": "前Web2叛徒 | 现Web3终身小白  |  7喜=7UP=BTC UP ONLY\n投资建议：反着买，别墅靠海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/family7up",
+                "end": 23,
+                "expanded_url": "https://t.me/family7up",
+                "start": 0,
+                "url": "https://t.co/gX3hMHgj7F"
+              }
+            ]
+          }
+        },
+        "id": "1434001234260725764",
+        "location": "moon",
+        "name": "七喜 | 7UP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918975596136366080/iULU0ClH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18567,
+          "following_count": 5035,
+          "like_count": 3868,
+          "listed_count": 88,
+          "media_count": 582,
+          "tweet_count": 11422
+        },
+        "url": "https://t.co/gX3hMHgj7F",
+        "username": "bitcoin136",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059893779193323520"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2059893790790619448",
+    "created_at": "2026-05-28T07:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059893790790619448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pNiU0tDvTz",
+          "end": 54,
+          "expanded_url": "https://x.com/Verdin14shi/status/2059893790790619448/photo/1",
+          "media_key": "3_2059893779193323520",
+          "start": 31,
+          "url": "https://t.co/pNiU0tDvTz"
+        },
+        {
+          "display_url": "x.com/shinkaimakoto/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/shinkaimakoto/status/2059098722840248477",
+          "start": 55,
+          "url": "https://t.co/qF8R3JUnNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059893790790619448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059098722840248477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经迫不及待看见您的新电影了，您的电影与相关小说都非常棒！ https://t.co/pNiU0tDvTz https://t.co/qF8R3JUnNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2059893779193323520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2enfa4AA6E7H.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059893779193323520"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2059893790790619448",
+        "created_at": "2026-05-28T07:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893790790619448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNiU0tDvTz",
+              "end": 54,
+              "expanded_url": "https://x.com/Verdin14shi/status/2059893790790619448/photo/1",
+              "media_key": "3_2059893779193323520",
+              "start": 31,
+              "url": "https://t.co/pNiU0tDvTz"
+            },
+            {
+              "display_url": "x.com/shinkaimakoto/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/shinkaimakoto/status/2059098722840248477",
+              "start": 55,
+              "url": "https://t.co/qF8R3JUnNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893790790619448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059098722840248477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经迫不及待看见您的新电影了，您的电影与相关小说都非常棒！ https://t.co/pNiU0tDvTz https://t.co/qF8R3JUnNm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147163321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2059098722840248477",
+        "created_at": "2026-05-26T02:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059098722840248477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jishnureddy19/…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/jishnureddy19/status/2059096771218100431",
+              "start": 173,
+              "url": "https://t.co/ODX97hdzCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059098722840248477",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 737,
+          "impression_count": 3129706,
+          "like_count": 12500,
+          "quote_count": 184,
+          "reply_count": 165,
+          "retweet_count": 1554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059096771218100431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The entire staff is working hard every day on my new film. I’m confident it’s going to be a great film, so please hang in there just a little longer until the announcement! https://t.co/ODX97hdzCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2059663336363774367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 492,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1306
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-23T11:11:55.000Z",
+        "description": "An animation director",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shinkaiworks.com",
+                "end": 23,
+                "expanded_url": "http://www.shinkaiworks.com",
+                "start": 0,
+                "url": "https://t.co/WKabUz8x1u"
+              }
+            ]
+          }
+        },
+        "id": "147163321",
+        "location": "Tokyo, Japan",
+        "name": "新海誠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1058800222/cat_icon_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055058,
+          "following_count": 521,
+          "like_count": 3792,
+          "listed_count": 4788,
+          "media_count": 2274,
+          "tweet_count": 9970
+        },
+        "url": "https://t.co/WKabUz8x1u",
+        "username": "shinkaimakoto",
+        "verified": true
+      }
+    ]
+  }
+}

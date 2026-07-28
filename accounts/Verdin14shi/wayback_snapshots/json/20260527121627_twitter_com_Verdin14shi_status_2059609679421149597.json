@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059578733338779737",
+    "created_at": "2026-05-27T12:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059609679421149597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048646811439738880",
+          "start": 0,
+          "username": "maomaojianga_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059609679421149597",
+    "in_reply_to_user_id": "2048646811439738880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059578733338779737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaojianga_ 抱抱你喵，不要做危险的事了，好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059578733338779737",
+        "created_at": "2026-05-27T12:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059609679421149597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048646811439738880",
+              "start": 0,
+              "username": "maomaojianga_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059609679421149597",
+        "in_reply_to_user_id": "2048646811439738880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578733338779737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaojianga_ 抱抱你喵，不要做危险的事了，好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048646811439738880",
+        "conversation_id": "2059578733338779737",
+        "created_at": "2026-05-27T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059578733338779737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059578733338779737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1048,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经被救过来了😭ICU太难熬了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 478,
+          "like_count": 835,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1241
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T06:19:52.000Z",
+        "description": "想交朋友，有没有药圈的可以和我交朋友，xyn，xnn之类的我都想交，多来点人和我交朋友，越多越好",
+        "id": "2048646811439738880",
+        "name": "猫猫",
+        "pinned_tweet_id": "2057532274502152563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 48,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "maomaojianga_",
+        "verified": false
+      }
+    ]
+  }
+}

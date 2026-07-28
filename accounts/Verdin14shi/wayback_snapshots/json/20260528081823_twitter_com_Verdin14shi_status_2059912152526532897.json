@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059677598045950439",
+    "created_at": "2026-05-28T08:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059912152526532897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1480066908154179585",
+          "start": 0,
+          "username": "xiangdangheike1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059912152526532897",
+    "in_reply_to_user_id": "1480066908154179585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059677598045950439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangdangheike1 我在……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059677598045950439",
+        "created_at": "2026-05-28T08:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059912152526532897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1480066908154179585",
+              "start": 0,
+              "username": "xiangdangheike1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912152526532897",
+        "in_reply_to_user_id": "1480066908154179585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059677598045950439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangdangheike1 我在……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480066908154179585",
+        "conversation_id": "2059677598045950439",
+        "created_at": "2026-05-27T16:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059677598045950439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059677598045950439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想跟别人说话了，我真的好累，为什么每个人都是这样冷漠，可以毫不负责的略过我的感受，却没有人在意我，仿佛我只是一个被索取的对象，是对方欲望的载体，我想要闭口不言，只做一个冰冷的物件。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 494,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1321
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-09T06:40:32.000Z",
+        "description": "黛玉冷笑道：“我就知道，别人不挑剩下的也不给我。”",
+        "id": "1480066908154179585",
+        "location": "地上天国",
+        "name": "bzdqmz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834884489337880577/HKI3gbn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 109,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "xiangdangheike1",
+        "verified": false
+      }
+    ]
+  }
+}

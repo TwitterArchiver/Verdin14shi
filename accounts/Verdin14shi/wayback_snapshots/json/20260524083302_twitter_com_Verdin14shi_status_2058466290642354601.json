@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058415198160236841",
+    "created_at": "2026-05-24T08:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058466290642354601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1452800767572594688",
+          "start": 0,
+          "username": "zgjncw2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058466290642354601",
+    "in_reply_to_user_id": "1452800767572594688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058415198160236841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zgjncw2024 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058415193382854656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJD1tmHaIAAqDok.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058415198160236841",
+        "created_at": "2026-05-24T08:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058466290642354601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452800767572594688",
+              "start": 0,
+              "username": "zgjncw2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058466290642354601",
+        "in_reply_to_user_id": "1452800767572594688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058415198160236841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zgjncw2024 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058415193382854656"
+          ]
+        },
+        "author_id": "1452800767572594688",
+        "conversation_id": "2058415198160236841",
+        "created_at": "2026-05-24T05:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058415198160236841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoDFMc7Rh2",
+              "end": 79,
+              "expanded_url": "https://x.com/zgjncw2024/status/2058415198160236841/photo/1",
+              "media_key": "3_2058415193382854656",
+              "start": 56,
+              "url": "https://t.co/GoDFMc7Rh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058415198160236841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2315,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝超过一万了，我心里还是没有安全感，和大V动不动流量成千上万比，还是太小，蓝v互关，我会回关你的，谢谢支持！ https://t.co/GoDFMc7Rh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 80,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 284
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-26T00:54:42.000Z",
+        "description": "2017年进入币圈的老韭菜，喜欢分析BTC，实际买山寨币的暴富幻想者，在暴富与爆亏中来回切换。在痛苦的回本过程中逐渐提高认知，分享自己的web3心得。",
+        "id": "1452800767572594688",
+        "name": "泉水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629315317817294848/w3EfN3Yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10319,
+          "following_count": 10604,
+          "like_count": 2476,
+          "listed_count": 10,
+          "media_count": 1511,
+          "tweet_count": 16457
+        },
+        "username": "zgjncw2024",
+        "verified": true
+      }
+    ]
+  }
+}

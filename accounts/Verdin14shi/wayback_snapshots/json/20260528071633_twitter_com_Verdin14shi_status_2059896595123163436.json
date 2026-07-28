@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059406531930751083",
+    "created_at": "2026-05-28T07:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059896595123163436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059896595123163436",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059406531930751083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 真的好美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059406528965435394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJR7U68a4AIhuZe.jpg",
+        "width": 1226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-28T07:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059896595123163436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059896595123163436",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059406531930751083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 真的好美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059406528965435394"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059406531930751083",
+        "created_at": "2026-05-26T22:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059406531930751083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zzs0GmSGlJ",
+              "end": 44,
+              "expanded_url": "https://x.com/IXXA00/status/2059406531930751083/photo/1",
+              "media_key": "3_2059406528965435394",
+              "start": 21,
+              "url": "https://t.co/Zzs0GmSGlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059406531930751083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 14799,
+          "like_count": 551,
+          "quote_count": 2,
+          "reply_count": 141,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "早上好。\n36岁。\n人生开始进入下半场。 https://t.co/Zzs0GmSGlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 492,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1313
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2059406531930751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7098,
+          "following_count": 4504,
+          "like_count": 40535,
+          "listed_count": 18,
+          "media_count": 2965,
+          "tweet_count": 40412
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

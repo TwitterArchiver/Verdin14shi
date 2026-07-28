@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058910036303429805",
+    "created_at": "2026-05-26T01:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059087593476878801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059087593476878801",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058910036303429805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058910036303429805",
+        "created_at": "2026-05-26T01:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059087593476878801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059087593476878801",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910036303429805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2058910036303429805",
+        "created_at": "2026-05-25T13:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058910036303429805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058910036303429805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 20368,
+          "like_count": 282,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "男妹妹手部护理指南\n干净细腻的手，才更有女性化的氛围感\n\n1 清洁：干净是第一步\n\n每天早晚用温和的氨基酸洗手液洗手，尤其指缝、指甲缝、虎口等容易藏污的地方要重点清洁。\n每周1次去角质，去除老废角质，让后续护理更好吸收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 318,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 802
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2058418322090373297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7399,
+          "following_count": 355,
+          "like_count": 1015,
+          "listed_count": 18,
+          "media_count": 156,
+          "tweet_count": 1936
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

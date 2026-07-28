@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059188816779624883",
+    "created_at": "2026-05-27T01:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059440897218298065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972491209827553280",
+          "start": 0,
+          "username": "church83534"
+        },
+        {
+          "end": 22,
+          "id": "1393193542537854976",
+          "start": 13,
+          "username": "spark888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059440897218298065",
+    "in_reply_to_user_id": "1972491209827553280",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059210339485712487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@church83534 @spark888 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "16_2059210323358556160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJPI4QGaoAAdDBq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJPI4QGaoAAdDBq.mp4"
+          }
+        ],
+        "width": 242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-27T01:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059440897218298065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972491209827553280",
+              "start": 0,
+              "username": "church83534"
+            },
+            {
+              "end": 22,
+              "id": "1393193542537854976",
+              "start": 13,
+              "username": "spark888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059440897218298065",
+        "in_reply_to_user_id": "1972491209827553280",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059210339485712487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@church83534 @spark888 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059210323358556160"
+          ]
+        },
+        "author_id": "1972491209827553280",
+        "conversation_id": "2059188816779624883",
+        "created_at": "2026-05-26T09:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059210339485712487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393193542537854976",
+              "start": 0,
+              "username": "spark888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TFxFFttxa",
+              "end": 33,
+              "expanded_url": "https://x.com/church83534/status/2059210339485712487/photo/1",
+              "media_key": "16_2059210323358556160",
+              "start": 10,
+              "url": "https://t.co/5TFxFFttxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059210339485712487",
+        "in_reply_to_user_id": "1393193542537854976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188816779624883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spark888 https://t.co/5TFxFFttxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 412,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1097
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-29T02:39:03.000Z",
+        "description": "Elon Musk is my eternal idol. I firmly believe he leads humanity toward a brighter future\n提升认知、拒绝内耗、逆风翻盘",
+        "id": "1972491209827553280",
+        "name": "知了猴",
+        "pinned_tweet_id": "2046682396465168692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053363580888846336/Ae4yOFSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 169,
+          "like_count": 4811,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 2096
+        },
+        "username": "church83534",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T13:16:48.000Z",
+        "description": "金融硕士｜探索Crypto、AI ｜分享我的真知灼见",
+        "id": "1393193542537854976",
+        "location": "北京",
+        "name": "spark🌟",
+        "pinned_tweet_id": "2033477768139379001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056044941294686208/lNjNOU56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7744,
+          "following_count": 3068,
+          "like_count": 39259,
+          "listed_count": 60,
+          "media_count": 1205,
+          "tweet_count": 27811
+        },
+        "username": "spark888",
+        "verified": true
+      }
+    ]
+  }
+}

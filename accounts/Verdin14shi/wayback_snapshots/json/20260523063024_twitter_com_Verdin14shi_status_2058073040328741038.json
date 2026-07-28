@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058073029012582400",
+        "3_2058073028999942144"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058073040328741038",
+    "created_at": "2026-05-23T06:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058073040328741038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DF4w9Wg9hO",
+          "end": 60,
+          "expanded_url": "https://x.com/Verdin14shi/status/2058073040328741038/photo/1",
+          "media_key": "3_2058073029012582400",
+          "start": 37,
+          "url": "https://t.co/DF4w9Wg9hO"
+        },
+        {
+          "display_url": "pic.x.com/DF4w9Wg9hO",
+          "end": 60,
+          "expanded_url": "https://x.com/Verdin14shi/status/2058073040328741038/photo/1",
+          "media_key": "3_2058073028999942144",
+          "start": 37,
+          "url": "https://t.co/DF4w9Wg9hO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058073040328741038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次体育场不得不品鉴的一环，如果你知道为什么说明你大概率看过好几次现场球 https://t.co/DF4w9Wg9hO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058073029012582400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI--hAgbcAAlqiN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058073028999942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI--hAdakAAIvDC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058073029012582400",
+            "3_2058073028999942144"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058073040328741038",
+        "created_at": "2026-05-23T06:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058073040328741038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF4w9Wg9hO",
+              "end": 60,
+              "expanded_url": "https://x.com/Verdin14shi/status/2058073040328741038/photo/1",
+              "media_key": "3_2058073029012582400",
+              "start": 37,
+              "url": "https://t.co/DF4w9Wg9hO"
+            },
+            {
+              "display_url": "pic.x.com/DF4w9Wg9hO",
+              "end": 60,
+              "expanded_url": "https://x.com/Verdin14shi/status/2058073040328741038/photo/1",
+              "media_key": "3_2058073028999942144",
+              "start": 37,
+              "url": "https://t.co/DF4w9Wg9hO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058073040328741038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次体育场不得不品鉴的一环，如果你知道为什么说明你大概率看过好几次现场球 https://t.co/DF4w9Wg9hO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      }
+    ]
+  }
+}

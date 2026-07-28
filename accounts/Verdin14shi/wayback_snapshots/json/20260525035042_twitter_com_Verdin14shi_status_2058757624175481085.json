@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058670243841777712",
+    "created_at": "2026-05-25T03:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058757624175481085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        },
+        {
+          "end": 21,
+          "id": "1942289325338886144",
+          "start": 8,
+          "username": "kanoandbetty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058757624175481085",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058707048406339703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 @kanoandbetty 能把几把变得又白又细的就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058670243841777712",
+        "created_at": "2026-05-25T03:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058757624175481085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            },
+            {
+              "end": 21,
+              "id": "1942289325338886144",
+              "start": 8,
+              "username": "kanoandbetty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058757624175481085",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058707048406339703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 @kanoandbetty 能把几把变得又白又细的就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058670243841777712",
+        "created_at": "2026-05-25T00:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058707048406339703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942289325338886144",
+              "start": 0,
+              "username": "kanoandbetty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058707048406339703",
+        "in_reply_to_user_id": "1942289325338886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058670243841777712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanoandbetty 啥时候医院能有鸡巴整形手术啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 163,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 506
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7048,
+          "following_count": 4501,
+          "like_count": 40281,
+          "listed_count": 18,
+          "media_count": 2951,
+          "tweet_count": 40211
+        },
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T18:27:44.000Z",
+        "description": "我就是负能量很多 不喜欢可以拉黑我",
+        "id": "1942289325338886144",
+        "name": "kano",
+        "pinned_tweet_id": "2025298784474075504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046291292796469248/Fz3RpmQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7525,
+          "following_count": 56,
+          "like_count": 1461,
+          "listed_count": 21,
+          "media_count": 67,
+          "tweet_count": 824
+        },
+        "username": "kanoandbetty",
+        "verified": false
+      }
+    ]
+  }
+}

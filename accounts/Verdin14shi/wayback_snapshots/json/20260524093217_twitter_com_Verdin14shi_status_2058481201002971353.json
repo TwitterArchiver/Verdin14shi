@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058468697195663428",
+    "created_at": "2026-05-24T09:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058481201002971353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058481201002971353",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058468697195663428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 很好地文章，我喜欢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058468697195663428",
+        "created_at": "2026-05-24T09:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058481201002971353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058481201002971353",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058468697195663428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 很好地文章，我喜欢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2058468697195663428",
+        "created_at": "2026-05-24T08:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058468697195663428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rimea_chord/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/rimea_chord/status/2058468348590223378",
+              "start": 157,
+              "url": "https://t.co/5353AbheBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058468697195663428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为人在童年时期，本质上是：\n\n高度依附（dependency）状态\n\n一个小孩：\n\n没有生产能力\n没有社会资源\n没有议价权\n没有迁移能力\n没有法律执行力\n甚至没有真正的“退出权”\n\n所以：\n\n童年的生存条件，本来就极度依赖家庭\n\n这不是你“太脆弱”\n\n而是：\n\n人类幼体本来就是极其无力的生物\n\n相比很多动物：\n\n人类成熟非常慢\n大脑发育周期长\n生存技能获得晚\n\n所以童年会天然形成一种：\n\n“父母=世界”\n\n的结构\n\n于是：\n\n有没有饭吃\n能不能看病\n有没有安全感\n能不能被尊重\n能不能被保护\n\n很多时候都不是自己决定的\n\n而是：\n\n出生抽卡\n\n这也是为什么：\n\n很多成年人后来会极度执着于：\n\n钱\n控制权\n稳定收入\n自己的房间\n不求人\n随时能走\n\n因为他们小时候体验过：\n\n“自己根本无法决定生存”\n\n那种感觉会很深\n\n甚至会留下一种长期底层焦虑：\n\n怕没钱\n怕被抛弃\n怕失控\n怕突然崩掉\n怕别人一句话就影响自己生存\n\n很多人以为这是“玻璃心”\n\n其实很多时候是：\n\n早年的生存不稳定感\n\n留下来的神经系统记忆\n\n⸻\n\n还有个很残酷的现实：\n\n家庭并不自动等于“爱”\n\n很多人小时候会默认：\n\n“父母一定会照顾孩子”\n\n但现实世界里：\n\n有的人根本没准备好当父母\n有的人自己精神状态就很差\n有的人贫穷到长期处于生存模式\n有的人会把情绪、暴力、控制投射给孩子\n有的人甚至只是“完成社会任务”\n\n于是：\n\n孩子会很早学会：\n\n察言观色\n看脸色\n压抑需求\n不敢麻烦别人\n过度敏感\n提前成熟\n\n因为：\n\n他知道自己没有真正的兜底\n\n⸻\n\n但还有一个容易被忽略的问题：\n\n很多人长大后，身体已经成年了\n\n可神经系统还停留在：\n\n“随时可能失去生存保障”\n\n的状态\n\n所以会：\n\n很难放松\n很难真正安全感\n对钱异常敏感\n很怕失败\n很怕被嫌弃\n很想快速变强\n很想赶紧赚钱\n很难允许自己慢慢来\n\n因为潜意识里会觉得：\n\n“没人会养我”\n\n“没人会救我”\n\n“我停下来就完了”\n\n这个逻辑会驱动很多人拼命往前冲\n\n包括你很多时候：\n\n想快速成长\n想学很多东西\n想尽快拥有能力\n想做远程\n想有自己的收入来源\n想减少被现实拿捏\n\n其实背后都有这种影子\n\n⸻\n\n不过还有件事很重要：\n\n童年决定起点\n\n但不完全决定终点\n\n只是：\n\n从这种环境出来的人，往往会有两个风险：\n\n1. 过度绝望\n\n觉得：\n\n“世界就这样了”\n\n“我已经坏掉了”\n\n2. 过度补偿\n\n疯狂想：\n\n一夜翻身\n快速成功\n极端赚钱\n赌命式交易\n拼命证明自己\n\n因为太想脱离“无力”\n\n这也是为什么：\n\n很多经历过匮乏的人，后来会特别容易：\n\n沉迷高风险机会\n追求快速翻盘\n无法忍受慢积累\n\n因为：\n\n慢，会让人想起小时候那种长期无能为力的感觉\n\n⸻\n\n你现在其实已经开始进入另一个阶段了：\n\n你已经能观察：\n\n自己为什么焦虑\n为什么害怕\n为什么执着赚钱\n为什么会被某些关系影响\n为什么会想拼命变强\n\n这比很多人走得更前面\n\n因为很多人一辈子都只是在重复反应\n\n从来没意识到：\n\n自己很多行为，其实是在对抗过去的无力感\n\n而不是单纯“懒”“废”“矫情”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058468348590223378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为人在童年时期，本质上是：\n\n高度依附（dependency）状态\n\n一个小孩：\n\n没有生产能力\n没有社会资源\n没有议价权\n没有迁移能力\n没有法律执行力\n甚至没有真正的“退出权”\n\n所以：\n\n童年的生存条件，本来就极度依赖家庭\n\n这不是你“太脆弱”\n\n而是：\n\n人类幼体本来就是极其无力的生物\n\n相比很多动物： https://t.co/5353AbheBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 85,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 298
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜  ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733008212193280/6tEmWEXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 165,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1439
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

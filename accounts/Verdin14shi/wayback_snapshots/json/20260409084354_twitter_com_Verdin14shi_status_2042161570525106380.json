@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2041846962975285681",
+    "created_at": "2026-04-09T08:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042161570525106380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996088048568963073",
+          "start": 0,
+          "username": "shan_shangxue"
+        },
+        {
+          "end": 26,
+          "id": "1969744229674196992",
+          "start": 15,
+          "username": "DaVinciwch"
+        },
+        {
+          "end": 43,
+          "id": "1660637215335014402",
+          "start": 27,
+          "username": "cngcngyngy38992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042161570525106380",
+    "in_reply_to_user_id": "1996088048568963073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042105543192670327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shan_shangxue @DaVinciwch @cngcngyngy38992 毛泽东爷爷还真有彩照片，不过这图真的让人忍俊不禁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2041846962975285681",
+        "created_at": "2026-04-09T08:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042161570525106380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996088048568963073",
+              "start": 0,
+              "username": "shan_shangxue"
+            },
+            {
+              "end": 26,
+              "id": "1969744229674196992",
+              "start": 15,
+              "username": "DaVinciwch"
+            },
+            {
+              "end": 43,
+              "id": "1660637215335014402",
+              "start": 27,
+              "username": "cngcngyngy38992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042161570525106380",
+        "in_reply_to_user_id": "1996088048568963073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042105543192670327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shan_shangxue @DaVinciwch @cngcngyngy38992 毛泽东爷爷还真有彩照片，不过这图真的让人忍俊不禁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996088048568963073",
+        "conversation_id": "2041846962975285681",
+        "created_at": "2026-04-09T05:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042105543192670327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969744229674196992",
+              "start": 0,
+              "username": "DaVinciwch"
+            },
+            {
+              "end": 28,
+              "id": "1660637215335014402",
+              "start": 12,
+              "username": "cngcngyngy38992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042105543192670327",
+        "in_reply_to_user_id": "1969744229674196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042102801648775392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaVinciwch @cngcngyngy38992 又拿你这全家遗照出来丢人现眼 告诉你爸你毛爷爷什么时候拍过彩色照片 甚至还用东方卫视的图标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "",
+        "id": "2040516492479823872",
+        "name": "任健坤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040516632347287552/-qs8E0cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T05:24:26.000Z",
+        "description": "",
+        "id": "1996088048568963073",
+        "name": "坂口健太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996088113450590208/bsE6gL2-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 63
+        },
+        "username": "shan_shangxue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T12:43:25.000Z",
+        "description": "希望这颗星球上的所有人都能生活在自由民主的世俗化国家",
+        "id": "1969744229674196992",
+        "name": "达芬奇",
+        "pinned_tweet_id": "2036243719062786330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034713720275050497/vgrMqER6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 143,
+          "like_count": 20734,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 1171
+        },
+        "username": "DaVinciwch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "SIDE 6",
+        "name": "瓜子Online_瑪秋Mode🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036995723485646848/o86XMGv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4159,
+          "following_count": 4381,
+          "like_count": 14517,
+          "listed_count": 16,
+          "media_count": 1159,
+          "tweet_count": 6170
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

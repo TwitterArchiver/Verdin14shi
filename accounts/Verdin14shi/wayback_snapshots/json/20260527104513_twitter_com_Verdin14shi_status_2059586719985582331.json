@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059586719985582331",
+    "created_at": "2026-05-27T10:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059586719985582331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miomiokawai/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/miomiokawai/status/2059568314863796348",
+          "start": 18,
+          "url": "https://t.co/JWKoCEtDnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059586719985582331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059568314863796348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点自我怀疑了……\n我好像做错了？ https://t.co/JWKoCEtDnZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059586719985582331",
+        "created_at": "2026-05-27T10:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059586719985582331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miomiokawai/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/miomiokawai/status/2059568314863796348",
+              "start": 18,
+              "url": "https://t.co/JWKoCEtDnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059586719985582331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059568314863796348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点自我怀疑了……\n我好像做错了？ https://t.co/JWKoCEtDnZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148722927935490",
+        "conversation_id": "2059566272481005702",
+        "created_at": "2026-05-27T09:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059568314863796348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059568314863796348",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566272481005702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 我不会劝你别死\n因为我也没能力救你\n阻止你死掉\n然后任由你痛苦的活着\n是一件很糟糕的事情\n在我看来\n救人不应该是阻止对方自杀这么简单\n没能力解除或大幅降低别人活着的痛苦\n就不应该救人\n疯的并不是你，宝宝\n是这个世界疯了\n如果你需要\n我可以一直都在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 472,
+          "like_count": 820,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1215
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T04:00:17.000Z",
+        "description": "Ciallo～",
+        "id": "1893148722927935490",
+        "location": "Your heart",
+        "name": "SweetsInMate",
+        "pinned_tweet_id": "1983224062693511450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963515355265208320/borYDv6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 106,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1136
+        },
+        "username": "miomiokawai",
+        "verified": false
+      }
+    ]
+  }
+}

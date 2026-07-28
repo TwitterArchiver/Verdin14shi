@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058178538704916761",
+    "created_at": "2026-05-23T14:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058195163227574698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851962067236065281",
+          "start": 0,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058195163227574698",
+    "in_reply_to_user_id": "1851962067236065281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178538704916761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzzzzz467732 那就把这辈子活得好一点，好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058178538704916761",
+        "created_at": "2026-05-23T14:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058195163227574698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851962067236065281",
+              "start": 0,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058195163227574698",
+        "in_reply_to_user_id": "1851962067236065281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178538704916761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzzzzz467732 那就把这辈子活得好一点，好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2058178538704916761",
+        "created_at": "2026-05-23T13:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058178538704916761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058178538704916761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人死了就应该彻底死了啊他妈的凭什么还要有来世 每次看见祝别人来世幸福什么的我都觉得很恶毒 完全接受不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 小男娘（欢迎赛博性骚扰） 双性恋  暂辍学在家 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 39,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 161
+        },
+        "username": "Verdin14shi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "薄巧/炸玉 2012.8.11 自伤 od 此号含大量负能 看成分回fo 防炸@boqiaoahm4\n视奸每一个和我互动的人👁️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "pinned_tweet_id": "2035690693428203950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 285,
+          "like_count": 2349,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1196
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

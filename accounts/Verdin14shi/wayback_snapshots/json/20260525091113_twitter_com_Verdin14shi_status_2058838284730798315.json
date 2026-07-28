@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058759832166072428",
+    "created_at": "2026-05-25T09:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058838284730798315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058838284730798315",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058759832166072428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 恭喜恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2058759826717732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIvJ5Va8AAtwMj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058759832166072428",
+        "created_at": "2026-05-25T09:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058838284730798315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058838284730798315",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058759832166072428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 恭喜恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058759826717732864"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "conversation_id": "2058759832166072428",
+        "created_at": "2026-05-25T03:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058759832166072428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6gekIYAvk",
+              "end": 32,
+              "expanded_url": "https://x.com/luoling8192/status/2058759832166072428/photo/1",
+              "media_key": "3_2058759826717732864",
+              "start": 9,
+              "url": "https://t.co/D6gekIYAvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058759832166072428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2215,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科目一过了，哈哈 https://t.co/D6gekIYAvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 263,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 671
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / 独立开发者 / 生活 & 技术分享 / 努力成为 Vibe code cleanup specialist 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6106,
+          "following_count": 1046,
+          "like_count": 9721,
+          "listed_count": 45,
+          "media_count": 523,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

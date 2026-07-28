@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2056716907827573242",
+    "created_at": "2026-05-24T11:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058516721242128792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990034028322570240",
+          "start": 0,
+          "username": "vintcessun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058516721242128792",
+    "in_reply_to_user_id": "1990034028322570240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056716907827573242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vintcessun 我可以么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2056716907827573242",
+        "created_at": "2026-05-24T11:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058516721242128792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990034028322570240",
+              "start": 0,
+              "username": "vintcessun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058516721242128792",
+        "in_reply_to_user_id": "1990034028322570240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056716907827573242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vintcessun 我可以么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990034028322570240",
+        "conversation_id": "2056716907827573242",
+        "created_at": "2026-05-19T12:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056716907827573242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GiftCoin_BASE/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/GiftCoin_BASE/status/2056608286691168271",
+              "start": 48,
+              "url": "https://t.co/rxV4mQdrvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056716907827573242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1019,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056608286691168271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加入蓝V互助池！推主亲自验证并回复“已回关”的号都是靠谱的高质量蓝V。关注并在评论区留言即可！ https://t.co/rxV4mQdrvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 103,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 376
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T12:27:53.000Z",
+        "description": "蓝V互关；技术；AI；纳指100；学生",
+        "id": "1990034028322570240",
+        "name": "恒星",
+        "pinned_tweet_id": "2056716907827573242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054828909582225408/r6AimQV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 364,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 485
+        },
+        "username": "vintcessun",
+        "verified": true
+      }
+    ]
+  }
+}

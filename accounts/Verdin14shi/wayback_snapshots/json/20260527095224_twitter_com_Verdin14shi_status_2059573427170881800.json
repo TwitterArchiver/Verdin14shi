@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059563762852540629",
+    "created_at": "2026-05-27T09:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059573427170881800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012841769105567744",
+          "start": 0,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059573427170881800",
+    "in_reply_to_user_id": "2012841769105567744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059563762852540629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18nuun 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059563762852540629",
+        "created_at": "2026-05-27T09:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059573427170881800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012841769105567744",
+              "start": 0,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059573427170881800",
+        "in_reply_to_user_id": "2012841769105567744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059563762852540629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18nuun 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012841769105567744",
+        "conversation_id": "2059563762852540629",
+        "created_at": "2026-05-27T09:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059563762852540629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059563762852540629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很开心…今天和父亲聊了，最好的一件事是，父亲终于接受了我的跨性别！！！\n\n好开心好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 470,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1205
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜永远的爱人@dnshu135734｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBShHX"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 38,
+          "like_count": 267,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/zuGwDBShHX",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

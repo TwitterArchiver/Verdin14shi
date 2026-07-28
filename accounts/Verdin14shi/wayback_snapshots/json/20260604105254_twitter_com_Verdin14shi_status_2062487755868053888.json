@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2062155193844977905",
+    "created_at": "2026-06-04T10:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062487755868053888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859913912898191361",
+          "start": 0,
+          "username": "socieiy2008"
+        },
+        {
+          "end": 20,
+          "id": "420187841",
+          "start": 13,
+          "username": "tugshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062487755868053888",
+    "in_reply_to_user_id": "1859913912898191361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062406544155980185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@socieiy2008 @tugshi 王丹是真出生吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2062155193844977905",
+        "created_at": "2026-06-04T10:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062487755868053888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859913912898191361",
+              "start": 0,
+              "username": "socieiy2008"
+            },
+            {
+              "end": 20,
+              "id": "420187841",
+              "start": 13,
+              "username": "tugshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062487755868053888",
+        "in_reply_to_user_id": "1859913912898191361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062406544155980185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@socieiy2008 @tugshi 王丹是真出生吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859913912898191361",
+        "conversation_id": "2062155193844977905",
+        "created_at": "2026-06-04T05:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062406544155980185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "420187841",
+              "start": 0,
+              "username": "tugshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062406544155980185",
+        "in_reply_to_user_id": "420187841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062155193844977905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tugshi 以为的颜色革命：西方国家\n真正的颜色革命：老毕邓（邓小平）与王丹（学生领袖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 519,
+          "like_count": 943,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1383
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-22T10:57:04.000Z",
+        "description": "接纳二次元爱好者|本人立场：团结中左派一致对资。反帝反修|反对粉红反贼|霍查派革命|自由左派路线|支持无产阶级自由民主体制和人民自由（工农自由）|联合全世界人民群众与左派、温和与务实右派|支持议会和宪政的社会主义制度|转贴|导师：@qjbJaTPk8u26S0a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "qjbJaTPk8u26S0a"
+              }
+            ]
+          }
+        },
+        "id": "1859913912898191361",
+        "location": "工农人民国",
+        "name": "人民的山鹰者🚩🇺🇳🇪🇺🇨🇳🇦🇱🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041538848069722112/4oRbxaxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 7501,
+          "like_count": 5333,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 15202
+        },
+        "username": "socieiy2008",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-24T09:11:40.000Z",
+        "description": "写点啥呢？你说我写点啥呢？还没想好写点啥呢。",
+        "id": "420187841",
+        "name": "三生石",
+        "pinned_tweet_id": "1753594241534865803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867730168254803973/MMml96B8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10295,
+          "following_count": 856,
+          "like_count": 114655,
+          "listed_count": 57,
+          "media_count": 3888,
+          "tweet_count": 43982
+        },
+        "username": "tugshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058792971223589150",
+    "created_at": "2026-05-25T06:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058793704232718689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057330468874526720",
+          "start": 0,
+          "username": "b1efengwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058793704232718689",
+    "in_reply_to_user_id": "2057330468874526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058792971223589150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b1efengwo 阿萨姆奶茶确实好喝欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058792971223589150",
+        "created_at": "2026-05-25T06:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058793704232718689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057330468874526720",
+              "start": 0,
+              "username": "b1efengwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058793704232718689",
+        "in_reply_to_user_id": "2057330468874526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058792971223589150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b1efengwo 阿萨姆奶茶确实好喝欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057330468874526720",
+        "conversation_id": "2058792971223589150",
+        "created_at": "2026-05-25T06:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058792971223589150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b1efengwo/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/b1efengwo/status/2058789861746958435",
+              "start": 48,
+              "url": "https://t.co/VthTrau6NA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058792971223589150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058789861746958435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝了瓶阿萨姆好多了 这个饮料含糖量高 仅次于可乐，所以如果不喜欢喝碳酸饮料的宝宝们可以选阿萨姆 https://t.co/VthTrau6NA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 179,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 551
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T05:21:46.000Z",
+        "description": "我也忘了是几代目了💦",
+        "id": "2057330468874526720",
+        "name": "Mercy 不要封我求你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057331116739358720/HYfrK5eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 130,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "b1efengwo",
+        "verified": false
+      }
+    ]
+  }
+}

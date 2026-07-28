@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059921302283317723",
+    "created_at": "2026-05-28T08:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059921302283317723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1637612498731044866",
+          "start": 3,
+          "username": "ieigaiei1328571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059921302283317723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059852175195713764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ieigaiei1328571: ⚠️悪質なデマ⚠️\n\n164さんによる楽曲、『天ノ弱』が15年前というデマ情報が拡散されているようです！\n最近このようなデマが増えてきているのでご注意を！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059921302283317723",
+        "created_at": "2026-05-28T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059921302283317723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1637612498731044866",
+              "start": 3,
+              "username": "ieigaiei1328571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059921302283317723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852175195713764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ieigaiei1328571: ⚠️悪質なデマ⚠️\n\n164さんによる楽曲、『天ノ弱』が15年前というデマ情報が拡散されているようです！\n最近このようなデマが増えてきているのでご注意を！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637612498731044866",
+        "conversation_id": "2059852175195713764",
+        "created_at": "2026-05-28T04:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059852175195713764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059852175195713764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 391774,
+          "like_count": 702,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️悪質なデマ⚠️\n\n164さんによる楽曲、『天ノ弱』が15年前というデマ情報が拡散されているようです！\n最近このようなデマが増えてきているのでご注意を！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 495,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1322
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T00:31:12.000Z",
+        "description": "UTAU調声依頼大歓迎！！！(無料)\n数学と音楽が大好き\nUTAUカバー作ってる人\nDMは怪しい人は無視します\n各SNSもフォローしてね♡\nめちゃめちゃフォローします。許して\n\n↓ニコ動↓\n【https://t.co/mJ4IGwBu7L】\n\n↓ようつべ↓\n【https://t.co/SALImYTZum】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nico.ms/user/126162792",
+                "end": 119,
+                "expanded_url": "https://nico.ms/user/126162792",
+                "start": 96,
+                "url": "https://t.co/mJ4IGwBu7L"
+              },
+              {
+                "display_url": "00m.in/xqZYq",
+                "end": 153,
+                "expanded_url": "https://00m.in/xqZYq",
+                "start": 130,
+                "url": "https://t.co/SALImYTZum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/dBuWBdwzAJ30929",
+                "end": 23,
+                "expanded_url": "https://x.com/dBuWBdwzAJ30929",
+                "start": 0,
+                "url": "https://t.co/dazby1j3sV"
+              }
+            ]
+          }
+        },
+        "id": "1637612498731044866",
+        "location": "MIMIさんが好きだ！",
+        "name": "▼えぴめに▼",
+        "pinned_tweet_id": "2058880797688701378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015387006625562624/wdOkDqBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 2450,
+          "like_count": 71389,
+          "listed_count": 3,
+          "media_count": 1244,
+          "tweet_count": 11735
+        },
+        "url": "https://t.co/dazby1j3sV",
+        "username": "ieigaiei1328571",
+        "verified": false
+      }
+    ]
+  }
+}

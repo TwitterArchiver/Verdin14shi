@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059846382912245820",
+    "created_at": "2026-05-28T13:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059992850041876698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724715280205836288",
+          "start": 0,
+          "username": "Guomin184935"
+        },
+        {
+          "end": 25,
+          "id": "1434001234260725764",
+          "start": 14,
+          "username": "bitcoin136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059992850041876698",
+    "in_reply_to_user_id": "1724715280205836288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059964586506527108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guomin184935 @bitcoin136 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059846382912245820",
+        "created_at": "2026-05-28T13:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059992850041876698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724715280205836288",
+              "start": 0,
+              "username": "Guomin184935"
+            },
+            {
+              "end": 25,
+              "id": "1434001234260725764",
+              "start": 14,
+              "username": "bitcoin136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059992850041876698",
+        "in_reply_to_user_id": "1724715280205836288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059964586506527108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guomin184935 @bitcoin136 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724715280205836288",
+        "conversation_id": "2059846382912245820",
+        "created_at": "2026-05-28T11:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059964586506527108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434001234260725764",
+              "start": 0,
+              "username": "bitcoin136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059964586506527108",
+        "in_reply_to_user_id": "1434001234260725764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059846382912245820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitcoin136 互关起来~大家都关注一下 必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 500,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1330
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T09:05:49.000Z",
+        "description": "Core @Flywheel_DAO \n华语区代表 @Arbitrum & @SonicLabs\n🏅Co-founder @Opensky_888\n合作：https://t.co/sB6I0HFE1J\nMinanr 自动化交易策略：https://t.co/yG3dPrd30V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Flywheel_DAO"
+              },
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Arbitrum"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "SonicLabs"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "Opensky_888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/futakocui008",
+                "end": 100,
+                "expanded_url": "http://t.me/futakocui008",
+                "start": 77,
+                "url": "https://t.co/sB6I0HFE1J"
+              },
+              {
+                "display_url": "minara.ai/r/AKIIII",
+                "end": 139,
+                "expanded_url": "http://minara.ai/r/AKIIII",
+                "start": 116,
+                "url": "https://t.co/yG3dPrd30V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+37Z_n_nUrjkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+37Z_n_nUrjkzZTk1",
+                "start": 0,
+                "url": "https://t.co/lznqchecvX"
+              }
+            ]
+          }
+        },
+        "id": "1724715280205836288",
+        "location": "Telegram 社群：",
+        "name": "Akiii 🦅",
+        "pinned_tweet_id": "1915971261924278653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056205024121036801/QN070CVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52662,
+          "following_count": 7656,
+          "like_count": 89497,
+          "listed_count": 340,
+          "media_count": 2277,
+          "tweet_count": 74135
+        },
+        "url": "https://t.co/lznqchecvX",
+        "username": "Guomin184935",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-04T03:52:04.000Z",
+        "description": "前Web2叛徒 | 现Web3终身小白  |  7喜=7UP=BTC UP ONLY\n投资建议：反着买，别墅靠海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/family7up",
+                "end": 23,
+                "expanded_url": "https://t.me/family7up",
+                "start": 0,
+                "url": "https://t.co/gX3hMHgj7F"
+              }
+            ]
+          }
+        },
+        "id": "1434001234260725764",
+        "location": "moon",
+        "name": "七喜 | 7UP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918975596136366080/iULU0ClH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18567,
+          "following_count": 5035,
+          "like_count": 3868,
+          "listed_count": 88,
+          "media_count": 582,
+          "tweet_count": 11422
+        },
+        "url": "https://t.co/gX3hMHgj7F",
+        "username": "bitcoin136",
+        "verified": true
+      }
+    ]
+  }
+}

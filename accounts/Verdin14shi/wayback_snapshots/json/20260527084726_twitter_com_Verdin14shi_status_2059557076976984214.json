@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059471091329016084",
+    "created_at": "2026-05-27T08:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059557076976984214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "345849737",
+          "start": 0,
+          "username": "ShirotoriHitomi"
+        },
+        {
+          "end": 27,
+          "id": "1762479983568515073",
+          "start": 17,
+          "username": "yingge001"
+        },
+        {
+          "end": 33,
+          "id": "1720665183188922368",
+          "start": 28,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059557076976984214",
+    "in_reply_to_user_id": "345849737",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059488709997912477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShirotoriHitomi @yingge001 @grok 1123"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059471091329016084",
+        "created_at": "2026-05-27T08:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059557076976984214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "345849737",
+              "start": 0,
+              "username": "ShirotoriHitomi"
+            },
+            {
+              "end": 27,
+              "id": "1762479983568515073",
+              "start": 17,
+              "username": "yingge001"
+            },
+            {
+              "end": 33,
+              "id": "1720665183188922368",
+              "start": 28,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059557076976984214",
+        "in_reply_to_user_id": "345849737",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059488709997912477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShirotoriHitomi @yingge001 @grok 1123"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "345849737",
+        "conversation_id": "2059471091329016084",
+        "created_at": "2026-05-27T04:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059488709997912477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762479983568515073",
+              "start": 0,
+              "username": "yingge001"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059488709997912477",
+        "in_reply_to_user_id": "1762479983568515073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059471091329016084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingge001 @grok 已关求回，有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 454,
+          "like_count": 793,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1181
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-31T08:22:11.000Z",
+        "description": "喜欢音乐 偏爱日系核 业余玩玩吉他🎸\n果粉 主机游戏 咖啡爱好者",
+        "id": "345849737",
+        "name": "白鳥 瞳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761713416736219136/-_nJnbXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 381,
+          "like_count": 641,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1223
+        },
+        "username": "ShirotoriHitomi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T14:09:15.000Z",
+        "description": "#DOGE 粉丝\n21年链游入圈，老韭菜的翻身记 #BNB #HTX\n\n分享真实项目、链上机会和生活态度\n\n享受每一天！\nEnjoy every day ! \n\n空投爱好者*   活动宣发*  KOL矩阵宣发*   诚招冠名\n不做投资建议⚠",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "DOGE"
+              },
+              {
+                "end": 29,
+                "start": 25,
+                "tag": "BNB"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "HTX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/heidanya",
+                "end": 23,
+                "expanded_url": "https://t.me/heidanya",
+                "start": 0,
+                "url": "https://t.co/ZPfBO6fQmh"
+              }
+            ]
+          }
+        },
+        "id": "1762479983568515073",
+        "location": "Kol Manager 👉",
+        "name": "闫大胆",
+        "pinned_tweet_id": "2059471091329016084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034437194119872512/qScw4QTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32951,
+          "following_count": 6672,
+          "like_count": 80585,
+          "listed_count": 64,
+          "media_count": 1225,
+          "tweet_count": 51426
+        },
+        "url": "https://t.co/ZPfBO6fQmh",
+        "username": "yingge001",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8774138,
+          "following_count": 4,
+          "like_count": 96,
+          "listed_count": 6920,
+          "media_count": 8979629,
+          "tweet_count": 127217304
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

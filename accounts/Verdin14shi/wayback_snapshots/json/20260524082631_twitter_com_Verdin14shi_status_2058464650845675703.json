@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058454464424726680",
+    "created_at": "2026-05-24T08:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058464650845675703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058464650845675703",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058454464424726680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 好复杂的表情……好像有好多故事又无可奈何"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_2058454451019808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEZasNbgAAJSul.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058454464424726680",
+        "created_at": "2026-05-24T08:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058464650845675703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058464650845675703",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058454464424726680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 好复杂的表情……好像有好多故事又无可奈何"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058454451019808768"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2058454464424726680",
+        "created_at": "2026-05-24T07:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058454464424726680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBUtHYzHwh",
+              "end": 49,
+              "expanded_url": "https://x.com/IXXA00/status/2058454464424726680/photo/1",
+              "media_key": "3_2058454451019808768",
+              "start": 26,
+              "url": "https://t.co/TBUtHYzHwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058454464424726680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，不要羡慕我有解决你们并不存在的问题的能力。 https://t.co/TBUtHYzHwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心里性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 75,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 279
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2057271964809699631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 4501,
+          "like_count": 40241,
+          "listed_count": 18,
+          "media_count": 2946,
+          "tweet_count": 40170
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

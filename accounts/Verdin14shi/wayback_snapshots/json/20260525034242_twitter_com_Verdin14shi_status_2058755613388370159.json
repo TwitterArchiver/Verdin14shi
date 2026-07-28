@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058589148249047246",
+    "created_at": "2026-05-25T03:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058755613388370159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896077810655170560",
+          "start": 0,
+          "username": "zhyzhy655231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058755613388370159",
+    "in_reply_to_user_id": "1896077810655170560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058589148249047246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhyzhy655231 试试玩玩别的分散一下注意力……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2058589141768773632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGT6uWaoAAvMeH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058589148249047246",
+        "created_at": "2026-05-25T03:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058755613388370159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896077810655170560",
+              "start": 0,
+              "username": "zhyzhy655231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058755613388370159",
+        "in_reply_to_user_id": "1896077810655170560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058589148249047246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhyzhy655231 试试玩玩别的分散一下注意力……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058589141768773632"
+          ]
+        },
+        "author_id": "1896077810655170560",
+        "conversation_id": "2058589148249047246",
+        "created_at": "2026-05-24T16:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058589148249047246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LOtuYk7Oe",
+              "end": 28,
+              "expanded_url": "https://x.com/zhyzhy655231/status/2058589148249047246/photo/1",
+              "media_key": "3_2058589141768773632",
+              "start": 5,
+              "url": "https://t.co/2LOtuYk7Oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058589148249047246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真讨厌啊 https://t.co/2LOtuYk7Oe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 161,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 491
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-02T05:59:37.000Z",
+        "description": "病み垢 | 顺性别女 | 重度抑郁 | 16岁休学中 | 基本想到什么发什么 | 互fo",
+        "id": "1896077810655170560",
+        "name": "血野澪",
+        "pinned_tweet_id": "2053521630190837999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041804787503812608/vN38r6MB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 54,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "username": "zhyzhy655231",
+        "verified": false
+      }
+    ]
+  }
+}

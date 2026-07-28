@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058872911600230644",
+    "created_at": "2026-05-26T03:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059116976815874385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902691463252852736",
+          "start": 0,
+          "username": "xinggu233893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059116976815874385",
+    "in_reply_to_user_id": "1902691463252852736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872911600230644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinggu233893 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2058872908857135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKWAJIa0AA7ups.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058872911600230644",
+        "created_at": "2026-05-26T03:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059116976815874385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902691463252852736",
+              "start": 0,
+              "username": "xinggu233893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059116976815874385",
+        "in_reply_to_user_id": "1902691463252852736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872911600230644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinggu233893 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058872908857135104"
+          ]
+        },
+        "author_id": "1902691463252852736",
+        "conversation_id": "2058872911600230644",
+        "created_at": "2026-05-25T11:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058872911600230644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ahqoei54gU",
+              "end": 27,
+              "expanded_url": "https://x.com/xinggu233893/status/2058872911600230644/photo/1",
+              "media_key": "3_2058872908857135104",
+              "start": 4,
+              "url": "https://t.co/Ahqoei54gU"
+            },
+            {
+              "display_url": "x.com/S315258043/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/S315258043/status/2054833997893771466",
+              "start": 28,
+              "url": "https://t.co/ngRzVR53hX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872911600230644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 443,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054833997893771466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复活了 https://t.co/Ahqoei54gU https://t.co/ngRzVR53hX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 332,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 871
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高一牲 | MTX🏳️‍⚧️ |  泛性恋🏳️‍🌈  | 推上唯一的真穷鬼 | 165cm 42kg左右 | 无证含糖🍥（暂停） | 负能量警告‼️ | 微民科、民哲 | 坐标江西 | 随缘回fo | 长期碎碎念 | 抑郁质人格\n副人格：@s315258043",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "s315258043"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "location": "天国候车站",
+        "name": "斯仁S-315（垃圾帖大王） 🏳️‍⚧️",
+        "pinned_tweet_id": "2044708093305733221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039714212101160960/wyTFBp0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 242,
+          "like_count": 7510,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false
+      }
+    ]
+  }
+}

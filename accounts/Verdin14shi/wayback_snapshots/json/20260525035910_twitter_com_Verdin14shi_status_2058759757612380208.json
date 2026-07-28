@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2058524642533634096",
+    "created_at": "2026-05-25T03:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058759757612380208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491009032408244225",
+          "start": 0,
+          "username": "jycnhope_ASD152"
+        },
+        {
+          "end": 29,
+          "id": "1870108535268487169",
+          "start": 17,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058759757612380208",
+    "in_reply_to_user_id": "1491009032408244225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058527966825713934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jycnhope_ASD152 @MomoseReina 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058524642533634096",
+        "created_at": "2026-05-25T03:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058759757612380208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491009032408244225",
+              "start": 0,
+              "username": "jycnhope_ASD152"
+            },
+            {
+              "end": 29,
+              "id": "1870108535268487169",
+              "start": 17,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058759757612380208",
+        "in_reply_to_user_id": "1491009032408244225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058527966825713934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jycnhope_ASD152 @MomoseReina 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491009032408244225",
+        "conversation_id": "2058524642533634096",
+        "created_at": "2026-05-24T12:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527966825713934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527966825713934",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058524642533634096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 和xql出门大概率当电灯泡（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？（欢迎赛博性骚扰） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 166,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 517
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T11:20:43.000Z",
+        "description": "喜欢可爱的人和事物，生产日期保密，是mtf，可能比较抽象，有男朋友...不割手/不od/精神正常/上推只是为了视奸别人xxx\n游戏/世界计划/maimai/各种音游/ba/，兴趣爱好可能暂无\n通常不发帖喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SakurabaEma_nya",
+                "end": 23,
+                "expanded_url": "http://t.me/SakurabaEma_nya",
+                "start": 0,
+                "url": "https://t.co/rPpRAUOZq6"
+              }
+            ]
+          }
+        },
+        "id": "1491009032408244225",
+        "location": "看你背后nya~",
+        "name": "桜羽エマ🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052122397504049152/O5plJ1kA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 630,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/rPpRAUOZq6",
+        "username": "jycnhope_ASD152",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 337,
+          "like_count": 8357,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 5802
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

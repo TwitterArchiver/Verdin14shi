@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059464354358333630",
+    "created_at": "2026-05-27T03:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059473781991817713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4687433964",
+          "start": 0,
+          "username": "SprieCoding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059473781991817713",
+    "in_reply_to_user_id": "4687433964",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059473686818877521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SprieCoding ^⁠_⁠^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059464354358333630",
+        "created_at": "2026-05-27T03:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059473781991817713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4687433964",
+              "start": 0,
+              "username": "SprieCoding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059473781991817713",
+        "in_reply_to_user_id": "4687433964",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059473686818877521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SprieCoding ^⁠_⁠^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4687433964",
+        "conversation_id": "2059464354358333630",
+        "created_at": "2026-05-27T03:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059473686818877521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059473686818877521",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059473454148284656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 谢谢你哦喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 429,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1132
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-01T06:06:58.000Z",
+        "description": "btc、eth、bnb坚定持有者｜AI浪潮中的踏浪人，卷不死就往死里卷｜比亚迪微微微小股东｜拥抱科技，分享学习过程中的成果｜分享生活的点点滴滴 | 蓝V必回，诚信互关",
+        "id": "4687433964",
+        "location": "Wall Street",
+        "name": "周周",
+        "pinned_tweet_id": "2050800695239127479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049230864546942976/Yx_GuQEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 2215,
+          "like_count": 1396,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 4099
+        },
+        "username": "SprieCoding",
+        "verified": true
+      }
+    ]
+  }
+}

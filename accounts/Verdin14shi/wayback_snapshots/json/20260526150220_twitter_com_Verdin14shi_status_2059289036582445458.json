@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059282646761607289",
+    "created_at": "2026-05-26T15:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059289036582445458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882404951726641152",
+          "start": 0,
+          "username": "OtenkiYasugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059289036582445458",
+    "in_reply_to_user_id": "1882404951726641152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059287114752393400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtenkiYasugawa 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059282646761607289",
+        "created_at": "2026-05-26T15:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059289036582445458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882404951726641152",
+              "start": 0,
+              "username": "OtenkiYasugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059289036582445458",
+        "in_reply_to_user_id": "1882404951726641152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059287114752393400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtenkiYasugawa 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882404951726641152",
+        "conversation_id": "2059282646761607289",
+        "created_at": "2026-05-26T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059287114752393400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059287114752393400",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059282646761607289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 晚安喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 391,
+          "like_count": 684,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1064
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T12:28:21.000Z",
+        "description": "我的身躯、思绪，它到底算不算，精彩？",
+        "id": "1882404951726641152",
+        "location": "赫尔辛根默斯肯",
+        "name": "御天木安河#Merak",
+        "pinned_tweet_id": "2055699091318059128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055698686336995328/eocfP0Zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 481,
+          "like_count": 22626,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 982
+        },
+        "username": "OtenkiYasugawa",
+        "verified": false
+      }
+    ]
+  }
+}

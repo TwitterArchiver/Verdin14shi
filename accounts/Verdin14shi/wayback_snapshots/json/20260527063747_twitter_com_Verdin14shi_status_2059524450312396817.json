@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059524440757780481"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059389485369245865",
+    "created_at": "2026-05-27T06:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059524450312396817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882405123772887040",
+          "start": 0,
+          "username": "th_firest_cute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bNW3WfhO2G",
+          "end": 43,
+          "expanded_url": "https://x.com/Verdin14shi/status/2059524450312396817/photo/1",
+          "media_key": "3_2059524440757780481",
+          "start": 20,
+          "url": "https://t.co/bNW3WfhO2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059524450312396817",
+    "in_reply_to_user_id": "1882405123772887040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059389485369245865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@th_firest_cute 陪一张 https://t.co/bNW3WfhO2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2059524440757780481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTmkSmaQAEDDaj.jpg",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2059389482806448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRr0tDakAAaZjI.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059524440757780481"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059389485369245865",
+        "created_at": "2026-05-27T06:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059524450312396817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882405123772887040",
+              "start": 0,
+              "username": "th_firest_cute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNW3WfhO2G",
+              "end": 43,
+              "expanded_url": "https://x.com/Verdin14shi/status/2059524450312396817/photo/1",
+              "media_key": "3_2059524440757780481",
+              "start": 20,
+              "url": "https://t.co/bNW3WfhO2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059524450312396817",
+        "in_reply_to_user_id": "1882405123772887040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059389485369245865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@th_firest_cute 陪一张 https://t.co/bNW3WfhO2G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059389482806448128"
+          ]
+        },
+        "author_id": "1882405123772887040",
+        "conversation_id": "2059389485369245865",
+        "created_at": "2026-05-26T21:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059389485369245865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tB2KeoRat",
+              "end": 26,
+              "expanded_url": "https://x.com/th_firest_cute/status/2059389485369245865/photo/1",
+              "media_key": "3_2059389482806448128",
+              "start": 3,
+              "url": "https://t.co/5tB2KeoRat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059389485369245865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪！ https://t.co/5tB2KeoRat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 439,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1163
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T12:29:09.000Z",
+        "description": "主用账号：@IctyeP\n递归艾特@th_firest_cute\n发癫号罢了~ \n黑产黄推币圈不要关注（见一个block一个）\n互不互fo完全看心情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "IctyeP"
+              },
+              {
+                "end": 32,
+                "start": 17,
+                "username": "th_firest_cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "northgreen.github.io",
+                "end": 23,
+                "expanded_url": "http://northgreen.github.io",
+                "start": 0,
+                "url": "https://t.co/bnOqy0j4j0"
+              }
+            ]
+          }
+        },
+        "id": "1882405123772887040",
+        "location": "Alpha Centauri",
+        "name": "小甜✟❤️~F 🏳️‍⚧️（Ictye）",
+        "pinned_tweet_id": "2059249524636578254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054178919973294080/Sy9lbnIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 195,
+          "like_count": 1613,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/bnOqy0j4j0",
+        "username": "th_firest_cute",
+        "verified": true
+      }
+    ]
+  }
+}

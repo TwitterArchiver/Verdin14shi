@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2059591736880701537",
+    "created_at": "2026-05-27T11:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059593910230630577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059593910230630577",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059591736880701537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2059591736880701537",
+        "created_at": "2026-05-27T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059593910230630577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059593910230630577",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591736880701537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013776155166539776",
+        "conversation_id": "2059591736880701537",
+        "created_at": "2026-05-27T11:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059591736880701537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059591736880701537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8年前：哥哥，这个玩具我不喜欢换一个\n5年前：哥哥，这个书包不好看，换一个\n1年前：哥哥，这嫂子我不喜欢，换一个\n昨天：哥哥，这个姿势我不喜欢……换一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "pinned_tweet_id": "2058540755430596760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 474,
+          "like_count": 823,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1220
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "04年男生喵，下定决心成为小男娘。\n丨小证含糖丨 HRT since2026.1.17｜暂定目标：去势｜家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "冰雪聪明の琪露诺🍥",
+        "pinned_tweet_id": "2059583342564311248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 121,
+          "like_count": 733,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 540
+        },
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}
