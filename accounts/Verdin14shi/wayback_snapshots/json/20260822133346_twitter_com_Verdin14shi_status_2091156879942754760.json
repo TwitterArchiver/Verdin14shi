@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2090743629644239131",
+    "created_at": "2026-08-22T13:33:46.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091156879942754760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530060423025655808",
+          "start": 0,
+          "username": "AyumiP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091156879942754760",
+    "in_reply_to_user_id": "1530060423025655808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090743629644239131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyumiP_Official 抱抱捏别哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2090743629644239131",
+        "created_at": "2026-08-22T13:33:46.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091156879942754760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530060423025655808",
+              "start": 0,
+              "username": "AyumiP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091156879942754760",
+        "in_reply_to_user_id": "1530060423025655808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090743629644239131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyumiP_Official 抱抱捏别哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530060423025655808",
+        "conversation_id": "2090743629644239131",
+        "created_at": "2026-08-21T10:11:40.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090743629644239131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090743629644239131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死 我又高又壮\n我靠\n我永远是个男的喵\n好难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2091156879942754760",
+        "name": "Hoshine_yosa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 454,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1398
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-27T05:36:54.000Z",
+        "description": "沪 07 无证含糖 🏳️‍⚧️ 190天残党 /解离性身份识别障碍/真空花sys/2023.4 HRT/重抑/mixing engineer/guitarist/music producer",
+        "id": "1530060423025655808",
+        "is_identity_verified": false,
+        "location": "中国上海",
+        "most_recent_tweet_id": "2090743629644239131",
+        "name": "空空空空岛可乐🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530060423025655808/1750076971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038544052942180353/dwhVzgt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 328,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "AyumiP_Official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

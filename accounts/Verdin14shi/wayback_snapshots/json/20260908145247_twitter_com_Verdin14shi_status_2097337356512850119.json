@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097337350879891456"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097337356512850119",
+    "created_at": "2026-09-08T14:52:47.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097337356512850119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yjd7A7LSHO",
+          "end": 68,
+          "expanded_url": "https://x.com/Verdin14shi/status/2097337356512850119/photo/1",
+          "media_key": "3_2097337350879891456",
+          "start": 45,
+          "url": "https://t.co/Yjd7A7LSHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097337356512850119",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097337350879891456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神了我都说让快递员放代收点了但是还是直接给我放门口了\n明天早上回家一趟\n我真服了我真服了 https://t.co/Yjd7A7LSHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2097337350879891456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRs9NV1a0AA-88q.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097337350879891456"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097337356512850119",
+        "created_at": "2026-09-08T14:52:47.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097337356512850119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yjd7A7LSHO",
+              "end": 68,
+              "expanded_url": "https://x.com/Verdin14shi/status/2097337356512850119/photo/1",
+              "media_key": "3_2097337350879891456",
+              "start": 45,
+              "url": "https://t.co/Yjd7A7LSHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097337356512850119",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097337350879891456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神了我都说让快递员放代收点了但是还是直接给我放门口了\n明天早上回家一趟\n我真服了我真服了 https://t.co/Yjd7A7LSHO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP  175l65kg 双性恋  青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢\n马克思人本主义/民主社会主义\n电子游魂一枚\n名字翻译过来叫星野柚咲\n偶像是停电前夜",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2097337356512850119",
+        "name": "Hoshine_yosa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 455,
+          "like_count": 940,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
