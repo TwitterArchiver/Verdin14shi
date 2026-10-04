@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105982532844220850",
+    "created_at": "2026-10-02T11:42:49.000Z",
+    "display_text_range": [
+      40,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105986861579857976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2086258214631591936",
+          "start": 0,
+          "username": "netxfer"
+        },
+        {
+          "end": 16,
+          "id": "1690570637499154432",
+          "start": 9,
+          "username": "zhweaa"
+        },
+        {
+          "end": 27,
+          "id": "1893109107034574848",
+          "start": 17,
+          "username": "4rcadia__"
+        },
+        {
+          "end": 39,
+          "id": "1818920358403256320",
+          "start": 28,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105986861579857976",
+    "in_reply_to_user_id": "2086258214631591936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105982532844220850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer @zhweaa @4rcadia__ @xuanyu_awa 不赖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105981807208681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnzS7Ib0AADZe3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105981807179292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnzS7BbYAAwGgf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105981807552610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnzS8abwAA_LXQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105982532844220850",
+        "created_at": "2026-10-02T11:42:49.000Z",
+        "display_text_range": [
+          40,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105986861579857976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2086258214631591936",
+              "start": 0,
+              "username": "netxfer"
+            },
+            {
+              "end": 16,
+              "id": "1690570637499154432",
+              "start": 9,
+              "username": "zhweaa"
+            },
+            {
+              "end": 27,
+              "id": "1893109107034574848",
+              "start": 17,
+              "username": "4rcadia__"
+            },
+            {
+              "end": 39,
+              "id": "1818920358403256320",
+              "start": 28,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105986861579857976",
+        "in_reply_to_user_id": "2086258214631591936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105982532844220850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer @zhweaa @4rcadia__ @xuanyu_awa 不赖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105981807208681472",
+            "3_2105981807179292672",
+            "3_2105981807552610304"
+          ]
+        },
+        "author_id": "2086258214631591936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105982532844220850",
+        "created_at": "2026-10-02T11:25:37.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:22:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105981819711828126",
+          "2105982532844220850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1690570637499154432",
+              "start": 10,
+              "username": "zhweaa"
+            },
+            {
+              "end": 29,
+              "id": "1893109107034574848",
+              "start": 19,
+              "username": "4rcadia__"
+            },
+            {
+              "end": 42,
+              "id": "1818920358403256320",
+              "start": 31,
+              "username": "xuanyu_awa"
+            },
+            {
+              "end": 52,
+              "id": "2086258214631591936",
+              "start": 44,
+              "username": "netxfer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0flpeFZF5E",
+              "end": 76,
+              "expanded_url": "https://x.com/netxfer/status/2105982532844220850/photo/1",
+              "media_key": "3_2105981807208681472",
+              "start": 53,
+              "url": "https://t.co/0flpeFZF5E"
+            },
+            {
+              "display_url": "pic.x.com/0flpeFZF5E",
+              "end": 76,
+              "expanded_url": "https://x.com/netxfer/status/2105982532844220850/photo/1",
+              "media_key": "3_2105981807179292672",
+              "start": 53,
+              "url": "https://t.co/0flpeFZF5E"
+            },
+            {
+              "display_url": "pic.x.com/0flpeFZF5E",
+              "end": 76,
+              "expanded_url": "https://x.com/netxfer/status/2105982532844220850/photo/1",
+              "media_key": "3_2105981807552610304",
+              "start": 53,
+              "url": "https://t.co/0flpeFZF5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105982532844220850",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105981807208681472"
+          },
+          {
+            "media_key": "3_2105981807179292672"
+          },
+          {
+            "media_key": "3_2105981807552610304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南京路世贸广场开吃\n@zhweaa \n@4rcadia__ \n@xuanyu_awa \n@netxfer https://t.co/0flpeFZF5E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105986861579857976",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 670,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，1986.11.22产于西安，高172cm、重71kg，性别认同女，性取向中性，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。不定期删除本人部分历史评论或回复，无特殊原因。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2105982532844220850",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 187,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精｜想要看遍大千世界 ✈️｜想要组办构建前沿技术项目 🏗️ 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36pCH"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2105976729810747709",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2104618676922241509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8384,
+          "following_count": 436,
+          "like_count": 33671,
+          "listed_count": 23,
+          "media_count": 2943,
+          "tweet_count": 22261
+        },
+        "url": "https://t.co/MtaZw36pCH",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T01:22:49.000Z",
+        "description": "这里是可雯\n高中生/萌新kiger/mc/sensei/友跨🏳‍⚧/不是mtf\n简/繁/En \n不抽烟/不喝酒/不od/不自残\n有什么烦心事欢迎找我倾诉\n欢迎互fo聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kewen.moe",
+                "end": 23,
+                "expanded_url": "http://kewen.moe",
+                "start": 0,
+                "url": "https://t.co/kkQMQI6voL"
+              }
+            ]
+          }
+        },
+        "id": "1893109107034574848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105976704976200129",
+        "name": "🧊🥥Wei Zhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893109107034574848/1788456272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102311897081294848/fQ8357kO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 172,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/kkQMQI6voL",
+        "username": "4rcadia__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/小证2026.9.7？/疑似家长不管？/CChOer（距离省队只差几名的废物…）/高二物化生/彩笔音游人/精神状态随机/坐标重庆主城/欢迎来找我面基或者聊天哦",
+        "id": "1818920358403256320",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2105982809538179220",
+        "name": "萱雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054504636170817941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818920358403256320/1769963861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 4349,
+          "like_count": 42515,
+          "listed_count": 7,
+          "media_count": 135,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "xuanyu_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

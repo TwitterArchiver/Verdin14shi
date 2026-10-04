@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104764394760781879",
+    "created_at": "2026-09-29T04:43:53.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104794269970248052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104794269970248052",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104764394760781879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 不gd算炸单喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29884,
+        "height": 640,
+        "media_key": "13_2104763492670865408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104763492670865408/img/xe-YBOdD3cf02Lbc.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104763492670865408/vid/avc1/320x568/9VqT8bcQ7PsC9wdI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104763492670865408/vid/avc1/360x640/-Z1lfqtEc_7jGSgv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104763492670865408/pl/s5AOIg3mfVPd0EiE.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104764394760781879",
+        "created_at": "2026-09-29T04:43:53.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104794269970248052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104794269970248052",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104764394760781879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 不gd算炸单喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104763492670865408"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2104764394760781879",
+        "created_at": "2026-09-29T02:45:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104764394760781879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGKuhjS1h4",
+              "end": 30,
+              "expanded_url": "https://x.com/xian_zi17640/status/2104764394760781879/video/1",
+              "media_key": "13_2104763492670865408",
+              "start": 7,
+              "url": "https://t.co/cGKuhjS1h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104764394760781879",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104763492670865408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪也要学喵？ https://t.co/cGKuhjS1h4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104794269970248052",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 606,
+          "like_count": 1985,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1945
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "一个跨还很悲苦的咪/173 60大药娘/生产日期2011.12.09/HRT2026.7.25/https://t.co/DLilEeCWrw好哥哥@LinQi_AWA/姐姐@nekotanko_shiro/弟弟？/涩妹妹@littletaomiao/怕疼/小洁癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "LinQi_AWA"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "nekotanko_shiro"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "littletaomiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huimi2/",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huimi2/",
+                "start": 48,
+                "url": "https://t.co/DLilEeCWrw"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104781383348752568",
+        "name": "huizxlkファイ🏳️‍⚧️",
+        "pinned_tweet_id": "2104038295684678008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878441068649426944/1779914618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 825,
+          "like_count": 5181,
+          "listed_count": 3,
+          "media_count": 1613,
+          "tweet_count": 4929
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

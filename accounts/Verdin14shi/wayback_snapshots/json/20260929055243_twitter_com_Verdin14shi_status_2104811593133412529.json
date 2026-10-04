@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104609042320736362",
+    "created_at": "2026-09-29T05:52:43.000Z",
+    "display_text_range": [
+      17,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104811593133412529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2093710985827848193",
+          "start": 0,
+          "username": "yamazakiisuzu_N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104811593133412529",
+    "in_reply_to_user_id": "2093710985827848193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104609042320736362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu_N 我还真是这样，对象一定是我的朋友，朋友相处的时候就会慢慢升温，到时候颜值什么的也不太重要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104609042320736362",
+        "created_at": "2026-09-29T05:52:43.000Z",
+        "display_text_range": [
+          17,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104811593133412529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2093710985827848193",
+              "start": 0,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104811593133412529",
+        "in_reply_to_user_id": "2093710985827848193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104609042320736362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu_N 我还真是这样，对象一定是我的朋友，朋友相处的时候就会慢慢升温，到时候颜值什么的也不太重要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093710985827848193",
+        "conversation_id": "2104609042320736362",
+        "created_at": "2026-09-28T16:27:52.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104609042320736362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104609042320736362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌那些说什么“找对象颜值不重要”的家伙了，装什么呢，真让你谈个丑的你又不乐意，怎么没人谈我呢？颜值不重要但是有钱就可以是吧，操你们妈，虚伪，骗子，都去死吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104811593133412529",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 611,
+          "like_count": 2007,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "啊…啊…啊…啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊窝乳男乳乳女乳跨乳同乳华全都乳了，很舒服啊，很舒服啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2104794207663907023",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2101452700554756125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 195,
+          "like_count": 7059,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 3813
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

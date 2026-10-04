@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103560980534112323",
+    "created_at": "2026-09-25T22:06:14.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103607031227887975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103607031227887975",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103560980534112323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103560980534112323",
+        "created_at": "2026-09-25T22:06:14.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103607031227887975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103607031227887975",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103560980534112323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860377535215013888",
+        "conversation_id": "2103560980534112323",
+        "created_at": "2026-09-25T19:03:14.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103560980534112323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103560980534112323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他的父母都信基督教，顺理成章地他也成为基督的教徒。\n直到六岁他的父母第一次带他参加弥撒——顺理成章地跟着神父念完祷词、合上父母教他读的圣经。吃圣餐的时候他被放在圣桌的窄边，旁边分别坐着他的父母。\n所有人的圣餐都发放到位：一块小小的面包、一片二分之一面包厚度的肉。他的盘内依旧空空如也。\n有人抱怨着还不开餐，而更多人注视着他的餐盘——或者说注视着即将降临餐盘内的食物：一颗鹿的头颅。\n那颗鹿头仿佛还没死透般地盯着男孩，让他生出一股没来由的胆怯。\n餐桌上所有人的餐盘内，那片肉都来自于这颗头颅。\n头颅落在餐盘内的一瞬，有人爆发出欢呼，有人向耶稣哭泣：终于又一位圣子即将降临。他看着父母盘中的那一片面包和那一小片肉，迟疑了一下，想要将头颅上残存的肉块撕下，放进他们的盘中。可父母摇摇头退回他的餐叉：这是神赐予你的恩惠。吃下它，你将成为未来的新神。\n这顿正餐，不知为何、让他吃得想要呕吐。\n这样的弥撒一周又一周地持续下去。就像所有教堂做的那样、就像所有基督教徒做的那样。\n钟声依旧在每个礼拜天的正午响起，只是男孩好像出现了错觉，认为钟塔的钟摆越来越迟缓地摆动。\n两个月以后，男孩确认自己并不是出现了错觉：钟声已经开始在午后一点时响起。他惊骇地问父母、问同学朋友、甚至问神父，这是为什么。前者含糊其辞，仿佛他们也不明白。而神父一脸严肃地让他看着教堂的时钟，证明钟声依旧准点。他被关进忏悔室，并被要求泪流满面地忏悔对神的不忠。\n这个星期的弥撒照常进行。\n男孩依旧在滚瓜烂熟地背完圣经后，被邀请到圣桌的窄边——领取圣餐的队列每周都在变化，只有他的位置始终只属于他。\n他还是那个最后领取到圣餐的人。\n只是这次他惊恐地发现，麋鹿的头颅变成了人类的头颅、而头颅上的脸属于他的母亲。\n他这才发现，母亲消失在了弥撒的人群中。过去的两个月，母亲总说自己接了很多妇女的纺织活儿，所以常常见不到人影。可每次干完活回来，母亲的眼角都通红，像刚大哭完的新生儿。他问，母亲只答工作太累，她不得不这么做。\n她不得不这么做——为了新生的圣子，她不得不奉献出自己。今天的圣餐，所有人依旧领取着面包和薄薄的肉片。而他已经边流泪边呕吐。\n神父来到他的身前，表情庄严而不容置疑。\n“你为什么不吃圣餐？这可是神的旨意！”\n他流着泪，猛起身的动作撞倒了椅子。他大喊这是人、你们这是吃人啊！你们在吃的是人肉啊！是我母亲的肉啊你！\n可所有桌边的人只是面无表情地看着他。像是他一走，基督便不爱他们、便会对他们失望而降下神罚令他们全下地狱一般地。\n快吃啊！一个教徒喊道。\n快吃啊！所有教徒喊道。\n快吃啊。神父对他说道。\n这是鹿头不是吗，神父好像要所有人认同他一样转过身去，这是鹿肉不是吗？\n是啊！教徒们义愤填膺。\n只有他捂着嘴，眼睛不住流泪，张望着想要见到熟悉的身影。玛丽夫人！他终于看见妈妈旧日的朋友。他不顾其他教徒的阻拦，跑到玛丽夫人面前：“你…你看到那颗头颅了对不对，那是我妈…”话没说完，玛丽夫人冰冷的神色让他自己闭上了嘴。\n快吃啊，玛丽夫人说道。\n他擦干眼泪，嘴角回归平静。神父过来把他扶回主位，只是看着他。\n他麻木地拿起刀叉，一刀一刀切开母亲的脸。最先是眼睛，因为他无法面对母亲的注视。然后是额头、鼻子、嘴巴。他把母亲的肉一口一口放进嘴里，像往常那样咀嚼着。圣徒们也学着他的模样咀嚼着，动作整齐，没有一丝一毫偏差。\n神父在讲坛后方推了推单片眼镜，注视着这一切。\n那天开始，逐渐有人叫他圣子、将他像神一样膜拜。\n教堂中央立起了他的雕像，每日有人向他的雕像祷告。他们忏悔自己犯下的罪行、他们感恩神明的恩赐。\n但那座雕像始终没有脸。\n男孩发现时钟开始加快，一个月之后，本该是午后的一点，钟表只显示在十二点三十分。他知道什么又要来临了。\n因为他的父亲也开始流着泪回到家，告诉他工作压力太大。可是一个木工能累到哪去？还需要哭着回家？\n再一个月之后，男孩在盘中看到了自己父亲的脸。他已经麻木不仁，就像每次吃圣餐时一样，他细细咀嚼着父亲脸上剥下的肉。\n雕塑终于有了脸庞，和他一模一样。先前圣徒们忏悔的罪行得到了法庭的赦免、饥荒的人家吃上了饱饭。\n他们感恩着基督、感恩着耶稣。他们感恩他诞下恩旨、让他们得以存活。\n从未有人见过雕塑的男孩。他们说，圣子领到了更加强大的恩惠，有着数不尽的金银财宝、吃不完的丰殄盛宴。\n他在镇子里流浪时听到了自己的传闻。\n那时候他认识了一个小女孩，她的父母都信基督教，于是她也顺理成章地成为基督的教徒。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他的父母都信基督教，顺理成章地他也成为基督的教徒。\n直到六岁他的父母第一次带他参加弥撒——顺理成章地跟着神父念完祷词、合上父母教他读的圣经。吃圣餐的时候他被放在圣桌的窄边，旁边分别坐着他的父母。\n所有人的圣餐都发放到位：一块小小的面包、一片二分之一面包厚度的肉。他的盘内依旧空空如也。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103607031227887975",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 538,
+          "like_count": 1487,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品\n微查成分互fo\n-\n闲聊群https://t.co/IJX8d7N6vG\nbelieve in Satanism La Vey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 81,
+                "expanded_url": "https://x.com/i/chat/group_join/g2099560623025889330/9RJhkwgGm0",
+                "start": 58,
+                "url": "https://t.co/IJX8d7N6vG"
+              }
+            ]
+          }
+        },
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2103595952171090021",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2099067822152560977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 302,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1432
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101970047313076425",
+    "created_at": "2026-09-21T13:04:54.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102021251384680813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018248488773898240",
+          "start": 0,
+          "username": "Box3_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102021251384680813",
+    "in_reply_to_user_id": "2018248488773898240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101970047313076425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_ji 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101970047313076425",
+        "created_at": "2026-09-21T13:04:54.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102021251384680813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018248488773898240",
+              "start": 0,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102021251384680813",
+        "in_reply_to_user_id": "2018248488773898240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101970047313076425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_ji 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018248488773898240",
+        "conversation_id": "2101970047313076425",
+        "created_at": "2026-09-21T09:41:26.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101970047313076425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101970047313076425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 870,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布从今天起我不自残不嗑药了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2102021251384680813",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 497,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:02:14.000Z",
+        "description": "🩵泥豪_❛˓◞˂̵✧🩷社恐致歉🤍无证含糖🍥（暂时中断）🩷双相🩵\n🩵生产日期2012.4.6🩷无政府主义者🤍不OD🩷不自残🩵\n小盒子：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Box3_jilil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/box3_ji/bit",
+                "end": 23,
+                "expanded_url": "https://ngl.link/box3_ji/bit",
+                "start": 0,
+                "url": "https://t.co/ICYysRSi06"
+              }
+            ]
+          }
+        },
+        "id": "2018248488773898240",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🤍🩷🩵",
+        "most_recent_tweet_id": "2101992076590436772",
+        "name": "Box🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101624916793774272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018248488773898240/1789314183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092930234664574976/i9QCz-sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 60,
+          "like_count": 182,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/ICYysRSi06",
+        "username": "Box3_ji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

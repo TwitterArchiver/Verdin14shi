@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103350130271531513",
+    "created_at": "2026-09-25T05:16:17.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103352872540795237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103352872540795237",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103350130271531513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 我刚体验过，fk⏰封建产物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2103350126425354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCZy8PbMAA2xXS.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103350130271531513",
+        "created_at": "2026-09-25T05:16:17.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103352872540795237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103352872540795237",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103350130271531513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 我刚体验过，fk⏰封建产物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103350126425354240"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103350130271531513",
+        "created_at": "2026-09-25T05:05:24.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103350130271531513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKtQavWuNN",
+              "end": 165,
+              "expanded_url": "https://x.com/anblk984/status/2103350130271531513/photo/1",
+              "media_key": "3_2103350126425354240",
+              "start": 142,
+              "url": "https://t.co/WKtQavWuNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103350130271531513",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103350126425354240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "连酒桌文化都不懂就别上桌吃饭了，刚刚去吃饭的时候，看到一个小孩20来岁的样子，长辈都还没动筷就已经开始吃起来了。还一直在玩手机，喊他敬酒也不高兴，磨磨蹭蹭的，最后他父母看不惯了喊他敬酒，但这小孩敬酒的时候连站起来都不肯！真是气死窝了，这种小孩一看就是爹妈给他惯的，要是窝是他爹妈早就给他生活费断掉，让他自己打工体验生活去了。老祖宗传千年的酒桌礼仪真不是糟粕。爹妈不会害你，狐朋狗友才捧着你堕落。现在学规矩将来少挨社会毒打，连敬酒都学不会，以后职场酒局你准备用脚碰杯？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连酒桌文化都不懂就别上桌吃饭了，刚刚去吃饭的时候，看到一个小孩20来岁的样子，长辈都还没动筷就已经开始吃起来了。还一直在玩手机，喊他敬酒也不高兴，磨磨蹭蹭的，最后他父母看不惯了喊他敬酒，但这小孩敬酒的时候连站起来都不肯！真是气死窝了，这种小孩一看就是爹妈给他惯的，要是窝是他爹妈早就 https://t.co/WKtQavWuNN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103352872540795237",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 520,
+          "like_count": 1378,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/数学家教接单中/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真/最后感谢大爹画窝头像@data_syuxchu/小游戏网站@losb555置顶\ntg频道：https://t.co/H2pejl6igE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "losb555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 107,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 84,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/q688tpr899yu2t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/q688tpr899yu2td?t=kdJeZO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/pJcmtWQ5Rs"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是解答世间万物",
+        "most_recent_tweet_id": "2103350130271531513",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18312,
+          "following_count": 1082,
+          "like_count": 136734,
+          "listed_count": 82,
+          "media_count": 3842,
+          "tweet_count": 32867
+        },
+        "url": "https://t.co/pJcmtWQ5Rs",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105263844872610107",
+    "created_at": "2026-09-30T11:50:17.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105263962682220982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090380707457814528",
+          "start": 0,
+          "username": "yyyyycsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105263962682220982",
+    "in_reply_to_user_id": "2090380707457814528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105263844872610107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyyycsy 摸摸……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105263844872610107",
+        "created_at": "2026-09-30T11:50:17.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105263962682220982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090380707457814528",
+              "start": 0,
+              "username": "yyyyycsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105263962682220982",
+        "in_reply_to_user_id": "2090380707457814528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105263844872610107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyycsy 摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090380707457814528",
+        "conversation_id": "2105263844872610107",
+        "created_at": "2026-09-30T11:49:49.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105263844872610107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105263844872610107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅（被性侵算吗）\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n耍酒疯：❌\n挂过科：✅\n夜店约炮：❌\n抽过烟/用过电子烟：❌\n深吻多人：❌\n被留堂：✅\n参与斗殴:  ❌\n被抢救:   ✅\n让别人被抢救:  ❌\n被课堂赶出去:  ❌\n考试作弊：✅\n偷偷溜出家门：✅\n我是好女孩吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105263962682220982",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 630,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2037
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T10:10:38.000Z",
+        "description": "16岁/2010年4月7日出厂/176cm/56.6kg/INFP-T\n高二/MTF🍥/26年7月含糖🍬/无证含糖🍥/双相/od💊/音游/qq:3086548695/互fo/废柴/负能量/梦想成为P主",
+        "id": "2090380707457814528",
+        "is_identity_verified": false,
+        "location": "四川省宜宾市",
+        "most_recent_tweet_id": "2105263844872610107",
+        "name": "C17H19ClF3NO🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090380707457814528/1790483922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104220116984733697/NsF8cuO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 203,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "yyyyycsy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

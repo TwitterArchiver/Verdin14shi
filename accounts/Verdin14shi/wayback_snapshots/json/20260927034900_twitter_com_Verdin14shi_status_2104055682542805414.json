@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103916842616262864",
+    "created_at": "2026-09-27T03:49:00.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104055682542805414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058425995686985728",
+          "start": 0,
+          "username": "ShadowLiuyueX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104055682542805414",
+    "in_reply_to_user_id": "2058425995686985728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103916842616262864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShadowLiuyueX 摸摸……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103916842616262864",
+        "created_at": "2026-09-27T03:49:00.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104055682542805414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058425995686985728",
+              "start": 0,
+              "username": "ShadowLiuyueX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104055682542805414",
+        "in_reply_to_user_id": "2058425995686985728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103916842616262864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShadowLiuyueX 摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058425995686985728",
+        "conversation_id": "2103916842616262864",
+        "created_at": "2026-09-26T18:37:18.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103916842616262864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103916842616262864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 832,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我於2026年9月27日與現任對象分手，已失去摯愛，開始有嚴重幻覺，妄想，且經過許多事件之後又極其嚴重創傷，在2026年9月25日有過自殘行為，有自殺慾望及精神撕裂感，之前對象是唯一依靠，並且渴望有人可以關懷，但因為性格不合原因導致分手，我已感受精神失常痛苦，以生命擔保希望有人可以與我談戀愛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104055682542805414",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 573,
+          "like_count": 1674,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T05:55:01.000Z",
+        "description": "蔚藍檔案玩家，會喜歡稱別人媽媽，互fo，含糖，之前的號@LiuyuedeHuoban被炸了，這是二號機，嘗試包容世界，不搞極端，不搞極端，不搞極端，純抽象，純抽象，純抽象",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "LiuyuedeHuoban"
+              }
+            ]
+          }
+        },
+        "id": "2058425995686985728",
+        "is_identity_verified": false,
+        "location": "I NEED YOU.J",
+        "most_recent_tweet_id": "2104055495334273516",
+        "name": "Shadow_114514（二號機）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058425995686985728/1780313390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061409880037294080/HA5Qm6JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 1061,
+          "like_count": 15053,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "ShadowLiuyueX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

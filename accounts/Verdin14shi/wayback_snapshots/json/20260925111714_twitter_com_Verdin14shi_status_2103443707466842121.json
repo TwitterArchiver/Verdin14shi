@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103380115766001767",
+    "created_at": "2026-09-25T11:17:14.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103443707466842121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103443707466842121",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103380115766001767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 大佬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2103380080559001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC1CgFaEAAdYDY.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2103380091812339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC1DKAaYAAeP22.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2103380104407883776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC1D47bIAAhDNT.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103380115766001767",
+        "created_at": "2026-09-25T11:17:14.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103443707466842121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103443707466842121",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103380115766001767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 大佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103380080559001600",
+            "3_2103380091812339712",
+            "3_2103380104407883776"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2103380115766001767",
+        "created_at": "2026-09-25T07:04:33.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103380115766001767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u2Hq01STr",
+              "end": 48,
+              "expanded_url": "https://x.com/jlxc2001/status/2103380115766001767/photo/1",
+              "media_key": "3_2103380080559001600",
+              "start": 25,
+              "url": "https://t.co/7u2Hq01STr"
+            },
+            {
+              "display_url": "pic.x.com/7u2Hq01STr",
+              "end": 48,
+              "expanded_url": "https://x.com/jlxc2001/status/2103380115766001767/photo/1",
+              "media_key": "3_2103380091812339712",
+              "start": 25,
+              "url": "https://t.co/7u2Hq01STr"
+            },
+            {
+              "display_url": "pic.x.com/7u2Hq01STr",
+              "end": 48,
+              "expanded_url": "https://x.com/jlxc2001/status/2103380115766001767/photo/1",
+              "media_key": "3_2103380104407883776",
+              "start": 25,
+              "url": "https://t.co/7u2Hq01STr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103380115766001767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103380080559001600"
+          },
+          {
+            "media_key": "3_2103380091812339712"
+          },
+          {
+            "media_key": "3_2103380104407883776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2576,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今年小米、OPPO、vivo 寄的中秋礼物～～～ https://t.co/7u2Hq01STr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103443707466842121",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 523,
+          "like_count": 1419,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1717
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "is_identity_verified": false,
+        "location": "中国深圳",
+        "most_recent_tweet_id": "2103380115766001767",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2086124504057782639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683218035602255872/1769358574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24691,
+          "following_count": 245,
+          "like_count": 825,
+          "listed_count": 54,
+          "media_count": 1443,
+          "tweet_count": 3761
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

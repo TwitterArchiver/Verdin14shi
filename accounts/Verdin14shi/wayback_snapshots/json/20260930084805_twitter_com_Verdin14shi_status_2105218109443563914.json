@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2105218109443563914",
+    "created_at": "2026-09-30T08:48:05.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105218109443563914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ilikechese29/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ilikechese29/status/2105113918440116703",
+          "start": 14,
+          "url": "https://t.co/3fn3hGzfml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105218109443563914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105113918440116703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不认为这是人类说出来的话 https://t.co/3fn3hGzfml"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2105218109443563914",
+        "created_at": "2026-09-30T08:48:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105218109443563914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilikechese29/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ilikechese29/status/2105113918440116703",
+              "start": 14,
+              "url": "https://t.co/3fn3hGzfml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105218109443563914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105113918440116703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不认为这是人类说出来的话 https://t.co/3fn3hGzfml"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752810764732182529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2105097754577866946",
+        "created_at": "2026-09-30T01:54:03.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105113918440116703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271912958143221771",
+              "start": 0,
+              "username": "fidgepee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105113918440116703",
+        "in_reply_to_user_id": "1271912958143221771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1928,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105097754577866946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fidgepee but what about faggot politics"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105218109443563914",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 627,
+          "like_count": 2185,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2027
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T21:47:23.000Z",
+        "description": "",
+        "id": "1752810764732182529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105115378221224203",
+        "name": "cheesefork",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773854296687206402/0BHFnJ-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 18136,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "ilikechese29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-13T21:11:10.000Z",
+        "description": "pfp and banner by @shushanims\n(she/they/it | pup/pupself) ΘΔ\nalt @puppiepilez\ngamedev and composer of ~8yrs\n💉(27/09/25)\n(sometimes suggestive)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "shushanims"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "puppiepilez"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luziekennel.nekoweb.org",
+                "end": 23,
+                "expanded_url": "https://luziekennel.nekoweb.org/",
+                "start": 0,
+                "url": "https://t.co/9SHuWMCzoE"
+              }
+            ]
+          }
+        },
+        "id": "1271912958143221771",
+        "is_identity_verified": false,
+        "location": "19, germany",
+        "most_recent_tweet_id": "2105110711286243499",
+        "name": "luzie 🏳️‍⚧️",
+        "pinned_tweet_id": "1935495785660985350",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271912958143221771/1778627195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101693921017413632/Z6WB13MP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 2568,
+          "like_count": 168712,
+          "listed_count": 13,
+          "media_count": 7373,
+          "tweet_count": 66713
+        },
+        "url": "https://t.co/9SHuWMCzoE",
+        "username": "fidgepee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

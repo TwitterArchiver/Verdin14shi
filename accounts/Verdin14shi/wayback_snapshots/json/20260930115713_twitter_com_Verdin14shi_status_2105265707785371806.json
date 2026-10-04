@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104923525337473485",
+    "created_at": "2026-09-30T11:57:13.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105265707785371806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757092308426629120",
+          "start": 0,
+          "username": "SeanNichol82542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105265707785371806",
+    "in_reply_to_user_id": "1757092308426629120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104923525337473485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeanNichol82542 我去……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2104923510019858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx64aIAAYJkS.jpg",
+        "width": 1077
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104923510015692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx63akAAHuiW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1867,
+        "media_key": "3_2104923510019891200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx64aoAAgWtg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104923525337473485",
+        "created_at": "2026-09-30T11:57:13.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105265707785371806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757092308426629120",
+              "start": 0,
+              "username": "SeanNichol82542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105265707785371806",
+        "in_reply_to_user_id": "1757092308426629120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104923525337473485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeanNichol82542 我去……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104923510019858432",
+            "3_2104923510015692800",
+            "3_2104923510019891200"
+          ]
+        },
+        "author_id": "1757092308426629120",
+        "conversation_id": "2104923525337473485",
+        "created_at": "2026-09-29T13:17:30.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104923525337473485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510019858432",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            },
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510015692800",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            },
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510019891200",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104923525337473485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104923510019858432"
+          },
+          {
+            "media_key": "3_2104923510015692800"
+          },
+          {
+            "media_key": "3_2104923510019891200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 111031,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 176,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月无套面基。。。手臂上开始长东西。。。这不是艾滋吧。。。 https://t.co/YvrNHNBd5N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105265707785371806",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 631,
+          "like_count": 2215,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T17:20:30.000Z",
+        "description": "嘿嘿MTF一枚🏳️‍⚧️是个话唠微微社恐/会看私信滴/喜欢已读不回/喜欢分享日常/爱睡觉💤/未出柜/工作💼中/喜欢小猫小狗🐕",
+        "id": "1757092308426629120",
+        "is_identity_verified": false,
+        "location": "似乎长长薄薄的一生 自始自终都在淋雨",
+        "most_recent_tweet_id": "2104959284488581249",
+        "name": "绝情费洛蒙^Mizuki^🏳️‍⚧️",
+        "pinned_tweet_id": "1963174490562871425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757092308426629120/1778665938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054499923689938945/5qEkDMZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 408,
+          "like_count": 906,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "SeanNichol82542",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

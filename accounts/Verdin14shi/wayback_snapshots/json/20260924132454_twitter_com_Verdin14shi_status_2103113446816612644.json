@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103113446816612644",
+    "created_at": "2026-09-24T13:24:54.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103113446816612644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ItsSunshineXD/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ItsSunshineXD/status/2102944014085550251",
+          "start": 14,
+          "url": "https://t.co/EZxwRqoMWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103113446816612644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102944014085550251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牢唐我要和你绝交了再这样😭 https://t.co/EZxwRqoMWN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103113446816612644",
+        "created_at": "2026-09-24T13:24:54.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103113446816612644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ItsSunshineXD/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ItsSunshineXD/status/2102944014085550251",
+              "start": 14,
+              "url": "https://t.co/EZxwRqoMWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103113446816612644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102944014085550251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢唐我要和你绝交了再这样😭 https://t.co/EZxwRqoMWN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932834726051786808",
+        "conversation_id": "2102944014085550251",
+        "created_at": "2026-09-24T02:11:38.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:09:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102943470768017583",
+          "2102944014085550251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102944014085550251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 846,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文纯sb来的\n昨天和粉猫 box在x space连麦\n粉猫劝box不要自鲨 自鲨过程很痛苦\nbox说自己盐都被没收了 家长在管\n唐毓文上麦 发起的第一个话题就是\n怎么无痛自鲨 怎么买盐能过监管"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103113446816612644",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 503,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-11T16:19:20.000Z",
+        "description": "19yo 175cm/52kg 想当可爱的男孩纸\n大二在校 | 开发者 | CTFer | notholding.eth\n一只很菜很菜的叶片ovo 蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "getflag.sh",
+                "end": 23,
+                "expanded_url": "https://getflag.sh",
+                "start": 0,
+                "url": "https://t.co/MK53oTlfig"
+              }
+            ]
+          }
+        },
+        "id": "1932834726051786808",
+        "is_identity_verified": false,
+        "location": "暨南大学番禺校区",
+        "most_recent_tweet_id": "2102984363499810837",
+        "name": "菜叶片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932834726051786808/1790145816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095839416313126912/Aqs0LUDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 195,
+          "like_count": 3891,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/MK53oTlfig",
+        "username": "ItsSunshineXD",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

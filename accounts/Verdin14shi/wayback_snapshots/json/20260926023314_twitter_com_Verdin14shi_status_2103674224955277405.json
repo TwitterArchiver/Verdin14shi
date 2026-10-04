@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2083968740929200144",
+    "created_at": "2026-09-26T02:33:14.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T03:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103674224955277405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1596741686335414274",
+          "start": 0,
+          "username": "jntmjcGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103674224955277405",
+    "in_reply_to_user_id": "1596741686335414274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083968740929200144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jntmjcGM 神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12306,
+        "height": 1280,
+        "media_key": "13_2083968714383450112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083968714383450112/img/Mix62Mii6YiqjsJ-.jpg",
+        "public_metrics": {
+          "view_count": 1138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083968714383450112/vid/avc1/320x710/gOn1ESJKGfjO3PdV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083968714383450112/vid/avc1/480x1066/IgEf0wk1CJoNDq2l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083968714383450112/vid/avc1/576x1280/_RtcjmmM7OO3zSQg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083968714383450112/pl/aza7xDOlBSuVO0WD.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2083968740929200144",
+        "created_at": "2026-09-26T02:33:14.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103674224955277405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596741686335414274",
+              "start": 0,
+              "username": "jntmjcGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103674224955277405",
+        "in_reply_to_user_id": "1596741686335414274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083968740929200144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jntmjcGM 神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083968714383450112"
+          ]
+        },
+        "author_id": "1596741686335414274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083968740929200144",
+        "created_at": "2026-08-02T17:30:40.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083968740929200144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/My9Q1KLMbq",
+              "end": 35,
+              "expanded_url": "https://x.com/jntmjcGM/status/2083968740929200144/video/1",
+              "media_key": "13_2083968714383450112",
+              "start": 12,
+              "url": "https://t.co/My9Q1KLMbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083968740929200144",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2083968714383450112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2780,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i跨tv之n55抓钱舞 https://t.co/My9Q1KLMbq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103674224955277405",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 552,
+          "like_count": 1513,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-27T05:44:31.000Z",
+        "description": "互fo",
+        "id": "1596741686335414274",
+        "is_identity_verified": false,
+        "location": "Hong Kong University",
+        "most_recent_tweet_id": "2103668125871059019",
+        "name": "和風",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740532777282650112/gxdXsmNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 66,
+          "like_count": 96,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "jntmjcGM",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104376962299166843",
+    "created_at": "2026-09-28T02:59:58.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104405729109254257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083196399211200512",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104405729109254257",
+    "in_reply_to_user_id": "2083196399211200512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104405084817998275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104376962299166843",
+        "created_at": "2026-09-28T02:59:58.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104405729109254257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083196399211200512",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104405729109254257",
+        "in_reply_to_user_id": "2083196399211200512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104405084817998275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 抱歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083196399211200512",
+        "conversation_id": "2104376962299166843",
+        "created_at": "2026-09-28T02:57:24.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104405084817998275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104405084817998275",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104404940127097126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 沒遇到是好的🫳🫳🤍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104405729109254257",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 578,
+          "like_count": 1785,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1897
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nAGENDER | AROMANTIC ASEXUAL \nsh/od twt\njoined 31/7/26 (5th acc\n\n████████████████████",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuukiwtf",
+                "end": 23,
+                "expanded_url": "http://x.com/kuukiwtf",
+                "start": 0,
+                "url": "https://t.co/aDk4cjJeIM"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": true,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2104405084817998275",
+        "name": "kuuki",
+        "pinned_tweet_id": "2091204360248381856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 251,
+          "like_count": 9685,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/aDk4cjJeIM",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

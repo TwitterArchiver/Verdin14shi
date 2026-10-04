@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105617461924315183",
+    "created_at": "2026-10-01T11:14:58.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105617461924315183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2076673089941950464",
+          "start": 3,
+          "username": "niklashausen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105617461924315183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105601004758806609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niklashausen: 我讨厌自己的阴茎、皮肤、四肢和躯干还有嘴唇边那些令我作呕的毛发、还有突出的喉结和恶心的声音😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105617461924315183",
+        "created_at": "2026-10-01T11:14:58.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105617461924315183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2076673089941950464",
+              "start": 3,
+              "username": "niklashausen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105617461924315183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105601004758806609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niklashausen: 我讨厌自己的阴茎、皮肤、四肢和躯干还有嘴唇边那些令我作呕的毛发、还有突出的喉结和恶心的声音😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076673089941950464",
+        "conversation_id": "2105601004758806609",
+        "created_at": "2026-10-01T10:09:34.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:06:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105600258042687930",
+          "2105601004758806609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105601004758806609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌自己的阴茎、皮肤、四肢和躯干还有嘴唇边那些令我作呕的毛发、还有突出的喉结和恶心的声音😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105617461924315183",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 636,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:22:16.000Z",
+        "description": "mtf HRT 26.7.18 /泛性恋/看到同类关注都会回的/07/可以叫我小蒲或者茹茹哦/好姐姐：@su2024930",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "su2024930"
+              }
+            ]
+          }
+        },
+        "id": "2076673089941950464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105605355615273145",
+        "name": "丁香蒲式耳🍥",
+        "pinned_tweet_id": "2104145087475409205",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076673089941950464/1786650058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104145033452802048/zEI-80bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 175,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "niklashausen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

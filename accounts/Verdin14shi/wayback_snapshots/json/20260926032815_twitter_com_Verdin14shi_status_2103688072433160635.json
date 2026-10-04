@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103686627805855830",
+    "created_at": "2026-09-26T03:28:15.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103688072433160635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103688072433160635",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103686627805855830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei 冲刺♿冲刺♿！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2103686026309033984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHLS40aYAA0aBY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103686026300669954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHLS4yawAI6dwy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103686026300739584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHLS4yb0AAZzr8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103686026313252864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHLS41awAAhFba.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103686627805855830",
+        "created_at": "2026-09-26T03:28:15.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103688072433160635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103688072433160635",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103686627805855830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei 冲刺♿冲刺♿！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103686026309033984",
+            "3_2103686026300669954",
+            "3_2103686026300739584",
+            "3_2103686026313252864"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Motorcycles",
+              "id": "847528885138870272",
+              "name": "Motorcycles"
+            }
+          }
+        ],
+        "conversation_id": "2103686627805855830",
+        "created_at": "2026-09-26T03:22:31.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103686627805855830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSc1ZOvUMj",
+              "end": 62,
+              "expanded_url": "https://x.com/kuroyei/status/2103686627805855830/photo/1",
+              "media_key": "3_2103686026309033984",
+              "start": 39,
+              "url": "https://t.co/jSc1ZOvUMj"
+            },
+            {
+              "display_url": "pic.x.com/jSc1ZOvUMj",
+              "end": 62,
+              "expanded_url": "https://x.com/kuroyei/status/2103686627805855830/photo/1",
+              "media_key": "3_2103686026300669954",
+              "start": 39,
+              "url": "https://t.co/jSc1ZOvUMj"
+            },
+            {
+              "display_url": "pic.x.com/jSc1ZOvUMj",
+              "end": 62,
+              "expanded_url": "https://x.com/kuroyei/status/2103686627805855830/photo/1",
+              "media_key": "3_2103686026300739584",
+              "start": 39,
+              "url": "https://t.co/jSc1ZOvUMj"
+            },
+            {
+              "display_url": "pic.x.com/jSc1ZOvUMj",
+              "end": 62,
+              "expanded_url": "https://x.com/kuroyei/status/2103686627805855830/photo/1",
+              "media_key": "3_2103686026313252864",
+              "start": 39,
+              "url": "https://t.co/jSc1ZOvUMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103686627805855830",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103686026309033984"
+          },
+          {
+            "media_key": "3_2103686026300669954"
+          },
+          {
+            "media_key": "3_2103686026300739584"
+          },
+          {
+            "media_key": "3_2103686026313252864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日で今回の中国滞在は最後😭\n\nまた煙台をレンタル電動バイクで駆け抜けてきた https://t.co/jSc1ZOvUMj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103688072433160635",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 557,
+          "like_count": 1537,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1766
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2103686627805855830",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28804,
+          "following_count": 950,
+          "like_count": 139758,
+          "listed_count": 67,
+          "media_count": 9697,
+          "tweet_count": 39940
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

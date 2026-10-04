@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101874281034768726",
+    "created_at": "2026-09-21T13:05:40.000Z",
+    "display_text_range": [
+      28,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102021445199303093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        },
+        {
+          "end": 27,
+          "id": "1495741137193435140",
+          "start": 17,
+          "username": "klarkxy01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102021445199303093",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101901714286895302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy @klarkxy01 加油喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101874281034768726",
+        "created_at": "2026-09-21T13:05:40.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102021445199303093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            },
+            {
+              "end": 27,
+              "id": "1495741137193435140",
+              "start": 17,
+              "username": "klarkxy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102021445199303093",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101901714286895302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy @klarkxy01 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096992990338469889",
+        "conversation_id": "2101874281034768726",
+        "created_at": "2026-09-21T05:09:54.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101901714286895302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495741137193435140",
+              "start": 0,
+              "username": "klarkxy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101901714286895302",
+        "in_reply_to_user_id": "1495741137193435140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101895952407949559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klarkxy01 嗯，重新考本科"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2102021445199303093",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 497,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "さようなら。もう二度と関わらない。\n因双相情感障碍（躁狂抑郁症）被大专退学\n\n我很需要钱，请给我钱：QQ3994542199\n社交媒体只使用Twitter和QQ",
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2101916293138088446",
+        "name": "イソトピー（跳楼被退学版）",
+        "pinned_tweet_id": "2101915966670242085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1789474853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099817069206482944/O6nPRHdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 244,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T12:44:22.000Z",
+        "description": "欢迎来到，这行将终结，匆忙纷扰，并且完全看不到救赎的世界！\n\n🌼近期有发帖的会互fo\n✉️私信已读乱回\n🏆不万能的许愿机\n🦉左翼加速主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/klarkxy",
+                "end": 23,
+                "expanded_url": "https://github.com/klarkxy",
+                "start": 0,
+                "url": "https://t.co/wbSGgkGFxS"
+              }
+            ]
+          }
+        },
+        "id": "1495741137193435140",
+        "is_identity_verified": false,
+        "location": "68番岛の妖精仓库",
+        "most_recent_tweet_id": "2102020061909172665",
+        "name": "无能的艾薇娜",
+        "pinned_tweet_id": "2094906288237060279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495741137193435140/1788299057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091464264754380800/mFogn0wp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 1226,
+          "like_count": 13280,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 4787
+        },
+        "url": "https://t.co/wbSGgkGFxS",
+        "username": "klarkxy01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

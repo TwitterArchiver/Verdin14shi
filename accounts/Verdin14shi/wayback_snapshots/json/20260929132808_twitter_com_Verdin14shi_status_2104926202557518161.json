@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104916059547689023",
+    "created_at": "2026-09-29T13:28:08.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104926202557518161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104926202557518161",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104916059547689023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 好诶恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2104916037787615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYp--pagAAMsyj.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104916059547689023",
+        "created_at": "2026-09-29T13:28:08.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104926202557518161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104926202557518161",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104916059547689023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 好诶恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104916037787615232"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104916059547689023",
+        "created_at": "2026-09-29T12:47:50.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104916059547689023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgU1mPMXJr",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinemu123/status/2104916059547689023/photo/1",
+              "media_key": "3_2104916037787615232",
+              "start": 3,
+              "url": "https://t.co/GgU1mPMXJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104916059547689023",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104916037787615232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "归途 https://t.co/GgU1mPMXJr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104926202557518161",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 615,
+          "like_count": 2056,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1968
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2104923091566727445",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 3335,
+          "like_count": 4668,
+          "listed_count": 6,
+          "media_count": 1058,
+          "tweet_count": 11446
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

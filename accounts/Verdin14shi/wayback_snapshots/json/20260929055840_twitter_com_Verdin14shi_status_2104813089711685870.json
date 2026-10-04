@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104609484475916698",
+    "created_at": "2026-09-29T05:58:40.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104813089711685870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1650646646537977856",
+          "start": 0,
+          "username": "dami2qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104813089711685870",
+    "in_reply_to_user_id": "1650646646537977856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104609484475916698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dami2qwe 难崩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104609484475916698",
+        "created_at": "2026-09-29T05:58:40.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104813089711685870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1650646646537977856",
+              "start": 0,
+              "username": "dami2qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104813089711685870",
+        "in_reply_to_user_id": "1650646646537977856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104609484475916698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dami2qwe 难崩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650646646537977856",
+        "conversation_id": "2104609484475916698",
+        "created_at": "2026-09-28T16:29:37.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104609484475916698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "sb6657.cn",
+              "end": 39,
+              "expanded_url": "https://sb6657.cn",
+              "start": 16,
+              "status": 200,
+              "title": "玩机器烂梗收集",
+              "unwound_url": "https://sb6657.cn",
+              "url": "https://t.co/Kqs2V0kXGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104609484475916698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 65841,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "盘点一下毁掉了我人生的网站\n一，https://t.co/Kqs2V0kXGP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104813089711685870",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 611,
+          "like_count": 2012,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-24T23:44:14.000Z",
+        "description": "大米，he/him，解说练习中",
+        "id": "1650646646537977856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104811682480705702",
+        "name": "damiiko",
+        "pinned_tweet_id": "2098867420664602939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650646646537977856/1790418991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094504831910301696/WBzDIXCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 49,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "dami2qwe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

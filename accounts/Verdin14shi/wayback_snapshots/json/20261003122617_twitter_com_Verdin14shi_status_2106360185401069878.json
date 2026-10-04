@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2106360185401069878",
+    "created_at": "2026-10-03T12:26:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106360185401069878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721381996960845824",
+          "start": 3,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106360185401069878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106356918843564254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laozhouhengmei: 墙内这位先生说得非常好。这个视频可能活不了太久，我先帮他保存在互联网上。 \n\n先有宗教改革、启蒙运动这些思想现代化，才能有后面的工业革命，才能有现代文明。\n\n小粉红天天想证明永乐大典里有微积分，明朝有能力造蒸汽机，但其实没有这些思想，你根…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 271346,
+        "height": 1280,
+        "media_key": "13_2106356669131436033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106356669131436033/img/Zp_tbWM72mAZRzh4.jpg",
+        "public_metrics": {
+          "view_count": 484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356669131436033/vid/avc1/320x568/n_PW79TMe2Q2Ud8C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356669131436033/vid/avc1/480x852/Sjyj9-vykagpDmhw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356669131436033/vid/avc1/720x1280/3OJ8KriepmPsGowc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106356669131436033/pl/-Rct4zslE8M52P_s.m3u8?v=960"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2106360185401069878",
+        "created_at": "2026-10-03T12:26:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106360185401069878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721381996960845824",
+              "start": 3,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106360185401069878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106356918843564254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laozhouhengmei: 墙内这位先生说得非常好。这个视频可能活不了太久，我先帮他保存在互联网上。 \n\n先有宗教改革、启蒙运动这些思想现代化，才能有后面的工业革命，才能有现代文明。\n\n小粉红天天想证明永乐大典里有微积分，明朝有能力造蒸汽机，但其实没有这些思想，你根…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106356669131436033"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "conversation_id": "2106356918843564254",
+        "created_at": "2026-10-03T12:13:18.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106356918843564254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUyQbq8Clp",
+              "end": 153,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2106356918843564254/video/1",
+              "media_key": "13_2106356669131436033",
+              "start": 130,
+              "url": "https://t.co/fUyQbq8Clp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106356918843564254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106356669131436033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "墙内这位先生说得非常好。这个视频可能活不了太久，我先帮他保存在互联网上。 \n\n先有宗教改革、启蒙运动这些思想现代化，才能有后面的工业革命，才能有现代文明。\n\n小粉红天天想证明永乐大典里有微积分，明朝有能力造蒸汽机，但其实没有这些思想，你根本也就不可能有这些。 \n\n中国真正跟系统科学理论最接近的时候，其实就是先秦诸子百家那个时候，百家争鸣，思想自由。罢黜百家之后其实就已经跟这种思想自由渐行渐远了，因为再也没有不依附于权力的独立知识分子了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1155,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内这位先生说得非常好。这个视频可能活不了太久，我先帮他保存在互联网上。 \n\n先有宗教改革、启蒙运动这些思想现代化，才能有后面的工业革命，才能有现代文明。\n\n小粉红天天想证明永乐大典里有微积分，明朝有能力造蒸汽机，但其实没有这些思想，你根本也就不可能有这些。 https://t.co/fUyQbq8Clp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号里推）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2106360185401069878",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106201384022663168/uXmowPAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 682,
+          "like_count": 2516,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2141
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106356918843564254",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721381996960845824/1699280552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148800,
+          "following_count": 151,
+          "like_count": 16608,
+          "listed_count": 575,
+          "media_count": 1854,
+          "tweet_count": 4490
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

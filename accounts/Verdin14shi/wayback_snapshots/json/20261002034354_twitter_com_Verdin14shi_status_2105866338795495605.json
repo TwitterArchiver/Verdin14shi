@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105866338795495605",
+    "created_at": "2026-10-02T03:43:54.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105866338795495605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jacksonhinkle/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jacksonhinkle/status/2105648349739090245",
+          "start": 7,
+          "url": "https://t.co/gHHeBx7hSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105866338795495605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105648349739090245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持议会斗争 https://t.co/gHHeBx7hSD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2105647987787460609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjDsE4WcAEJMx-.jpg",
+        "width": 2984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105866338795495605",
+        "created_at": "2026-10-02T03:43:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105866338795495605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jacksonhinkle/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jacksonhinkle/status/2105648349739090245",
+              "start": 7,
+              "url": "https://t.co/gHHeBx7hSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105866338795495605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105648349739090245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持议会斗争 https://t.co/gHHeBx7hSD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105647987787460609"
+          ]
+        },
+        "author_id": "1151913018936053760",
+        "conversation_id": "2105648349739090245",
+        "created_at": "2026-10-01T13:17:42.000Z",
+        "display_text_range": [
+          0,
+          259
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105648349739090245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 110,
+              "id": "1809472959163297792",
+              "start": 102,
+              "username": "ACPMain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHsv9LGlKU",
+              "end": 283,
+              "expanded_url": "https://x.com/jacksonhinkle/status/2105648349739090245/photo/1",
+              "media_key": "3_2105647987787460609",
+              "start": 260,
+              "url": "https://t.co/LHsv9LGlKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105648349739090245",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105647987787460609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 95725,
+          "like_count": 5582,
+          "quote_count": 41,
+          "reply_count": 268,
+          "retweet_count": 889
+        },
+        "reply_settings": "everyone",
+        "text": "🇺🇸 I’m proud to announce that I’ve been named International Secretary of the American Communist Party @ACPMain.\n\nI’m honored by the Party’s trust and look forward to strengthening international solidarity and advancing our shared struggle against imperialism. https://t.co/LHsv9LGlKU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105866338795495605",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 640,
+          "like_count": 2338,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2083
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-18T17:53:59.000Z",
+        "description": "International Secretary of @ACPMain\nFollow: @WelcomeTheGulag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "ACPMain"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "WelcomeTheGulag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCnZyq…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCnZyq79a74Q_m8V8cjlLolA",
+                "start": 0,
+                "url": "https://t.co/mceKSXg2zi"
+              }
+            ]
+          }
+        },
+        "id": "1151913018936053760",
+        "is_identity_verified": true,
+        "location": "Miami, FL",
+        "most_recent_tweet_id": "2105866104774275454",
+        "name": "Jackson Hinkle 🇺🇸",
+        "pinned_tweet_id": "2105648349739090245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151913018936053760/1696970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839085,
+          "following_count": 626,
+          "like_count": 22270,
+          "listed_count": 8221,
+          "media_count": 32425,
+          "tweet_count": 54271
+        },
+        "url": "https://t.co/mceKSXg2zi",
+        "username": "jacksonhinkle",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

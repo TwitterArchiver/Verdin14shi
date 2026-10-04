@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104809899721146591",
+    "created_at": "2026-10-01T04:53:58.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105521583855112276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679788677583765505",
+          "start": 0,
+          "username": "YlYpBKkt3257198"
+        },
+        {
+          "end": 25,
+          "id": "2061381515171221504",
+          "start": 17,
+          "username": "Guonbzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105521583855112276",
+    "in_reply_to_user_id": "1679788677583765505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105519317576200555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YlYpBKkt3257198 @Guonbzw 这也挺爆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104809899721146591",
+        "created_at": "2026-10-01T04:53:58.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105521583855112276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679788677583765505",
+              "start": 0,
+              "username": "YlYpBKkt3257198"
+            },
+            {
+              "end": 25,
+              "id": "2061381515171221504",
+              "start": 17,
+              "username": "Guonbzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105521583855112276",
+        "in_reply_to_user_id": "1679788677583765505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105519317576200555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YlYpBKkt3257198 @Guonbzw 这也挺爆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679788677583765505",
+        "conversation_id": "2104809899721146591",
+        "created_at": "2026-10-01T04:44:58.000Z",
+        "display_text_range": [
+          22,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105519317576200555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            },
+            {
+              "end": 21,
+              "id": "2061381515171221504",
+              "start": 13,
+              "username": "Guonbzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105519317576200555",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105518556284952945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi @Guonbzw 对，我就是神，我能活一万年"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105521583855112276",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 635,
+          "like_count": 2269,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2065
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "我与我周旋久，宁作我\n小號@watermelon1byh\n（毛粉🌟（香港人）粤／普都会说 Know a little English 日本語を少し知っている\n政治零分 学习中 喜欢我的反对我的都可以fo🥰叫我润之兄 东叔 腊哥都行（停更一年了）\n抑郁四年 吃药三年 病情反复无常（暂无自杀倾向）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "watermelon1byh"
+              }
+            ]
+          }
+        },
+        "id": "1679788677583765505",
+        "is_identity_verified": false,
+        "location": "延安",
+        "most_recent_tweet_id": "2105520211973886402",
+        "name": "毛润之 Mao Zedong",
+        "pinned_tweet_id": "2089977287076888969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679788677583765505/1786296974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1287,
+          "like_count": 33284,
+          "listed_count": 6,
+          "media_count": 544,
+          "tweet_count": 12847
+        },
+        "url": "",
+        "username": "YlYpBKkt3257198",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T09:37:37.000Z",
+        "description": "王洪文梦女 毒唯 公公 嬷嬷。\n不跟左♂玩",
+        "id": "2061381515171221504",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2105514179579003046",
+        "name": "卿相",
+        "pinned_tweet_id": "2104171971080753643",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061381515171221504/1790136163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105320714333310976/kkeOxp7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 134,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "Guonbzw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101655905100271859",
+    "created_at": "2026-09-20T12:53:09.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101655905100271859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuroyei/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/kuroyei/status/2101627443023167925",
+          "start": 29,
+          "url": "https://t.co/lYxDZ34JJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101655905100271859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101627443023167925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天已经刷到十几个烟台的帖子了\n为什么啊\n要好起来了吗 https://t.co/lYxDZ34JJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2101627256397594625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp62tPbgAEvSSQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101627295274541056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp64-EaoAAZBw2.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2101627391395459072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp6-kJbcAAU0dB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101655905100271859",
+        "created_at": "2026-09-20T12:53:09.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101655905100271859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroyei/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kuroyei/status/2101627443023167925",
+              "start": 29,
+              "url": "https://t.co/lYxDZ34JJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101655905100271859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101627443023167925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天已经刷到十几个烟台的帖子了\n为什么啊\n要好起来了吗 https://t.co/lYxDZ34JJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101627256397594625",
+            "3_2101627295274541056",
+            "3_2101627391395459072"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101627443023167925",
+        "created_at": "2026-09-20T11:00:03.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101627443023167925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJN8eYiDjT",
+              "end": 169,
+              "expanded_url": "https://x.com/kuroyei/status/2101627443023167925/photo/1",
+              "media_key": "3_2101627256397594625",
+              "start": 146,
+              "url": "https://t.co/hJN8eYiDjT"
+            },
+            {
+              "display_url": "pic.x.com/hJN8eYiDjT",
+              "end": 169,
+              "expanded_url": "https://x.com/kuroyei/status/2101627443023167925/photo/1",
+              "media_key": "3_2101627295274541056",
+              "start": 146,
+              "url": "https://t.co/hJN8eYiDjT"
+            },
+            {
+              "display_url": "pic.x.com/hJN8eYiDjT",
+              "end": 169,
+              "expanded_url": "https://x.com/kuroyei/status/2101627443023167925/photo/1",
+              "media_key": "3_2101627391395459072",
+              "start": 146,
+              "url": "https://t.co/hJN8eYiDjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101627443023167925",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101627256397594625"
+          },
+          {
+            "media_key": "3_2101627295274541056"
+          },
+          {
+            "media_key": "3_2101627391395459072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13394,
+          "like_count": 281,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "烟台に到着しました！！！🇨🇳🇨🇳🇨🇳\n\n入国審査、本当に厳しくなってた！\n普段は質問されないのに、今回は\n\n・なぜ頻繁に中国へ来ているのか？\n・仕事では無いんだな？\n・中国に友達いるか？\n・以前中国で取った写真見せて（ガッツリは見てこない）\n\nと細かく聞かれました\n\n因为我喜欢中国旅游‼️ https://t.co/hJN8eYiDjT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101655905100271859",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 497,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2101654986643980714",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27092,
+          "following_count": 942,
+          "like_count": 137983,
+          "listed_count": 65,
+          "media_count": 9614,
+          "tweet_count": 39671
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104131221039231126",
+    "created_at": "2026-09-27T09:59:37.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104148950349734178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1737507370031611904",
+          "start": 0,
+          "username": "Fennel_Homura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104148950349734178",
+    "in_reply_to_user_id": "1737507370031611904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104131221039231126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fennel_Homura 9\n这几天有点太搞了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104131221039231126",
+        "created_at": "2026-09-27T09:59:37.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104148950349734178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1737507370031611904",
+              "start": 0,
+              "username": "Fennel_Homura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104148950349734178",
+        "in_reply_to_user_id": "1737507370031611904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104131221039231126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fennel_Homura 9\n这几天有点太搞了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737507370031611904",
+        "conversation_id": "2104131221039231126",
+        "created_at": "2026-09-27T08:49:10.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104131221039231126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "中推不名人评分"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Line_XII/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Line_XII/status/2104123723771244965",
+              "start": 30,
+              "url": "https://t.co/oBaloelMo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104131221039231126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104123723771244965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#中推不名人评分 \n给窝打个分吧\n（满分10分，分数随意） https://t.co/oBaloelMo6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104148950349734178",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 578,
+          "like_count": 1719,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T16:17:08.000Z",
+        "description": "生命·理性·希望·尊重\n我一直觉得共情力太强是一种病，那种空有悲悯之心却无救世之力的无助让自己太内耗了，直到听到过一句话 。“共情到底是诅咒还是奖赏”答：“是善良者的天赋”\n伟大的导师和舵手：@jiechengmadoka\n｜焰｜ENTP｜不自恨｜出廠於100年｜博愛｜無證含糖｜拒絕🔪🩸｜拒絕💊💉｜零度抑鬱｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "jiechengmadoka"
+              }
+            ]
+          }
+        },
+        "id": "1737507370031611904",
+        "is_identity_verified": false,
+        "location": "鹿目圆环私人药师回忆录",
+        "most_recent_tweet_id": "2104142277161767036",
+        "name": "晓虹焰🌹🇹🇼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2103353276125135314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737507370031611904/1786456348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099521324117016577/8OIz4CpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 421,
+          "like_count": 2223,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "Fennel_Homura",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

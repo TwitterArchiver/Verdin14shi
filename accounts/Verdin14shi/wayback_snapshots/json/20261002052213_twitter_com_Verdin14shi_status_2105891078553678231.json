@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105703136967184384"
+      ],
+      "media_source_tweet_id": [
+        "2105703144332394627"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105891078553678231",
+    "created_at": "2026-10-02T05:22:13.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T06:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105891078553678231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JH7WLSCwEK",
+          "end": 51,
+          "expanded_url": "https://x.com/bbkk23333/status/2105703144332394627/photo/1",
+          "media_key": "3_2105703136967184384",
+          "start": 28,
+          "url": "https://t.co/JH7WLSCwEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105891078553678231",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105703136967184384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105703144332394627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 这一下可是30年的功力喵 https://t.co/JH7WLSCwEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1797,
+        "media_key": "3_2105703136967184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj12Lla0AAiaJf.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105703136967184384"
+          ],
+          "media_source_tweet_id": [
+            "2105703144332394627"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105891078553678231",
+        "created_at": "2026-10-02T05:22:13.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105891078553678231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH7WLSCwEK",
+              "end": 51,
+              "expanded_url": "https://x.com/bbkk23333/status/2105703144332394627/photo/1",
+              "media_key": "3_2105703136967184384",
+              "start": 28,
+              "url": "https://t.co/JH7WLSCwEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105891078553678231",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105703136967184384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105703144332394627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 这一下可是30年的功力喵 https://t.co/JH7WLSCwEK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105703136967184384"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105703144332394627",
+        "created_at": "2026-10-01T16:55:26.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105703144332394627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH7WLSCwEK",
+              "end": 36,
+              "expanded_url": "https://x.com/bbkk23333/status/2105703144332394627/photo/1",
+              "media_key": "3_2105703136967184384",
+              "start": 13,
+              "url": "https://t.co/JH7WLSCwEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105703144332394627",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105703136967184384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 12949,
+          "like_count": 299,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这一下可是30年的功力喵 https://t.co/JH7WLSCwEK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105891078553678231",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 667,
+          "like_count": 2365,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖/药物咨询/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/OgRvpRMQUn\n微信：admin22334\nqq:1621320515",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 81,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 58,
+                "url": "https://t.co/OgRvpRMQUn"
+              }
+            ]
+          }
+        },
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2105704715040509964",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 627,
+          "like_count": 9723,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 4613
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105499436252348586",
+    "created_at": "2026-10-01T03:57:00.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105507247019483475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663466214184853505",
+          "start": 0,
+          "username": "Kiyoshiki525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105507247019483475",
+    "in_reply_to_user_id": "1663466214184853505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105506681191100517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyoshiki525 音乐小区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105499436252348586",
+        "created_at": "2026-10-01T03:57:00.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105507247019483475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663466214184853505",
+              "start": 0,
+              "username": "Kiyoshiki525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105507247019483475",
+        "in_reply_to_user_id": "1663466214184853505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105506681191100517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiki525 音乐小区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663466214184853505",
+        "conversation_id": "2105499436252348586",
+        "created_at": "2026-10-01T03:54:45.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105506681191100517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105506681191100517",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105499436252348586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 还是音乐大佬？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105507247019483475",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 635,
+          "like_count": 2258,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-30T08:44:08.000Z",
+        "description": "不主玩推，随缘冒泡，各抒己见",
+        "id": "1663466214184853505",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2105506681191100517",
+        "name": "百忧解不加氟西汀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663466214184853505/1767372971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104141587832000512/6-mgSeHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 1309,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "Kiyoshiki525",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

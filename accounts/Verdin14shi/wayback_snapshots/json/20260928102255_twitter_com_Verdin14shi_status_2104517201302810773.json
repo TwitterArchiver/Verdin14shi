@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104205880158019705",
+    "created_at": "2026-09-28T10:22:55.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104517201302810773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074891659050172416",
+          "start": 0,
+          "username": "nianxi868868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104517201302810773",
+    "in_reply_to_user_id": "2074891659050172416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104205880158019705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianxi868868 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104205880158019705",
+        "created_at": "2026-09-28T10:22:55.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104517201302810773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074891659050172416",
+              "start": 0,
+              "username": "nianxi868868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104517201302810773",
+        "in_reply_to_user_id": "2074891659050172416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104205880158019705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianxi868868 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074891659050172416",
+        "conversation_id": "2104205880158019705",
+        "created_at": "2026-09-27T13:45:50.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104205880158019705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "mtf"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "药娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104205880158019705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1742,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近打算先试探一下父母对mtf的看法，你们有什么好的想法吗？🤔\n#mtf #药娘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104517201302810773",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 592,
+          "like_count": 1874,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T16:28:51.000Z",
+        "description": "08丨mtf丨暂未含糖丨鄂人丨infp/isfp丨gd七年丨深柜丨重抑中焦丨内向丨自卑丨敏感丨二次元\n爱好：听歌、打游戏（原、环、农、洲）没人陪我玩🥺\n互fo❤️",
+        "id": "2074891659050172416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104472004615410005",
+        "name": "念汐_Licy🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101161852223000576/w1tLNCVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 122,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "nianxi868868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

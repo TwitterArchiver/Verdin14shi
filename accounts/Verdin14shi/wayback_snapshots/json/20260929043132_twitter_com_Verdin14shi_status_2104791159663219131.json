@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104774801000997239",
+    "created_at": "2026-09-29T04:31:32.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104791159663219131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2320028310",
+          "start": 0,
+          "username": "AlexSuperabc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104791159663219131",
+    "in_reply_to_user_id": "2320028310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104774801000997239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexSuperabc 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104774801000997239",
+        "created_at": "2026-09-29T04:31:32.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104791159663219131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2320028310",
+              "start": 0,
+              "username": "AlexSuperabc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104791159663219131",
+        "in_reply_to_user_id": "2320028310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104774801000997239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexSuperabc 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2320028310",
+        "conversation_id": "2104774801000997239",
+        "created_at": "2026-09-29T03:26:32.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104774801000997239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlexSuperabc/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/AlexSuperabc/status/2104037226674049332",
+              "start": 47,
+              "url": "https://t.co/uHN0vfdDAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104774801000997239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104037226674049332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎不是，今天又说hrt也不是不行可以试试，能不能靠谱一点，别天天左右摇摆像个不倒翁一样啊🤦🏻 https://t.co/uHN0vfdDAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104791159663219131",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 606,
+          "like_count": 1973,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1943
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-31T01:45:36.000Z",
+        "description": "92年大龄🏳️‍⚧️，26年破蛋，大幅减重，心理咨询中，FFS咨询已做，尚未🍬",
+        "id": "2320028310",
+        "is_identity_verified": false,
+        "location": "California",
+        "most_recent_tweet_id": "2104774801000997239",
+        "name": "Ale 流连🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104774259285626880/HoCysST2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 65,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "AlexSuperabc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

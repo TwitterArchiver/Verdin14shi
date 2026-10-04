@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2100968618301194674",
+    "created_at": "2026-09-19T13:13:15.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101298576580313237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057491380654764034",
+          "start": 0,
+          "username": "zuizhongyb1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101298576580313237",
+    "in_reply_to_user_id": "2057491380654764034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100968618301194674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuizhongyb1t 如果世界上真有这样的事就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2100968618301194674",
+        "created_at": "2026-09-19T13:13:15.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101298576580313237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057491380654764034",
+              "start": 0,
+              "username": "zuizhongyb1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101298576580313237",
+        "in_reply_to_user_id": "2057491380654764034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100968618301194674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuizhongyb1t 如果世界上真有这样的事就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057491380654764034",
+        "conversation_id": "2100968618301194674",
+        "created_at": "2026-09-18T15:22:07.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100968618301194674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zuizhongyb1t/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zuizhongyb1t/status/2100962017725354141",
+              "start": 17,
+              "url": "https://t.co/FPFZLAGyl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100968618301194674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100962017725354141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想用自己的生命换来更多人的幸福 https://t.co/FPFZLAGyl7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101298576580313237",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 476,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T15:59:58.000Z",
+        "description": "🇨🇳/阿龄/最终",
+        "id": "2057491380654764034",
+        "is_identity_verified": false,
+        "location": "崩坏的梦境？",
+        "most_recent_tweet_id": "2101269912102834507",
+        "name": "Voodoo Named Youth",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057491380654764034/1789711174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100375019616673792/4lSqBNwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 25,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "zuizhongyb1t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106060313422675971"
+      ],
+      "media_source_tweet_id": [
+        "2106060320985006432"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "conversation_id": "2106207065882636503",
+    "created_at": "2026-10-03T02:17:50.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106207065882636503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbnK2OxnLi",
+          "end": 105,
+          "expanded_url": "https://x.com/bbkk23333/status/2106060320985006432/photo/1",
+          "media_key": "3_2106060313422675971",
+          "start": 82,
+          "url": "https://t.co/KbnK2OxnLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106207065882636503",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106060313422675971"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106060320985006432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 宝宝接不接小型演出喵？很简单的，就是在台上走一圈，然后和我交换一下戒指，只有一句台词，“我愿意”，结束还送一个国家级证书，怎么样喵？ https://t.co/KbnK2OxnLi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2106060313422675971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTo6slkbQAMsHke.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106060313422675971"
+          ],
+          "media_source_tweet_id": [
+            "2106060320985006432"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2106207065882636503",
+        "created_at": "2026-10-03T02:17:50.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106207065882636503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbnK2OxnLi",
+              "end": 105,
+              "expanded_url": "https://x.com/bbkk23333/status/2106060320985006432/photo/1",
+              "media_key": "3_2106060313422675971",
+              "start": 82,
+              "url": "https://t.co/KbnK2OxnLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106207065882636503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106060313422675971"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106060320985006432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 宝宝接不接小型演出喵？很简单的，就是在台上走一圈，然后和我交换一下戒指，只有一句台词，“我愿意”，结束还送一个国家级证书，怎么样喵？ https://t.co/KbnK2OxnLi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106060313422675971"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2106060320985006432",
+        "created_at": "2026-10-02T16:34:43.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106060320985006432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbnK2OxnLi",
+              "end": 90,
+              "expanded_url": "https://x.com/bbkk23333/status/2106060320985006432/photo/1",
+              "media_key": "3_2106060313422675971",
+              "start": 67,
+              "url": "https://t.co/KbnK2OxnLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106060320985006432",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106060313422675971"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1812,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝接不接小型演出喵？很简单的，就是在台上走一圈，然后和我交换一下戒指，只有一句台词，“我愿意”，结束还送一个国家级证书，怎么样喵？ https://t.co/KbnK2OxnLi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2106207065882636503",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106201384022663168/uXmowPAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 674,
+          "like_count": 2451,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2126
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖/药物咨询/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/OgRvpRMQUn\n微信：admin22334\nqq:1621320515",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 81,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 58,
+                "url": "https://t.co/OgRvpRMQUn"
+              }
+            ]
+          }
+        },
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2106064281733321069",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 632,
+          "like_count": 9802,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4648
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105131970737188986",
+    "created_at": "2026-09-30T03:15:15.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T04:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105134352317436287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105134352317436287",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105131970737188986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ ？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105131962352746496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTbuXcVbQAAy2oJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105131970737188986",
+        "created_at": "2026-09-30T03:15:15.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105134352317436287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105134352317436287",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105131970737188986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105131962352746496"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2105131970737188986",
+        "created_at": "2026-09-30T03:05:47.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105131970737188986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Oo7RoE5aF",
+              "end": 56,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2105131970737188986/photo/1",
+              "media_key": "3_2105131962352746496",
+              "start": 33,
+              "url": "https://t.co/1Oo7RoE5aF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105131970737188986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105131962352746496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你为什么要follow我，你看不到任何能打飞机的素材\n我的眼睛… https://t.co/1Oo7RoE5aF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105134352317436287",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 625,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2008
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜LLM｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\nTG:https://t.co/mrZzq3tXAY(24h在线)\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 94,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 71,
+                "url": "https://t.co/mrZzq3tXAY"
+              },
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 130,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 107,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 159,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 136,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105134175699521647",
+        "name": "Rin",
+        "pinned_tweet_id": "2101637675392672080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1789446351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 148,
+          "like_count": 2112,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

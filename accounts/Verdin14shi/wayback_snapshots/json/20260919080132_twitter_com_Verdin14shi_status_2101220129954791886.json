@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101213198888448325",
+    "created_at": "2026-09-19T08:01:32.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101220129954791886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768834576133107712",
+          "start": 0,
+          "username": "ZGTSSHZYWS2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101220129954791886",
+    "in_reply_to_user_id": "1768834576133107712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101213198888448325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZGTSSHZYWS2012 别……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101213156228128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkCO55a4AAr6c8.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101213198888448325",
+        "created_at": "2026-09-19T08:01:32.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101220129954791886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768834576133107712",
+              "start": 0,
+              "username": "ZGTSSHZYWS2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101220129954791886",
+        "in_reply_to_user_id": "1768834576133107712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101213198888448325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZGTSSHZYWS2012 别……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101213156228128768"
+          ]
+        },
+        "author_id": "1768834576133107712",
+        "conversation_id": "2101213198888448325",
+        "created_at": "2026-09-19T07:33:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101213198888448325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vY2TWl8By3",
+              "end": 36,
+              "expanded_url": "https://x.com/ZGTSSHZYWS2012/status/2101213198888448325/photo/1",
+              "media_key": "3_2101213156228128768",
+              "start": 13,
+              "url": "https://t.co/vY2TWl8By3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101213198888448325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101213156228128768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没想到它价格水平这么低 https://t.co/vY2TWl8By3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101220129954791886",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 470,
+          "like_count": 1048,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1460
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T03:00:09.000Z",
+        "description": "了解支持拥护｜🍬09无证含糖｜裸身高192cm｜🍥hrt:2026.8.8｜INTJ-A/J｜是个mtf/x｜泛性恋｜常驻陕西西安｜喜欢集卡｜同类可以互fo｜成分复杂，乐子人一个\n我的email：guzhenzhen.cm@outlook.com\n重视的人：@subanxia00\n@momolovealcohol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "subanxia00"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "momolovealcohol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/sZnCpCR4bN"
+              }
+            ]
+          }
+        },
+        "id": "1768834576133107712",
+        "is_identity_verified": false,
+        "location": "Pyongyang Juche Idea Tower",
+        "most_recent_tweet_id": "2101213198888448325",
+        "name": "花吟FREE🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768834576133107712/1789786986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100061816823144448/GHVYlKzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 621,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/sZnCpCR4bN",
+        "username": "ZGTSSHZYWS2012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

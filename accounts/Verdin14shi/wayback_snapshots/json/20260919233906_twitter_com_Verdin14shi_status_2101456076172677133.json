@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101360158454800658",
+    "created_at": "2026-09-19T23:39:06.000Z",
+    "display_text_range": [
+      21,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T00:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101456076172677133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        },
+        {
+          "end": 20,
+          "id": "2079578733929754624",
+          "start": 11,
+          "username": "Kabibqi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101456076172677133",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101411909421736212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi @Kabibqi9 吵架还要带喵吗喵，你们好可爱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101360158454800658",
+        "created_at": "2026-09-19T23:39:06.000Z",
+        "display_text_range": [
+          21,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101456076172677133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            },
+            {
+              "end": 20,
+              "id": "2079578733929754624",
+              "start": 11,
+              "username": "Kabibqi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101456076172677133",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101411909421736212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi @Kabibqi9 吵架还要带喵吗喵，你们好可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042902564048355328",
+        "conversation_id": "2101360158454800658",
+        "created_at": "2026-09-19T20:43:36.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T21:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101411909421736212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079578733929754624",
+              "start": 0,
+              "username": "Kabibqi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101411909421736212",
+        "in_reply_to_user_id": "2079578733929754624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101360158454800658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kabibqi9 不急眼为什么立刻拉黑我喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101456076172677133",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 490,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2101411909421736212",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 597,
+          "like_count": 33,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T14:46:44.000Z",
+        "description": "2010出厂喵/🏳️‍⚧️\n日语生喵/超爱@kerosene233\n我想od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "kerosene233"
+              }
+            ]
+          }
+        },
+        "id": "2079578733929754624",
+        "is_identity_verified": false,
+        "location": "世间混沌之起源，空间时间静止杂糅的异墟之土",
+        "most_recent_tweet_id": "2101440086860816873",
+        "name": "一ノ瀬花名🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101350797246386441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079578733929754624/1786644284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099665519230205952/GV6G8VkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 542,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Kabibqi9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

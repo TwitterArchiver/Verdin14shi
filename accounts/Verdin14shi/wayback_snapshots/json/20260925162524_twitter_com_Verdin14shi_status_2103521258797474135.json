@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103317626281755052",
+    "created_at": "2026-09-25T16:25:24.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103521258797474135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820452372704907264",
+          "start": 0,
+          "username": "DaysBlue913"
+        },
+        {
+          "end": 22,
+          "id": "2103108005353144320",
+          "start": 13,
+          "username": "9166ygwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103521258797474135",
+    "in_reply_to_user_id": "1820452372704907264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103502739774882086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaysBlue913 @9166ygwu 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103317626281755052",
+        "created_at": "2026-09-25T16:25:24.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103521258797474135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820452372704907264",
+              "start": 0,
+              "username": "DaysBlue913"
+            },
+            {
+              "end": 22,
+              "id": "2103108005353144320",
+              "start": 13,
+              "username": "9166ygwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103521258797474135",
+        "in_reply_to_user_id": "1820452372704907264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103502739774882086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaysBlue913 @9166ygwu 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820452372704907264",
+        "conversation_id": "2103317626281755052",
+        "created_at": "2026-09-25T15:11:49.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103502739774882086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2103108005353144320",
+              "start": 0,
+              "username": "9166ygwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103502739774882086",
+        "in_reply_to_user_id": "2103108005353144320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103317626281755052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9166ygwu 别这么极端，要慢慢开导，敌人也是可以被再教育成功的，这么极端只会被当粉红"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103521258797474135",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 529,
+          "like_count": 1466,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-05T13:30:52.000Z",
+        "description": "世界人民大团结",
+        "id": "1820452372704907264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103502739774882086",
+        "name": "东枫音",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820452372704907264/1782988325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941412631790940160/SUM9e4nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 74,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "DaysBlue913",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T13:04:49.000Z",
+        "description": "",
+        "id": "2103108005353144320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103319591674171521",
+        "name": "沐泽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "9166ygwu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104427630368068084",
+    "created_at": "2026-09-28T06:48:53.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104463337891508382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104463337891508382",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104427630368068084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 这倒是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104427630368068084",
+        "created_at": "2026-09-28T06:48:53.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104463337891508382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104463337891508382",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104427630368068084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 这倒是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "2104427630368068084",
+        "created_at": "2026-09-28T04:27:00.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104427630368068084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104427630368068084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4602,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果雌二醇真有那种效果，那街上的女人都是美女了，大家都可以不用买精华液护肤了，医美机构也不用开了，他妈的都去吃雌二醇得了。牢唐也就瘦了再加点长发的变化，跟雌二醇没有鸡毛的关系。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104463337891508382",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 583,
+          "like_count": 1835,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "迷茫，徘徊，焦虑，无助",
+        "id": "1878225515561332736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104429132826526104",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "2079824431141269927",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 2379,
+          "like_count": 7396,
+          "listed_count": 6,
+          "media_count": 40,
+          "tweet_count": 2661
+        },
+        "url": "",
+        "username": "EScanlon95354",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

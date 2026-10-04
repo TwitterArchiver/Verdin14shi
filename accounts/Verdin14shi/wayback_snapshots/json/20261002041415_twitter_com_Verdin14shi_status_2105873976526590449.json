@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105873954267336704",
+        "16_2105873960563052544"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105873976526590449",
+    "created_at": "2026-10-02T04:14:15.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105873976526590449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I41CHJ4i0I",
+          "end": 61,
+          "expanded_url": "https://x.com/Verdin14shi/status/2105873976526590449/photo/1",
+          "media_key": "3_2105873954267336704",
+          "start": 38,
+          "url": "https://t.co/I41CHJ4i0I"
+        },
+        {
+          "display_url": "pic.x.com/I41CHJ4i0I",
+          "end": 61,
+          "expanded_url": "https://x.com/Verdin14shi/status/2105873976526590449/photo/1",
+          "media_key": "16_2105873960563052544",
+          "start": 38,
+          "url": "https://t.co/I41CHJ4i0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105873976526590449",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105873954267336704"
+      },
+      {
+        "media_key": "16_2105873960563052544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天刷b站陷入芙兰朵露唱歌死循环的我\n\n实际上知晓一切：\n（原图作者不是我 https://t.co/I41CHJ4i0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2105873954267336704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmRNDnaEAArSbe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 240,
+        "media_key": "16_2105873960563052544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTmRNbEbEAApORC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTmRNbEbEAApORC.mp4"
+          }
+        ],
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105873954267336704",
+            "16_2105873960563052544"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105873976526590449",
+        "created_at": "2026-10-02T04:14:15.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105873976526590449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I41CHJ4i0I",
+              "end": 61,
+              "expanded_url": "https://x.com/Verdin14shi/status/2105873976526590449/photo/1",
+              "media_key": "3_2105873954267336704",
+              "start": 38,
+              "url": "https://t.co/I41CHJ4i0I"
+            },
+            {
+              "display_url": "pic.x.com/I41CHJ4i0I",
+              "end": 61,
+              "expanded_url": "https://x.com/Verdin14shi/status/2105873976526590449/photo/1",
+              "media_key": "16_2105873960563052544",
+              "start": 38,
+              "url": "https://t.co/I41CHJ4i0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105873976526590449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105873954267336704"
+          },
+          {
+            "media_key": "16_2105873960563052544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天刷b站陷入芙兰朵露唱歌死循环的我\n\n实际上知晓一切：\n（原图作者不是我 https://t.co/I41CHJ4i0I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105873976526590449",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 640,
+          "like_count": 2338,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2085
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

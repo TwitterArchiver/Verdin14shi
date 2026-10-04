@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103275451011780869",
+    "created_at": "2026-09-25T01:07:15.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T02:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103290198436299155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077762261561806848",
+          "start": 0,
+          "username": "cfb1qr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103290198436299155",
+    "in_reply_to_user_id": "2077762261561806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103275451011780869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cfb1qr1 中山装好看喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2103275429683683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBV3BMaYAAromy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2103275429675274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBV3BKaEAAe0aa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103275451011780869",
+        "created_at": "2026-09-25T01:07:15.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103290198436299155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077762261561806848",
+              "start": 0,
+              "username": "cfb1qr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103290198436299155",
+        "in_reply_to_user_id": "2077762261561806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103275451011780869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cfb1qr1 中山装好看喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103275429683683328",
+            "3_2103275429675274240"
+          ]
+        },
+        "author_id": "2077762261561806848",
+        "conversation_id": "2103275451011780869",
+        "created_at": "2026-09-25T00:08:39.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103275451011780869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSYuIR9wLO",
+              "end": 31,
+              "expanded_url": "https://x.com/cfb1qr1/status/2103275451011780869/photo/1",
+              "media_key": "3_2103275429683683328",
+              "start": 8,
+              "url": "https://t.co/mSYuIR9wLO"
+            },
+            {
+              "display_url": "pic.x.com/mSYuIR9wLO",
+              "end": 31,
+              "expanded_url": "https://x.com/cfb1qr1/status/2103275451011780869/photo/1",
+              "media_key": "3_2103275429675274240",
+              "start": 8,
+              "url": "https://t.co/mSYuIR9wLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103275451011780869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103275429683683328"
+          },
+          {
+            "media_key": "3_2103275429675274240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13524,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有点权威了这套 https://t.co/mSYuIR9wLO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103290198436299155",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 512,
+          "like_count": 1307,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1635
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T14:29:48.000Z",
+        "description": "",
+        "id": "2077762261561806848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103289469155913972",
+        "name": "官服耄耋封号第4条命",
+        "pinned_tweet_id": "2077765489020010693",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096207384779878400/rVqbGxPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 144,
+          "like_count": 2618,
+          "listed_count": 12,
+          "media_count": 94,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "cfb1qr1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

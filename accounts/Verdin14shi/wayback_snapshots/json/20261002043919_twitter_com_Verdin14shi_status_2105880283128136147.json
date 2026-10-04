@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2105880264039903232"
+      ]
+    },
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105880283128136147",
+    "created_at": "2026-10-02T04:39:19.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105880283128136147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxYDXpFTF2",
+          "end": 40,
+          "expanded_url": "https://x.com/Verdin14shi/status/2105880283128136147/photo/1",
+          "media_key": "16_2105880264039903232",
+          "start": 17,
+          "url": "https://t.co/bxYDXpFTF2"
+        },
+        {
+          "display_url": "x.com/LiquidValorant…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/LiquidValorant/status/2105624015842713915",
+          "start": 41,
+          "url": "https://t.co/VFpNVVBK8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105880283128136147",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2105880264039903232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105624015842713915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完这几天比赛的VCTCN观众： https://t.co/bxYDXpFTF2 https://t.co/VFpNVVBK8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2105880264039903232",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTmW8VWasAAdwtr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTmW8VWasAAdwtr.mp4"
+          }
+        ],
+        "width": 426
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2105623564204290049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiteb8WsAEuwg0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2105880264039903232"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105880283128136147",
+        "created_at": "2026-10-02T04:39:19.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105880283128136147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxYDXpFTF2",
+              "end": 40,
+              "expanded_url": "https://x.com/Verdin14shi/status/2105880283128136147/photo/1",
+              "media_key": "16_2105880264039903232",
+              "start": 17,
+              "url": "https://t.co/bxYDXpFTF2"
+            },
+            {
+              "display_url": "x.com/LiquidValorant…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/LiquidValorant/status/2105624015842713915",
+              "start": 41,
+              "url": "https://t.co/VFpNVVBK8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105880283128136147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2105880264039903232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105624015842713915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完这几天比赛的VCTCN观众： https://t.co/bxYDXpFTF2 https://t.co/VFpNVVBK8J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105623564204290049"
+          ]
+        },
+        "author_id": "1265713438426386434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105624015842713915",
+        "created_at": "2026-10-01T11:41:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105624015842713915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omH2Up4MiZ",
+              "end": 34,
+              "expanded_url": "https://x.com/LiquidValorant/status/2105624015842713915/photo/1",
+              "media_key": "3_2105623564204290049",
+              "start": 11,
+              "url": "https://t.co/omH2Up4MiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105624015842713915",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105623564204290049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 123520,
+          "like_count": 3967,
+          "quote_count": 14,
+          "reply_count": 73,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "Light work https://t.co/omH2Up4MiZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105880283128136147",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 662,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2092
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2093762451577991168/szAZlotN_bigger.jpg",
+          "description": "Team Liquid",
+          "url": "https://twitter.com/TeamLiquid",
+          "user_id": [
+            "257268592"
+          ]
+        },
+        "created_at": "2020-05-27T18:36:23.000Z",
+        "description": "Home of @TeamLiquid VALORANT | VCT EMEA CHAMPIONS 2023 AND 2025 | Find us at https://t.co/Znt5CCZppM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "TeamLiquid"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "TL.GG/VALORANT",
+                "end": 100,
+                "expanded_url": "http://TL.GG/VALORANT",
+                "start": 77,
+                "url": "https://t.co/Znt5CCZppM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TL.GG/VCT2025FANPACK",
+                "end": 23,
+                "expanded_url": "http://TL.GG/VCT2025FANPACK",
+                "start": 0,
+                "url": "https://t.co/MIEMPSfSsy"
+              }
+            ]
+          }
+        },
+        "id": "1265713438426386434",
+        "is_identity_verified": false,
+        "location": "AWTF EU",
+        "most_recent_tweet_id": "2105658089311769053",
+        "name": "Team Liquid VALORANT",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265713438426386434/1770903875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061466220512288768/HVr4o2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134634,
+          "following_count": 190,
+          "like_count": 14472,
+          "listed_count": 456,
+          "media_count": 3494,
+          "tweet_count": 9303
+        },
+        "url": "https://t.co/MIEMPSfSsy",
+        "username": "LiquidValorant",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

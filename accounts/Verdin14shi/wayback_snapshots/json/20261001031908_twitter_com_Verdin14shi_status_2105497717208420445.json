@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105473587260117147",
+    "created_at": "2026-10-01T03:19:08.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105497717208420445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007024792172699649",
+          "start": 0,
+          "username": "Yzmtsky6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105497717208420445",
+    "in_reply_to_user_id": "2007024792172699649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105473587260117147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzmtsky6666 太bt了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105473587260117147",
+        "created_at": "2026-10-01T03:19:08.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105497717208420445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007024792172699649",
+              "start": 0,
+              "username": "Yzmtsky6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105497717208420445",
+        "in_reply_to_user_id": "2007024792172699649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105473587260117147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzmtsky6666 太bt了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007024792172699649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2105473587260117147",
+        "created_at": "2026-10-01T01:43:15.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105473587260117147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105473587260117147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我WhatsApp被封了，直播在tg群上进行，想看的人私信我证明身份后我会发链接"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105497717208420445",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 635,
+          "like_count": 2251,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "tg群邀请链:https://t.co/TFLondy2En\nmtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，远离成瘾物|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yzmtsky6666",
+                "end": 30,
+                "expanded_url": "https://t.me/yzmtsky6666",
+                "start": 7,
+                "url": "https://t.co/TFLondy2En"
+              }
+            ]
+          }
+        },
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2105489658524418200",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2102321389914988859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007024792172699649/1790069776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 466,
+          "like_count": 3269,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

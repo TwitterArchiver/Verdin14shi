@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2106381412832329808",
+    "created_at": "2026-10-03T14:05:44.000Z",
+    "display_text_range": [
+      34,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106385212808843332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "iityann19462957"
+        },
+        {
+          "end": 33,
+          "id": "1979308662117273604",
+          "start": 17,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106385212808843332",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106381412832329808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iityann19462957 @kuaizichopstick 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2106381393488162816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtet6BasAA8wq4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2106381412832329808",
+        "created_at": "2026-10-03T14:05:44.000Z",
+        "display_text_range": [
+          34,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106385212808843332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "iityann19462957"
+            },
+            {
+              "end": 33,
+              "id": "1979308662117273604",
+              "start": 17,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106385212808843332",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106381412832329808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iityann19462957 @kuaizichopstick 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106381393488162816"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106381412832329808",
+        "created_at": "2026-10-03T13:50:38.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106381412832329808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979308662117273604",
+              "start": 3,
+              "username": "kuaizichopstick"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttPI6Q7rD7",
+              "end": 56,
+              "expanded_url": "https://x.com/iityann19462957/status/2106381412832329808/photo/1",
+              "media_key": "3_2106381393488162816",
+              "start": 33,
+              "url": "https://t.co/ttPI6Q7rD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106381412832329808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106381393488162816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一醬跟@kuaizichopstick 妹妹貼貼喵🐱🍥🏳️‍⚧️ https://t.co/ttPI6Q7rD7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号里推）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2106385212808843332",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106201384022663168/uXmowPAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 683,
+          "like_count": 2528,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2147
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n亖亡日期： 未來的某一天\n中焦重抑\n隨時亖亡（？）\n#NSFW原創\n官方：@mapo_q\n最好的閨蜜：@sukimiku0831\n最好的妹妹：@Yuki_Mo_77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "NSFW原創"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "mapo_q"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "sukimiku0831"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "Yuki_Mo_77"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "is_identity_verified": false,
+        "location": "機廳/音樂排練室",
+        "most_recent_tweet_id": "2106382922672742794",
+        "name": "不該存在的いいちゃん😾😿",
+        "pinned_tweet_id": "2092284675264008645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035668415231492096/1787386838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1148,
+          "like_count": 5083,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 5346
+        },
+        "url": "",
+        "username": "iityann19462957",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "生产日期08.12.25 hrt25.12.05 小证26.07.14 家长党 185cm/93kg\n同类可互fo喵！日麻狂热爱好者/各种音游/自残自杀倾向严重/oder💊\n乖妹妹@ScarsTowel616 qq1993611645",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "ScarsTowel616"
+              }
+            ]
+          }
+        },
+        "id": "1979308662117273604",
+        "is_identity_verified": false,
+        "location": "青岛",
+        "most_recent_tweet_id": "2106240660840095935",
+        "name": "筷子不会用筷子🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085011175755170039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979308662117273604/1780372999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068455916396253184/Cg6de8ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 792,
+          "like_count": 1525,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "kuaizichopstick",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

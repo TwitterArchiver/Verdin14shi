@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103275012216242616",
+    "created_at": "2026-09-25T00:06:54.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T01:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103275012216242616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062190491991744512",
+          "start": 3,
+          "username": "Sypshenlipu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103275012216242616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103167013783019587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sypshenlipu: 雌二醇姐姐，嘿嘿，姐姐好棒🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103275012216242616",
+        "created_at": "2026-09-25T00:06:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103275012216242616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062190491991744512",
+              "start": 3,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103275012216242616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103167013783019587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sypshenlipu: 雌二醇姐姐，嘿嘿，姐姐好棒🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2103167013783019587",
+        "created_at": "2026-09-24T16:57:45.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103167013783019587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosas_sub/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Irosas_sub/status/2103141224425435614",
+              "start": 15,
+              "url": "https://t.co/Z7lxRu86kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103167013783019587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103141224425435614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇姐姐，嘿嘿，姐姐好棒🤤 https://t.co/Z7lxRu86kE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103275012216242616",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 510,
+          "like_count": 1294,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103203916972519455",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 408,
+          "like_count": 61667,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 1852
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

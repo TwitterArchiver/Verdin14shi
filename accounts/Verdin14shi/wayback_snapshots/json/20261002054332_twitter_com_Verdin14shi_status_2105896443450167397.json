@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105896443450167397",
+    "created_at": "2026-10-02T05:43:32.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T06:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105896443450167397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VirtualIdol39/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/VirtualIdol39/status/2105819804032483809",
+          "start": 5,
+          "url": "https://t.co/91BgiYJcPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105896443450167397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105819804032483809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蒋介fu https://t.co/91BgiYJcPd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4735,
+        "height": 1024,
+        "media_key": "13_2105551917699190784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105551917699190784/img/MBA6Y8fS_m3lBPWq.jpg",
+        "public_metrics": {
+          "view_count": 1589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105551917699190784/vid/avc1/320x568/TMVMXFhrNb7q-tkZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105551917699190784/vid/avc1/480x852/YjQH4_HMDQ7BxyH8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105551917699190784/vid/avc1/576x1024/BVZAkSaIzd2zxpqK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105551917699190784/pl/heTpthGW3J9Bp2PT.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105896443450167397",
+        "created_at": "2026-10-02T05:43:32.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105896443450167397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VirtualIdol39/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/VirtualIdol39/status/2105819804032483809",
+              "start": 5,
+              "url": "https://t.co/91BgiYJcPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105896443450167397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105819804032483809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蒋介fu https://t.co/91BgiYJcPd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105551917699190784"
+          ]
+        },
+        "author_id": "707432797015838720",
+        "conversation_id": "2105819804032483809",
+        "created_at": "2026-10-02T00:39:00.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105819804032483809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXB97A3sAY",
+              "end": 53,
+              "expanded_url": "https://x.com/VirtualIdol39/status/2105819804032483809/video/1",
+              "media_key": "13_2105551917699190784",
+              "start": 30,
+              "url": "https://t.co/ZXB97A3sAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105819804032483809",
+        "lang": "da",
+        "media_metadata": [
+          {
+            "media_key": "13_2105551917699190784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3324,
+          "like_count": 220,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "D:\n©️ mikufandom_ (Instagram) https://t.co/ZXB97A3sAY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105896443450167397",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 669,
+          "like_count": 2375,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2103
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-09T05:08:17.000Z",
+        "description": "伝説のバーチャルディーヴァ、初音ミク人がやってきた！\nThe Legendary Virtual Diva, Hatsune Miku, is here!\n\n- Discord: VirtualIdol39\n- メズマライザー (Mesmerizer)\n- 日本語 / ENG\n- パロディ (Parody)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/N77QeyjDRK",
+                "end": 23,
+                "expanded_url": "https://discord.gg/N77QeyjDRK",
+                "start": 0,
+                "url": "https://t.co/FvLydbIrqi"
+              }
+            ]
+          }
+        },
+        "id": "707432797015838720",
+        "is_identity_verified": false,
+        "location": "Hiding in your WiFi",
+        "most_recent_tweet_id": "2105865102716993707",
+        "name": "初音ミク",
+        "pinned_tweet_id": "2104495745869205729",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/707432797015838720/1767742104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100884907618967552/Cmo6jFtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9016,
+          "following_count": 807,
+          "like_count": 17605,
+          "listed_count": 51,
+          "media_count": 9292,
+          "tweet_count": 97257
+        },
+        "url": "https://t.co/FvLydbIrqi",
+        "username": "VirtualIdol39",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

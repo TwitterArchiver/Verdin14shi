@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105144888874729552",
+    "created_at": "2026-10-01T03:51:29.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105505859602383028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489565352207937539",
+          "start": 0,
+          "username": "ChaeSeoyun06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105505859602383028",
+    "in_reply_to_user_id": "1489565352207937539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105144888874729552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaeSeoyun06 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105144888874729552",
+        "created_at": "2026-10-01T03:51:29.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105505859602383028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1489565352207937539",
+              "start": 0,
+              "username": "ChaeSeoyun06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105505859602383028",
+        "in_reply_to_user_id": "1489565352207937539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105144888874729552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaeSeoyun06 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489565352207937539",
+        "conversation_id": "2105144888874729552",
+        "created_at": "2026-09-30T03:57:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105144888874729552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105144888874729552",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8266,
+          "like_count": 364,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "트랜스젠더 남성은 남성이고 \n트랜스젠더 여성은 여성이다"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋 \n🏠烟台入 mtf 青岛上学 \n💗🦈此账号为善良人格，不知何时病变～\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n小号@Hoshineyosa（会发神秘东西，有可能是邪恶人格）\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105505859602383028",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 635,
+          "like_count": 2258,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T11:44:01.000Z",
+        "description": "2006.01.15(YMD) | She/Her | ENFP | ADHD | 🏳️‍⚧️🏳️‍🌈\n\n온갖 잡소리\n\n탐넘 초멘 마다 안 합니다",
+        "id": "1489565352207937539",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105500585906798689",
+        "name": "채서윤🏳️‍⚧️🏳️‍🌈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070851982164901888/W1Y9QZw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 468,
+          "like_count": 36849,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "ChaeSeoyun06",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

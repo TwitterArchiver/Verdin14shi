@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104072266686378171",
+    "created_at": "2026-09-28T06:52:43.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104464303504166942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1578970367808380928",
+          "start": 0,
+          "username": "Lucy89_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104464303504166942",
+    "in_reply_to_user_id": "1578970367808380928",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104072266686378171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucy89_ ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104072266686378171",
+        "created_at": "2026-09-28T06:52:43.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104464303504166942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1578970367808380928",
+              "start": 0,
+              "username": "Lucy89_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104464303504166942",
+        "in_reply_to_user_id": "1578970367808380928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104072266686378171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucy89_ ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578970367808380928",
+        "conversation_id": "2104072266686378171",
+        "created_at": "2026-09-27T04:54:54.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104072266686378171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104072266686378171",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4545,
+          "impression_count": 1290648,
+          "like_count": 83204,
+          "quote_count": 454,
+          "reply_count": 301,
+          "retweet_count": 9289
+        },
+        "reply_settings": "everyone",
+        "text": "A mulher que você ama já foi um sêmen \n\nVocê gosta de sêmen\n\nVocê é gay \n\nTenha um ótimo dia seu viadinho"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104464303504166942",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 584,
+          "like_count": 1835,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1916
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-09T04:47:39.000Z",
+        "description": "Nerd safada gente boa\n\nManda cripto: 0x7ec1484760717b6e345017f4c8c2cbee11f2518c",
+        "id": "1578970367808380928",
+        "is_identity_verified": false,
+        "location": "Santos ",
+        "most_recent_tweet_id": "2104441822931976625",
+        "name": "~~Lucy~~",
+        "pinned_tweet_id": "1854582056518291869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578970367808380928/1776315681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044642940799062016/LK-B3LOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 262,
+          "like_count": 255985,
+          "listed_count": 5,
+          "media_count": 1684,
+          "tweet_count": 46448
+        },
+        "url": "",
+        "username": "Lucy89_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

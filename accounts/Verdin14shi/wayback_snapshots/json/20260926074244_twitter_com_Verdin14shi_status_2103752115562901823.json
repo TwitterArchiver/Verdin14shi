@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2103752115562901823",
+    "created_at": "2026-09-26T07:42:44.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103752115562901823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VorosTwins/sta…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/VorosTwins/status/2103586740816818648",
+          "start": 67,
+          "url": "https://t.co/ICkFJEKiPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103752115562901823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103586740816818648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "艺术这种东西本身就是因为是碳基生物创造出来而美好的喵\n硅基生命也能创造但是我认为无论如何也只是低劣的仿制品只能替代一些世俗的部分爱好 https://t.co/ICkFJEKiPc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2103752115562901823",
+        "created_at": "2026-09-26T07:42:44.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103752115562901823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VorosTwins/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/VorosTwins/status/2103586740816818648",
+              "start": 67,
+              "url": "https://t.co/ICkFJEKiPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103752115562901823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103586740816818648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "艺术这种东西本身就是因为是碳基生物创造出来而美好的喵\n硅基生命也能创造但是我认为无论如何也只是低劣的仿制品只能替代一些世俗的部分爱好 https://t.co/ICkFJEKiPc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "36201559",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2103586740816818648",
+        "created_at": "2026-09-25T20:45:36.000Z",
+        "display_text_range": [
+          0,
+          195
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103586740816818648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103586740816818648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 160654,
+          "like_count": 23819,
+          "quote_count": 60,
+          "reply_count": 110,
+          "retweet_count": 3116
+        },
+        "reply_settings": "everyone",
+        "text": "Ugly art is better than AI.\nUgly art is better than AI.\nUgly art is better than AI.\nUgly art is better than AI.\nUgly art is better than AI.\nUgly art is better than AI.\nUgly art is better than AI."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103752115562901823",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 564,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-28T22:28:36.000Z",
+        "description": "Da followy for daily da jokeys! da Vinki!\nOrder da cameo! 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameo.com/vorostwins",
+                "end": 23,
+                "expanded_url": "https://www.cameo.com/vorostwins",
+                "start": 0,
+                "url": "https://t.co/OcI71cVuD6"
+              }
+            ]
+          }
+        },
+        "id": "36201559",
+        "is_identity_verified": false,
+        "location": "Vancouver Canada",
+        "most_recent_tweet_id": "2103626757345784114",
+        "name": "DA VINKI",
+        "pinned_tweet_id": "1952399501022625976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36201559/1771274101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484161306512920576/PE8QqPge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401088,
+          "following_count": 644,
+          "like_count": 94145,
+          "listed_count": 240,
+          "media_count": 5202,
+          "tweet_count": 13990
+        },
+        "url": "https://t.co/OcI71cVuD6",
+        "username": "VorosTwins",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

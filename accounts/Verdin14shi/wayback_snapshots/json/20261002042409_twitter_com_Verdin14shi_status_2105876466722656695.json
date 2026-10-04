@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105876466722656695",
+    "created_at": "2026-10-02T04:24:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105876466722656695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105876466722656695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105833191357780416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 作为mtf，你有梦见过自己是个女孩子吗？\n\n从我性别意识还未形成的懵懂期，我就有梦到自己是女孩子，那会有怎样的一个人生。\n\n对自己性别认同的定义一直是让我很困扰的事情。\n\n早在我的性别观念没有完全形成的时候，我就有了对裙子，长发，装饰品等“女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105833175184539648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTlsHZsbgAAiXc-.jpg",
+        "width": 2902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105876466722656695",
+        "created_at": "2026-10-02T04:24:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105876466722656695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105876466722656695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105833191357780416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 作为mtf，你有梦见过自己是个女孩子吗？\n\n从我性别意识还未形成的懵懂期，我就有梦到自己是女孩子，那会有怎样的一个人生。\n\n对自己性别认同的定义一直是让我很困扰的事情。\n\n早在我的性别观念没有完全形成的时候，我就有了对裙子，长发，装饰品等“女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105833175184539648"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2105833191357780416",
+        "created_at": "2026-10-02T01:32:11.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105833191357780416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T17dIN7kwn",
+              "end": 165,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105833191357780416/photo/1",
+              "media_key": "3_2105833175184539648",
+              "start": 142,
+              "url": "https://t.co/T17dIN7kwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105833191357780416",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105833175184539648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "作为mtf，你有梦见过自己是个女孩子吗？\n\n从我性别意识还未形成的懵懂期，我就有梦到自己是女孩子，那会有怎样的一个人生。\n\n对自己性别认同的定义一直是让我很困扰的事情。\n\n早在我的性别观念没有完全形成的时候，我就有了对裙子，长发，装饰品等“女孩装饰”的渴望，大约是我3～5岁的时候。\n\n后来在逐渐形成性别观念的小学阶段，对“女孩装饰”的渴望越发强烈，羡慕女孩的长裙，羡慕女孩的白丝袜，羡慕女孩的长发，羡慕女孩的“优雅”。这样早期的性别焦虑一直弥漫在我心底，贯穿了我的整个童年。\n\n而在当时，我尚未觉醒，只觉得这股难以言状的情绪，一次又一次的将我拖入巨大的悲伤。\n\n童年时期的我，和大多数男孩一样。会对容颜可爱的女孩春心萌动，会痴迷于淘米公司开发的网络游戏，喜欢看少儿动漫，也从不忌讳男生之间的话题。\n\n童年时期的我，和大多数男孩不一样。被同学喊“娘娘腔”，在社交和游戏平台上“装萝莉”，和女孩在一起玩“过家家”，也会为死去的小动物痛哭流涕。\n\n“如果我是一个女孩子该多好呀。”那时的我常常想。\n\n随之而来的还有一个小时候才有的幼稚想法：“如果我是一个女孩，那我也可以和我喜欢的女孩在同一个宿舍，拥抱在一起，共同入睡了吧。”\n\n在梦中，我梦到了一个梦幻的少女，我将对这个世界大多数美好的幻想，都汇聚在了她的身上，我希望拥有那样的女孩，渴望成为那样的女孩\n\n说白了，童年时期的我希望自己成为女孩子，然后和另一个女孩子百合，所以那个时候我是一个狂热的百合控\n\n这样的少女梦，根植在了我记忆中最深，最初的地方。倒不如说，我从小到大，绝大多数梦境中自己都是女孩子，而且是那种十分可爱的幼女233\n\n在我童年时期，这种焦虑的根源本质上是一种对女性一切事物的仰慕，羡慕，喜爱，这让我无论是性取向还是自己都想成为女孩子。\n\n只是那时候我还没有接触到性少数和性别认同的相关概念，只能很无奈的接受自己指派性别是男生的事情\n\n我永远无法忘记我童年时期第一次偷偷穿上裙子的时候，浑身上下颤栗到灵魂的幸福和兴奋感觉\n\n在中学时代，这种情况发生了一定程度上的改变\n\n首先是我的性取向先是从女性扩张到了“伪娘”“假小子”，最后扩张到了所有性别（这和我性别意识的觉醒有一定关系）\n\n再然后，我深深着迷上了“变身文学”小说，整个初中时代，我阅读了上亿字的“变身文学”小说（网络小说），这也彻底改变了我的阅读习惯（童年时代我在书城阅读数千万字的实体书）\n\n通过变身文学圈子，我加入了各种各样的群，认识了很多很多这个圈子的人，于是，也在这段时间，我通过不断的社交延伸进入了mtf的“药圈”，这个时候，我只有小学六年级\n\n这也为后来一个改变我一生的梦，埋下了伏笔\n\n在“药圈”待了5～6年的时间，我遇见了太多、太多的人间悲剧，感受到了太多、太多的苦难\n\n在中考后的暑假，我做了一个让我永生难忘的梦：\n\n在这个梦里，我是一个顺性别女生，从出生的时候，我就集万千宠爱于一身。我过上了幸福美满的生活，做了一切让我幸福快乐的事情\n\n在这个梦里，我把我的一生用女孩子的身份重新度过了一遍，一个女孩子的一生\n但忽然有一天，我遇到了一个女孩，她对我说：你一定记得我吧\n\n我疑惑的看着面前这位柔软的女孩，对她说：我们从未见过面啊\n\n她叹了一口气：对啊，你是真娘（这是一个非常有早期药圈历史感的词），你怎么会和我见过面呢，你又怎么会认识我呢\n\n随后，这位女孩化作白光，开始渐渐消失\n\n这时候我猛然惊醒，用尽所有的力气向前扑去\n\n「我当然记得你，我一辈子都记得你，哪怕你离开了这个世界，很久很久，我也不会忘记你，还有你的梦想\n\n对啊，如果我是真娘，又怎么会和你相遇呢」"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2139,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "作为mtf，你有梦见过自己是个女孩子吗？\n\n从我性别意识还未形成的懵懂期，我就有梦到自己是女孩子，那会有怎样的一个人生。\n\n对自己性别认同的定义一直是让我很困扰的事情。\n\n早在我的性别观念没有完全形成的时候，我就有了对裙子，长发，装饰品等“女孩装饰”的渴望，大约是我3～5岁的时候。 https://t.co/T17dIN7kwn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105876466722656695",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 640,
+          "like_count": 2340,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2088
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想和我互相关注，可以转发我的你感兴趣的推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2105869675511070823",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43004,
+          "following_count": 4257,
+          "like_count": 2559,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

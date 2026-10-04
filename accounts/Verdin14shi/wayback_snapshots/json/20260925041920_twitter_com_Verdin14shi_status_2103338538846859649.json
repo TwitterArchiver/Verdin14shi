@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103338538846859649",
+    "created_at": "2026-09-25T04:19:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103338538846859649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007015116274012161",
+          "start": 3,
+          "username": "hexy_sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103338538846859649",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102872770094993831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hexy_sz: A sociedade é tipo:\nMulher Gótica = puta\nMulher Padrão = puta\nMulher cis = puta\nMulher trans = puta\nMãe solteira = puta\nMulher…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103338538846859649",
+        "created_at": "2026-09-25T04:19:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103338538846859649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007015116274012161",
+              "start": 3,
+              "username": "hexy_sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103338538846859649",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102872770094993831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hexy_sz: A sociedade é tipo:\nMulher Gótica = puta\nMulher Padrão = puta\nMulher cis = puta\nMulher trans = puta\nMãe solteira = puta\nMulher…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007015116274012161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          }
+        ],
+        "conversation_id": "2102872770094993831",
+        "created_at": "2026-09-23T21:28:32.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102872770094993831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102872770094993831",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1276,
+          "impression_count": 373148,
+          "like_count": 40942,
+          "quote_count": 109,
+          "reply_count": 351,
+          "retweet_count": 10331
+        },
+        "reply_settings": "everyone",
+        "text": "A sociedade é tipo:\nMulher Gótica = puta\nMulher Padrão = puta\nMulher cis = puta\nMulher trans = puta\nMãe solteira = puta\nMulher sem filhos = puta\nMãe c +de 1 filho = puta\nMulher de beleza natural = puta\nMulher com plástica = puta\nMulher inteligente = puta\nMulher = puta\nPuta = puta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103338538846859649",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 521,
+          "like_count": 1366,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1676
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:05:14.000Z",
+        "description": "ʷᵘᵇᵇᵃ ˡᵘᵇᵇᵃ ᵈᵘᵇ ᵈᵘᵇ  | morbid Romanian fairytale \n(https://t.co/reA16jhS8n) 🩷💛🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hexhammerhead.bsky.social",
+                "end": 74,
+                "expanded_url": "https://hexhammerhead.bsky.social",
+                "start": 51,
+                "url": "https://t.co/reA16jhS8n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hex_hammerhead…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hex_hammerhead?igsh=MWw3NmNsZXV0M2l0Ng==",
+                "start": 0,
+                "url": "https://t.co/iH6TXHZTk2"
+              }
+            ]
+          }
+        },
+        "id": "2007015116274012161",
+        "is_identity_verified": false,
+        "location": "InHellTakingaNapOnDevilsLap",
+        "most_recent_tweet_id": "2103227036777214130",
+        "name": "@hex_hammerhead 🦈",
+        "pinned_tweet_id": "2102211744861200491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007015116274012161/1767396356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095880174650703879/63hRgXVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 200,
+          "like_count": 5207,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2803
+        },
+        "url": "https://t.co/iH6TXHZTk2",
+        "username": "hexy_sz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

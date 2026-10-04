@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103647800722673894",
+    "created_at": "2026-09-26T00:54:04.000Z",
+    "display_text_range": [
+      9,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103649270960415149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103649270960415149",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103647800722673894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei 这个店是胶东地区很有名的品牌，每个烟台人都知道这个品牌并且吃过它，大街小巷里到处都是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2103647507754680320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGoQ0BagAAq35v.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103647506936807424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGoQw-awAACbho.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103647507859587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGoQ0abQAAhMEn.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2103647507003961344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGoQxObcAAdZfi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103647800722673894",
+        "created_at": "2026-09-26T00:54:04.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103649270960415149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103649270960415149",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103647800722673894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei 这个店是胶东地区很有名的品牌，每个烟台人都知道这个品牌并且吃过它，大街小巷里到处都是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103647507754680320",
+            "3_2103647506936807424",
+            "3_2103647507859587072",
+            "3_2103647507003961344"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          }
+        ],
+        "conversation_id": "2103647800722673894",
+        "created_at": "2026-09-26T00:48:14.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103647800722673894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUGhWsABpl",
+              "end": 70,
+              "expanded_url": "https://x.com/kuroyei/status/2103647800722673894/photo/1",
+              "media_key": "3_2103647507754680320",
+              "start": 47,
+              "url": "https://t.co/eUGhWsABpl"
+            },
+            {
+              "display_url": "pic.x.com/eUGhWsABpl",
+              "end": 70,
+              "expanded_url": "https://x.com/kuroyei/status/2103647800722673894/photo/1",
+              "media_key": "3_2103647506936807424",
+              "start": 47,
+              "url": "https://t.co/eUGhWsABpl"
+            },
+            {
+              "display_url": "pic.x.com/eUGhWsABpl",
+              "end": 70,
+              "expanded_url": "https://x.com/kuroyei/status/2103647800722673894/photo/1",
+              "media_key": "3_2103647507859587072",
+              "start": 47,
+              "url": "https://t.co/eUGhWsABpl"
+            },
+            {
+              "display_url": "pic.x.com/eUGhWsABpl",
+              "end": 70,
+              "expanded_url": "https://x.com/kuroyei/status/2103647800722673894/photo/1",
+              "media_key": "3_2103647507003961344",
+              "start": 47,
+              "url": "https://t.co/eUGhWsABpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103647800722673894",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103647507754680320"
+          },
+          {
+            "media_key": "3_2103647506936807424"
+          },
+          {
+            "media_key": "3_2103647507859587072"
+          },
+          {
+            "media_key": "3_2103647507003961344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煙台のチェーン店「藍白」で朝食を食べました！！\n\n特にお粥と野菜が美味しかった、毎朝食べたい https://t.co/eUGhWsABpl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103649270960415149",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 539,
+          "like_count": 1495,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2103647800722673894",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28780,
+          "following_count": 950,
+          "like_count": 139748,
+          "listed_count": 67,
+          "media_count": 9696,
+          "tweet_count": 39937
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "US National News",
+          "id": "1003932601839579136",
+          "name": "US national news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US National News",
+          "id": "1003932601839579136",
+          "name": "US national news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      }
+    ],
+    "conversation_id": "2101260430182142455",
+    "created_at": "2026-09-19T10:41:40.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T11:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101260430182142455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realDonaldTrum…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/2101101979808493780",
+          "start": 29,
+          "url": "https://t.co/izma5M8FJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101260430182142455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101101979808493780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一眼直接看成特朗普拿下来格陵兰了\n特朗普大赢经太伟大了 https://t.co/izma5M8FJD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2101260430182142455",
+        "created_at": "2026-09-19T10:41:40.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101260430182142455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realDonaldTrum…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/realDonaldTrump/status/2101101979808493780",
+              "start": 29,
+              "url": "https://t.co/izma5M8FJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101260430182142455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101101979808493780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一眼直接看成特朗普拿下来格陵兰了\n特朗普大赢经太伟大了 https://t.co/izma5M8FJD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "25073877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration has concluded, marking the transition to the 47th administration. The president and vice president were sworn in and participated in official ceremonies.\n",
+              "id": "1881365603878871040",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          }
+        ],
+        "conversation_id": "2101101979808493780",
+        "created_at": "2026-09-19T00:12:03.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101101979808493780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101101979808493780",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29321,
+          "impression_count": 41493564,
+          "like_count": 311636,
+          "quote_count": 7361,
+          "reply_count": 19778,
+          "retweet_count": 38035
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101260430182142455",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 471,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1473
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-18T13:46:38.000Z",
+        "description": "45th & 47th President of the United States of America🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "end": 23,
+                "expanded_url": "http://DonaldJTrump.com",
+                "start": 0,
+                "url": "https://t.co/mjKdTvQzae"
+              }
+            ]
+          }
+        },
+        "id": "25073877",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101101979808493780",
+        "name": "Donald J. Trump",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111808109,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 130534,
+          "media_count": 5414,
+          "tweet_count": 59868
+        },
+        "url": "https://t.co/mjKdTvQzae",
+        "username": "realDonaldTrump",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

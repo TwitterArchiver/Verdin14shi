@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103811564168217068",
+    "created_at": "2026-09-26T14:40:39.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103857288180269348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990368873632436224",
+          "start": 0,
+          "username": "lil_tea_cpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103857288180269348",
+    "in_reply_to_user_id": "1990368873632436224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103811564168217068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil_tea_cpp 我每天吃螺内酯160mg还多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103811564168217068",
+        "created_at": "2026-09-26T14:40:39.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103857288180269348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990368873632436224",
+              "start": 0,
+              "username": "lil_tea_cpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103857288180269348",
+        "in_reply_to_user_id": "1990368873632436224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103811564168217068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil_tea_cpp 我每天吃螺内酯160mg还多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990368873632436224",
+        "conversation_id": "2103811564168217068",
+        "created_at": "2026-09-26T11:38:58.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103811564168217068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103811564168217068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "螺内酯是傻逼吧, 色普龙隔天 12.5mg 就能压 t 压的很好, 螺内酯每天 3t 都压不住, 加到每天 5t 了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103857288180269348",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 568,
+          "like_count": 1638,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1824
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T10:38:23.000Z",
+        "description": "she/her. 无证不含糖上胶.\ninfp. 双相 + adhd + bpd.\nsuper coder; trash rapper.\n支持 lgbtq 及更多性少数.\nemail: lil.tea.cpp@gmail.com\ncrush: @22IeNFZZX434715\n怎么追一个 ptsd 啊喂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 121,
+                "username": "22IeNFZZX434715"
+              }
+            ]
+          }
+        },
+        "id": "1990368873632436224",
+        "is_identity_verified": false,
+        "location": "0531 jinan city",
+        "most_recent_tweet_id": "2103837106271551982",
+        "name": "lil_tea🍥",
+        "pinned_tweet_id": "2072919946846470346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990368873632436224/1786183551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098846514810699776/bKU9exnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 391,
+          "like_count": 17430,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "lil_tea_cpp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

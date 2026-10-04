@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105299385575965054",
+    "created_at": "2026-10-01T04:07:39.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105509924872880633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105509924872880633",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105299385575965054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3075,
+        "media_key": "3_2105299369931210752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeGn2KagAAT3L0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105299385575965054",
+        "created_at": "2026-10-01T04:07:39.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105509924872880633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105509924872880633",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105299385575965054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105299369931210752"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2105299385575965054",
+        "created_at": "2026-09-30T14:11:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105299385575965054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLPjsnJLEs",
+              "end": 44,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2105299385575965054/photo/1",
+              "media_key": "3_2105299369931210752",
+              "start": 21,
+              "url": "https://t.co/fLPjsnJLEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105299385575965054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105299369931210752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀弹习惯真钢以后感觉电钢手感好怪。。。 https://t.co/fLPjsnJLEs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105509924872880633",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 635,
+          "like_count": 2263,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜不od｜不自残｜没双相｜日语学习中｜喜欢猫｜互fo请私信喵",
+        "id": "1417099624922370056",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2105481457968001342",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2080936502813667648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417099624922370056/1768251713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 489,
+          "like_count": 58378,
+          "listed_count": 3,
+          "media_count": 1656,
+          "tweet_count": 10660
+        },
+        "url": "",
+        "username": "XinGZiSaMa_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

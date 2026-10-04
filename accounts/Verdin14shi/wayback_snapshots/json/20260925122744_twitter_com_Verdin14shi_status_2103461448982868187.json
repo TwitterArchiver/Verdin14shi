@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2103461448982868187",
+    "created_at": "2026-09-25T12:27:44.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103461448982868187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jo_kouyo/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jo_kouyo/status/2060322153338441807",
+          "start": 7,
+          "url": "https://t.co/p8yKIXn0Ue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103461448982868187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060322153338441807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶你怎么死了 https://t.co/p8yKIXn0Ue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060322145100771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe8Ey2aMAAW3gK.jpg",
+        "width": 1423
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060322145113448448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe8Ey5boAAiGvB.jpg",
+        "width": 1423
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060322145109176320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe8Ey4acAAcCYr.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2103461448982868187",
+        "created_at": "2026-09-25T12:27:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103461448982868187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jo_kouyo/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jo_kouyo/status/2060322153338441807",
+              "start": 7,
+              "url": "https://t.co/p8yKIXn0Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103461448982868187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060322153338441807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶你怎么死了 https://t.co/p8yKIXn0Ue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060322145100771328",
+            "3_2060322145113448448",
+            "3_2060322145109176320"
+          ]
+        },
+        "author_id": "1447912248580530180",
+        "conversation_id": "2060322153338441807",
+        "created_at": "2026-05-29T11:27:34.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060322153338441807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIaswhZI5u",
+              "end": 50,
+              "expanded_url": "https://x.com/jo_kouyo/status/2060322153338441807/photo/1",
+              "media_key": "3_2060322145100771328",
+              "start": 27,
+              "url": "https://t.co/nIaswhZI5u"
+            },
+            {
+              "display_url": "pic.x.com/nIaswhZI5u",
+              "end": 50,
+              "expanded_url": "https://x.com/jo_kouyo/status/2060322153338441807/photo/1",
+              "media_key": "3_2060322145113448448",
+              "start": 27,
+              "url": "https://t.co/nIaswhZI5u"
+            },
+            {
+              "display_url": "pic.x.com/nIaswhZI5u",
+              "end": 50,
+              "expanded_url": "https://x.com/jo_kouyo/status/2060322153338441807/photo/1",
+              "media_key": "3_2060322145109176320",
+              "start": 27,
+              "url": "https://t.co/nIaswhZI5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060322153338441807",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2060322145100771328"
+          },
+          {
+            "media_key": "3_2060322145113448448"
+          },
+          {
+            "media_key": "3_2060322145109176320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 33940,
+          "like_count": 22,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "今回の件について申し訳ありませんが、コメントしません https://t.co/nIaswhZI5u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103461448982868187",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 523,
+          "like_count": 1425,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-12T13:10:50.000Z",
+        "description": "籍貫山西省大同市陽高県東雙寨/内モンゴル自治区出身/大同党党首/浩予合同会社社長/一般社团法人熱海日中友好協会会長/熱海土石流被災者/著書自伝『土砂涅槃』/ドキュメンタリー『瓦礫の中で見つけた希望』『この世の終わりだった』出演/小説『まだ掴めない星』登場/放送大学学士・修士/問い合わせは手紙👉熱海市伊豆山1079-5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jokouyo.mods.jp",
+                "end": 23,
+                "expanded_url": "https://jokouyo.mods.jp/",
+                "start": 0,
+                "url": "https://t.co/hhDJKO8na9"
+              }
+            ]
+          }
+        },
+        "id": "1447912248580530180",
+        "is_identity_verified": false,
+        "location": "熱海市伊豆山1079-5",
+        "most_recent_tweet_id": "2099607006760018296",
+        "name": "徐浩予",
+        "pinned_tweet_id": "2026904875385368978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447912248580530180/1782050487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068872967170469888/GlhUSSrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9081,
+          "following_count": 2,
+          "like_count": 144,
+          "listed_count": 323,
+          "media_count": 439,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/hhDJKO8na9",
+        "username": "jo_kouyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

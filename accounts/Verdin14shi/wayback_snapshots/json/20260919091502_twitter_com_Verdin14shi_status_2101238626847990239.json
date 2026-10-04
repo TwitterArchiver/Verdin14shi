@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101227942273855640",
+    "created_at": "2026-09-19T09:15:02.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101238626847990239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018248488773898240",
+          "start": 0,
+          "username": "Box3_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101238626847990239",
+    "in_reply_to_user_id": "2018248488773898240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101227942273855640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_ji 别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101227927337881600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkPqska0AAXlsr.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101227942273855640",
+        "created_at": "2026-09-19T09:15:02.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101238626847990239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018248488773898240",
+              "start": 0,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101238626847990239",
+        "in_reply_to_user_id": "2018248488773898240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101227942273855640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_ji 别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101227927337881600"
+          ]
+        },
+        "author_id": "2018248488773898240",
+        "conversation_id": "2101227942273855640",
+        "created_at": "2026-09-19T08:32:35.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101227942273855640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFYwFCLhRB",
+              "end": 30,
+              "expanded_url": "https://x.com/Box3_ji/status/2101227942273855640/photo/1",
+              "media_key": "3_2101227927337881600",
+              "start": 7,
+              "url": "https://t.co/CFYwFCLhRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101227942273855640",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101227927337881600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺不得劲…… https://t.co/CFYwFCLhRB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101238626847990239",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 470,
+          "like_count": 1060,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:02:14.000Z",
+        "description": "🩵泥豪_❛˓◞˂̵✧🩷社恐致歉🤍无证含糖🍥（暂时中断）🩷双相🩵\n🩵生产日期2012.4.6🩷无政府主义者🤍亚文化🩷自残🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=ZeTpSjwa4ka1vEsW",
+                "start": 0,
+                "url": "https://t.co/MA2EkR4Tyu"
+              }
+            ]
+          }
+        },
+        "id": "2018248488773898240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101237835584135176",
+        "name": "Box🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2098679365189976462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018248488773898240/1789314183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092930234664574976/i9QCz-sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 60,
+          "like_count": 160,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/MA2EkR4Tyu",
+        "username": "Box3_ji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

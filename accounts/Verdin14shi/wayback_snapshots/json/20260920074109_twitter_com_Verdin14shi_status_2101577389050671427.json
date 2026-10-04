@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101482313188311226",
+    "created_at": "2026-09-20T07:41:09.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101577389050671427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "HongSwor"
+        },
+        {
+          "end": 22,
+          "id": "2073000442796343296",
+          "start": 10,
+          "username": "Awaiting316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101577389050671427",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101576818805428706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HongSwor @Awaiting316 有群吗捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101482313188311226",
+        "created_at": "2026-09-20T07:41:09.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101577389050671427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "HongSwor"
+            },
+            {
+              "end": 22,
+              "id": "2073000442796343296",
+              "start": 10,
+              "username": "Awaiting316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101577389050671427",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101576818805428706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HongSwor @Awaiting316 有群吗捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2101482313188311226",
+        "created_at": "2026-09-20T07:38:53.000Z",
+        "display_text_range": [
+          26,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101576818805428706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            },
+            {
+              "end": 25,
+              "id": "2073000442796343296",
+              "start": 13,
+              "username": "Awaiting316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101576818805428706",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101576639239110815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi @Awaiting316 是的，青岛是山东性少数高地"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101577389050671427",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 494,
+          "like_count": 1149,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "你好｜个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/城乡规划/美学/卡迷 | 颜色偏好：绿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gDAaF"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2101576818805428706",
+        "name": "葉栩然",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1789652485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099011438476181504/mKkQneHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 493,
+          "like_count": 43051,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 10701
+        },
+        "url": "https://t.co/Y9Zk1gDAaF",
+        "username": "HongSwor",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T11:08:51.000Z",
+        "description": "‼️🆘今天也快坏掉了呢💕‼️\n叫咱Lina喵🤍/是坏女孩是小药娘哦\n交朋友呀^^/\n呜呜…想o想割…/保质期不长了哦🚨\nCreated 2009.3.16/无证🍥2026.7.12\n疑似小蝴蝶🦋/高二基本休学？/未出柜\n学画画🎨＆伪音ing/业余摄影/HiFi",
+        "id": "2073000442796343296",
+        "is_identity_verified": false,
+        "location": "深圳/济南……？",
+        "most_recent_tweet_id": "2101544017972646197",
+        "name": "Lina阴天营业中🏳️‍🌈 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073000442796343296/1783797651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073001323684036608/uuw4MxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 789,
+          "like_count": 9116,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Awaiting316",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

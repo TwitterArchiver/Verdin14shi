@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2105801163656544713",
+    "created_at": "2026-10-01T23:24:55.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T00:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105801163656544713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kusuriawa/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Kusuriawa/status/2105737603433803880",
+          "start": 15,
+          "url": "https://t.co/vP4PJ6wFOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105801163656544713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105737603433803880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芙宁娜娜比李老师还区我说白了 https://t.co/vP4PJ6wFOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2105737592256000000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkVLvia8AAoQi_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2105801163656544713",
+        "created_at": "2026-10-01T23:24:55.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105801163656544713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kusuriawa/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Kusuriawa/status/2105737603433803880",
+              "start": 15,
+              "url": "https://t.co/vP4PJ6wFOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105801163656544713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105737603433803880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芙宁娜娜比李老师还区我说白了 https://t.co/vP4PJ6wFOG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105737592256000000"
+          ]
+        },
+        "author_id": "2081779662104236032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2105737603433803880",
+        "created_at": "2026-10-01T19:12:22.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105737603433803880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sw3MUOldhl",
+              "end": 39,
+              "expanded_url": "https://x.com/Kusuriawa/status/2105737603433803880/photo/1",
+              "media_key": "3_2105737592256000000",
+              "start": 16,
+              "url": "https://t.co/Sw3MUOldhl"
+            },
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2105608455201628279",
+              "start": 40,
+              "url": "https://t.co/Mhxjm6VFQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105737603433803880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105737592256000000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 376,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105608455201628279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盗视频还删评\n芙宁娜娜你是人吗 https://t.co/Sw3MUOldhl https://t.co/Mhxjm6VFQz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105801163656544713",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 638,
+          "like_count": 2314,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2074
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T16:33:40.000Z",
+        "description": "ワタシは誰か？\nSecond account: @KusuriSecond",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "KusuriSecond"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusuriawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Kusuriawa",
+                "start": 0,
+                "url": "https://t.co/jop92rDtDb"
+              }
+            ]
+          }
+        },
+        "id": "2081779662104236032",
+        "is_identity_verified": false,
+        "location": "230519120525",
+        "most_recent_tweet_id": "2105738338930229336",
+        "name": "Kusuri",
+        "pinned_tweet_id": "2103090331042668696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081779662104236032/1790381599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103638247461335040/T2g7_wog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 398,
+          "like_count": 2379,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/jop92rDtDb",
+        "username": "Kusuriawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

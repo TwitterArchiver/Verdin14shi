@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2105549670336602262",
+    "created_at": "2026-10-01T06:45:35.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T07:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105549670336602262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CCaalifornia/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/CCaalifornia/status/2104910135441453112",
+          "start": 35,
+          "url": "https://t.co/6PIzo17pn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105549670336602262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104910135441453112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雇佣兵不受国际法保护吧\n如果是志愿的那确实钦佩哦但是我觉得很可能不是 https://t.co/6PIzo17pn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2104910094546968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYklCWbIAAW-sp.jpg",
+        "width": 837
+      },
+      {
+        "height": 880,
+        "media_key": "3_2104910109633904640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYkl6jbgAAgf7_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2104910122686525440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYkmrLasAAPsP4.jpg",
+        "width": 1574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2105549670336602262",
+        "created_at": "2026-10-01T06:45:35.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105549670336602262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCaalifornia/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/CCaalifornia/status/2104910135441453112",
+              "start": 35,
+              "url": "https://t.co/6PIzo17pn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105549670336602262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104910135441453112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雇佣兵不受国际法保护吧\n如果是志愿的那确实钦佩哦但是我觉得很可能不是 https://t.co/6PIzo17pn0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104910094546968576",
+            "3_2104910109633904640",
+            "3_2104910122686525440"
+          ]
+        },
+        "author_id": "1510298100446871554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2104910135441453112",
+        "created_at": "2026-09-29T12:24:18.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104910135441453112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdBzkfi38F",
+              "end": 173,
+              "expanded_url": "https://x.com/CCaalifornia/status/2104910135441453112/photo/1",
+              "media_key": "3_2104910094546968576",
+              "start": 150,
+              "url": "https://t.co/LdBzkfi38F"
+            },
+            {
+              "display_url": "pic.x.com/LdBzkfi38F",
+              "end": 173,
+              "expanded_url": "https://x.com/CCaalifornia/status/2104910135441453112/photo/1",
+              "media_key": "3_2104910109633904640",
+              "start": 150,
+              "url": "https://t.co/LdBzkfi38F"
+            },
+            {
+              "display_url": "pic.x.com/LdBzkfi38F",
+              "end": 173,
+              "expanded_url": "https://x.com/CCaalifornia/status/2104910135441453112/photo/1",
+              "media_key": "3_2104910122686525440",
+              "start": 150,
+              "url": "https://t.co/LdBzkfi38F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104910135441453112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104910094546968576"
+          },
+          {
+            "media_key": "3_2104910109633904640"
+          },
+          {
+            "media_key": "3_2104910122686525440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 293260,
+          "like_count": 1086,
+          "quote_count": 17,
+          "reply_count": 319,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "[习近平，请向普京讨个说法——俄军将被俘的中国志愿者砍头，在简中圈炸锅]\n此中国志愿者叫谭震，是第54独立侦察营无人机操作员\n9月23日执行任务时与两乌军战友一起被俘\n他拒绝透露部队情报,遭斩首处决\n乌军在夺回阵地后找到他的遗体\n战友“装甲尼禄”透露,其父母已同意儿子埋葬在乌克兰的日托米尔军人公墓 https://t.co/LdBzkfi38F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105549670336602262",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 635,
+          "like_count": 2284,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-02T16:48:54.000Z",
+        "description": "本賬號主要關注俄烏戰爭，觀點多元，善惡分明",
+        "id": "1510298100446871554",
+        "is_identity_verified": false,
+        "location": "臺灣",
+        "most_recent_tweet_id": "2105518674543284633",
+        "name": "W_News",
+        "pinned_tweet_id": "2000930526560182419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510298100446871554/1774348364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066091328203583488/2g3P3-Zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20436,
+          "following_count": 250,
+          "like_count": 11446,
+          "listed_count": 79,
+          "media_count": 4105,
+          "tweet_count": 4527
+        },
+        "url": "",
+        "username": "CCaalifornia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2106013386018566627",
+    "created_at": "2026-10-03T04:53:32.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106246249339081024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090250101088481280",
+          "start": 0,
+          "username": "songjinanheliba"
+        },
+        {
+          "end": 28,
+          "id": "2065814331250651136",
+          "start": 17,
+          "username": "RenChanXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106246249339081024",
+    "in_reply_to_user_id": "2090250101088481280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106025560657031496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songjinanheliba @RenChanXoX 不能一概而论的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2106013386018566627",
+        "created_at": "2026-10-03T04:53:32.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106246249339081024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090250101088481280",
+              "start": 0,
+              "username": "songjinanheliba"
+            },
+            {
+              "end": 28,
+              "id": "2065814331250651136",
+              "start": 17,
+              "username": "RenChanXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106246249339081024",
+        "in_reply_to_user_id": "2090250101088481280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106025560657031496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songjinanheliba @RenChanXoX 不能一概而论的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090250101088481280",
+        "conversation_id": "2106013386018566627",
+        "created_at": "2026-10-02T14:16:36.000Z",
+        "display_text_range": [
+          12,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106025560657031496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065814331250651136",
+              "start": 0,
+              "username": "RenChanXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106025560657031496",
+        "in_reply_to_user_id": "2065814331250651136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106013386018566627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanXoX 我觉得他说的是对的吧 之前看太宰治的一篇文章说过如果一个人真的想死的话不会让任何人知道的 只会安安静静地离开世界 再被人发现 如果是一些大张旗鼓地比如说给别人发小作文或者在公共场合上高楼大概率都是带着目的性和威胁性的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号里推）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2106246249339081024",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106201384022663168/uXmowPAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 677,
+          "like_count": 2471,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2132
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T01:31:33.000Z",
+        "description": "",
+        "id": "2090250101088481280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106025560657031496",
+        "name": "Libai",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "songjinanheliba",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T15:12:55.000Z",
+        "description": "@RenChanT_T ⬅️💗follow me\n这是我的三代目👀\nI want to make more friends🥰\nFXXK U Elon Musk🤮👎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "RenChanT_T"
+              }
+            ]
+          }
+        },
+        "id": "2065814331250651136",
+        "is_identity_verified": false,
+        "location": "China🇨🇳",
+        "most_recent_tweet_id": "2106207294396813762",
+        "name": "東洋ノ蓮華🌹🏳️‍🌈",
+        "pinned_tweet_id": "2104468264592277959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065814331250651136/1787919873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104469909090746368/ta9XXRx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 331,
+          "like_count": 5387,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "RenChanXoX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

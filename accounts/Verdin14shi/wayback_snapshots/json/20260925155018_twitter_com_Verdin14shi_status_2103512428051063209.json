@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101185807201780036",
+    "created_at": "2026-09-25T15:50:18.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103512428051063209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781643863125602304",
+          "start": 0,
+          "username": "C22H18O110321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103512428051063209",
+    "in_reply_to_user_id": "1781643863125602304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101185807201780036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C22H18O110321 为自己的爱好啊，其实可以喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2101185807201780036].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2101185807201780036",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2101185807201780036"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101185807201780036",
+        "created_at": "2026-09-25T15:50:18.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103512428051063209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781643863125602304",
+              "start": 0,
+              "username": "C22H18O110321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103512428051063209",
+        "in_reply_to_user_id": "1781643863125602304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101185807201780036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C22H18O110321 为自己的爱好啊，其实可以喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2103512428051063209",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 529,
+          "like_count": 1464,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T11:19:45.000Z",
+        "description": "然而我只是一个呆逼",
+        "id": "1781643863125602304",
+        "is_identity_verified": false,
+        "location": "上海市精神卫生中心",
+        "most_recent_tweet_id": "2094355657017503979",
+        "name": "C₂₂H₁₈O₁₁",
+        "pinned_tweet_id": "2008547886724964545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781643863125602304/1753894471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017977782735863808/O-EBrrmX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 564,
+          "like_count": 13100,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "C22H18O110321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

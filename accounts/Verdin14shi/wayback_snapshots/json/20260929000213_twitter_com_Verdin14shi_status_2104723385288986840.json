@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104594595422273600",
+    "created_at": "2026-09-29T00:02:13.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T01:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104723385288986840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971027114582474752",
+          "start": 0,
+          "username": "Kanataqqq0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104723385288986840",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104594595422273600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanataqqq0221 怎么啦……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104594595422273600",
+        "created_at": "2026-09-29T00:02:13.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104723385288986840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104723385288986840",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104594595422273600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 怎么啦……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971027114582474752",
+        "conversation_id": "2104594595422273600",
+        "created_at": "2026-09-28T15:30:27.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104594595422273600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104594595422273600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说什么想一直做朋友也是骗我的吧，你从来都是骗我的吧，为什么要这样子，我恨你我恨你我恨你。。。。\n快点去死啊。。。。\n我宁愿从来都没有认识过你。\n反正就算是约定也可以随便销毁吧，啊哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2104723385288986840",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 599,
+          "like_count": 1910,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1935
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16130丨內容混亂丨R18垢@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\nご主人@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 105,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2104627952478826551",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2102379208341331995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099279016662532096/UAny72Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 413,
+          "like_count": 3637,
+          "listed_count": 5,
+          "media_count": 492,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

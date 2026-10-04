@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2101314743436988488",
+    "created_at": "2026-09-19T14:39:37.000Z",
+    "display_text_range": [
+      17,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101320310595473815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101320310595473815",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101320032844407273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy 会毁容吧（虽然自己也不好看就是了\n爆炸也是一种美吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2101314743436988488",
+        "created_at": "2026-09-19T14:39:37.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101320310595473815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101320310595473815",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101320032844407273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy 会毁容吧（虽然自己也不好看就是了\n爆炸也是一种美吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096992990338469889",
+        "conversation_id": "2101314743436988488",
+        "created_at": "2026-09-19T14:38:31.000Z",
+        "display_text_range": [
+          13,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101320032844407273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101320032844407273",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101317658746769890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 我对坠楼感到恐惧。如果可以的话，就对准脑干开枪，这样死去才没有痛苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2101320310595473815",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 483,
+          "like_count": 1115,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1504
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "さようなら。もう二度と関わらない。\n\n双相情感障碍（躁狂抑郁症）大学休学中。\n我很需要钱，QQ3994542199。\n\n社交媒体只使用Twitter和QQ。",
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2101320032844407273",
+        "name": "イソトピー🌈",
+        "pinned_tweet_id": "2100838478187725263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1789474853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099817069206482944/O6nPRHdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 235,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040516492479823872",
+    "conversation_id": "2104838588634698006",
+    "created_at": "2026-09-29T23:42:53.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105080906533019959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105080906533019959",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104838588634698006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 诡异"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2104838552748236800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXjgwYbIAAiRAh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1983,
+        "media_key": "3_2104838575372251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXjiEqaMAA25KG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040516492479823872",
+        "conversation_id": "2104838588634698006",
+        "created_at": "2026-09-29T23:42:53.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105080906533019959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105080906533019959",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104838588634698006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 诡异"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104838552748236800",
+            "3_2104838575372251136"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2104838588634698006",
+        "created_at": "2026-09-29T07:40:00.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104838588634698006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "378 likes, 0 comments - chineserainbownetwork on September 28, 2026: \"🥊 上海外滩美术馆一楼，三只白、粉、浅蓝条纹的沙袋悬在半空。 这是日裔波多黎各跨性别艺术家 Puppies Puppies（Jade Guanaro Kuriki-Olivo）为外滩美术馆委托创作《Defense》（2026）。展厅被布置成一间真正能用的拳击馆：沙袋、橡胶地垫、卧推凳，大屏幕上是一位跨性别巴西柔术教练在教学员拳击、泰拳和柔术防身。墙上还挂着十套防身工具包，从哨子、防狼喷雾到追踪器、破窗器。 作品属于外滩美术馆2026暑期群展「幽斯帕利斯：或，一些微小的自我实践」（Youth Palace），以”少年宫“为灵感，把美术馆变成临时的公共学习空间，展期6月1日至9月20日，现已闭幕。 作品在社交媒体上引发了不少讨论。有网友感叹，跨性别元素能出现在上海核心区的公共美术馆，还是展览第一站；也有人觉得，沙袋这种”可以被击打“的形式，本身就留下了多重解读的空间。一位网友的评论很精准：”一个沙袋，各自表述。“ 但据看展网友反映，这件作品的展签里，”跨性别“三个字并没有直接出现，而是用了拼音缩写”KXB“来指代。 #chineserainbownetwork #crn华人彩虹联盟\".",
+              "display_url": "instagram.com/p/Dd1XIt4TvdE/…",
+              "end": 61,
+              "expanded_url": "https://www.instagram.com/p/Dd1XIt4TvdE/?stkn=MWkxNzF6MnNrOGN6aw==",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2104973248782041088/T9hpHoru?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104973248782041088/T9hpHoru?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Chinese Rainbow Network 华人彩虹联盟 (@chineserainbownetwork) • Instagram photo",
+              "unwound_url": "https://www.instagram.com/p/Dd1XIt4TvdE/",
+              "url": "https://t.co/rsdjbRE0xL"
+            },
+            {
+              "display_url": "pic.x.com/4zmwJemAZe",
+              "end": 85,
+              "expanded_url": "https://x.com/zza2ku/status/2104838588634698006/photo/1",
+              "media_key": "3_2104838552748236800",
+              "start": 62,
+              "url": "https://t.co/4zmwJemAZe"
+            },
+            {
+              "display_url": "pic.x.com/4zmwJemAZe",
+              "end": 85,
+              "expanded_url": "https://x.com/zza2ku/status/2104838588634698006/photo/1",
+              "media_key": "3_2104838575372251136",
+              "start": 62,
+              "url": "https://t.co/4zmwJemAZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104838588634698006",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104838552748236800"
+          },
+          {
+            "media_key": "3_2104838575372251136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9480,
+          "like_count": 127,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“有网友感叹，跨性别元素能够出现在上海核心区的公共美术馆，还是展览第一站”\nhttps://t.co/rsdjbRE0xL https://t.co/4zmwJemAZe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13 175l63kg 双性恋 烟台入 mtf 青岛上学 此账号为善良人格，不知何时病变  我会关注所有有趣或可怜可爱的人喵，你们的灵魂我很喜欢 中度抑郁与中度焦虑？（现在好多了）\n马克思人本主义/民主社会主义\n名字翻译过来叫星野柚咲\n偶像是停电前夜，想成为电姐姐一样的人",
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2105080906533019959",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 618,
+          "like_count": 2114,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民社，无糖mtf\n女友：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Box3_jilil"
+              }
+            ]
+          }
+        },
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105077967076663778",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2102647711380197847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1789967218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 157,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 1091
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
